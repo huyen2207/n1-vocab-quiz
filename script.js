@@ -1,5 +1,5 @@
 // 資料: Bai1_徹底トレーニング_語彙N1.md の単語データ（全126語）
-const VOCAB = [
+const VOCAB_BAI1_RAW = [
   { stt: 1, kanji: "維持", yomi: "いじ", meaning: "duy trì" },
   { stt: 2, kanji: "意図", yomi: "いと", meaning: "ý đồ / mục đích" },
   { stt: 3, kanji: "寄附", yomi: "きふ", meaning: "quyên góp / gửi tặng" },
@@ -128,7 +128,158 @@ const VOCAB = [
   { stt: 126, kanji: "和語", yomi: "わご", meaning: "tiếng Nhật" },
 ];
 
-const SOURCE_NAME = "Bai1_徹底トレーニング_語彙N1.md";
+// 資料: Bai2 - 徹底トレーニング語彙N1_Bai2.csv の単語データ（全140語）
+const VOCAB_BAI2_RAW = [
+  { stt: 127, kanji: "移行", yomi: "いこう", meaning: "chuyển tiếp / di trú" },
+  { stt: 128, kanji: "委託", yomi: "いたく", meaning: "ủy thác" },
+  { stt: 129, kanji: "違反", yomi: "いはん", meaning: "vi phạm" },
+  { stt: 130, kanji: "依頼", yomi: "いらい", meaning: "nhờ cậy / yêu cầu" },
+  { stt: 131, kanji: "汚染", yomi: "おせん", meaning: "ô nhiễm" },
+  { stt: 132, kanji: "加減", yomi: "かげん", meaning: "điều chỉnh / tăng giảm" },
+  { stt: 133, kanji: "企画", yomi: "きかく", meaning: "kế hoạch" },
+  { stt: 134, kanji: "棄権", yomi: "きけん", meaning: "bỏ phiếu trắng" },
+  { stt: 135, kanji: "記載", yomi: "きさい", meaning: "ghi chép / viết" },
+  { stt: 136, kanji: "規制", yomi: "きせい", meaning: "quy chế" },
+  { stt: 137, kanji: "偽造", yomi: "ぎぞう", meaning: "làm giả / ngụy tạo" },
+  { stt: 138, kanji: "誤解", yomi: "ごかい", meaning: "hiểu lầm / hiểu sai" },
+  { stt: 139, kanji: "故障", yomi: "こしょう", meaning: "hỏng hóc" },
+  { stt: 140, kanji: "誇張", yomi: "こちょう", meaning: "khoa trương / phóng đại" },
+  { stt: 141, kanji: "雇用", yomi: "こよう", meaning: "tuyển dụng" },
+  { stt: 142, kanji: "孤立", yomi: "こりつ", meaning: "cô lập" },
+  { stt: 143, kanji: "作用", yomi: "さよう", meaning: "tác dụng" },
+  { stt: 144, kanji: "飼育", yomi: "しいく", meaning: "chăn nuôi" },
+  { stt: 145, kanji: "自覚", yomi: "じかく", meaning: "tự giác" },
+  { stt: 146, kanji: "志向", yomi: "しこう", meaning: "chí hướng" },
+  { stt: 147, kanji: "思考", yomi: "しこう", meaning: "suy nghĩ" },
+  { stt: 148, kanji: "施行", yomi: "しこう", meaning: "thực hiện / thi hành" },
+  { stt: 149, kanji: "試行", yomi: "しこう", meaning: "thử nghiệm" },
+  { stt: 150, kanji: "視察", yomi: "しさつ", meaning: "thị sát" },
+  { stt: 151, kanji: "辞退", yomi: "じたい", meaning: "từ chức / từ chối" },
+  { stt: 152, kanji: "指摘", yomi: "してき", meaning: "chỉ trích" },
+  { stt: 153, kanji: "自慢", yomi: "じまん", meaning: "tự mãn" },
+  { stt: 154, kanji: "謝罪", yomi: "しゃざい", meaning: "tạ tội" },
+  { stt: 155, kanji: "謝絶", yomi: "しゃぜつ", meaning: "cự tuyệt / từ chối" },
+  { stt: 156, kanji: "修行", yomi: "しゅぎょう", meaning: "tu nghiệp / tu hành" },
+  { stt: 157, kanji: "主張", yomi: "しゅちょう", meaning: "chủ trương" },
+  { stt: 158, kanji: "主導", yomi: "しゅどう", meaning: "chủ đạo" },
+  { stt: 159, kanji: "樹立", yomi: "じゅりつ", meaning: "thành lập" },
+  { stt: 160, kanji: "助言", yomi: "じょげん", meaning: "lời khuyên" },
+  { stt: 161, kanji: "処罰", yomi: "しょばつ", meaning: "xử phạt" },
+  { stt: 162, kanji: "署名", yomi: "しょめい", meaning: "chữ kí / đề tên" },
+  { stt: 163, kanji: "所有", yomi: "しょゆう", meaning: "sở hữu" },
+  { stt: 164, kanji: "是正", yomi: "ぜせい", meaning: "sửa cho đúng" },
+  { stt: 165, kanji: "訴訟", yomi: "そしょう", meaning: "kiện tụng / thưa kiện" },
+  { stt: 166, kanji: "打開", yomi: "だかい", meaning: "công phá / vượt qua" },
+  { stt: 167, kanji: "妥協", yomi: "だきょう", meaning: "thỏa hiệp" },
+  { stt: 168, kanji: "把握", yomi: "はあく", meaning: "nắm bắt" },
+  { stt: 169, kanji: "派遣", yomi: "はけん", meaning: "phái cử" },
+  { stt: 170, kanji: "避難", yomi: "ひなん", meaning: "lánh nạn / tị nạn" },
+  { stt: 171, kanji: "非難", yomi: "ひなん", meaning: "chỉ trích / phê bình" },
+  { stt: 172, kanji: "披露", yomi: "ひろう", meaning: "công khai / tuyên bố" },
+  { stt: 173, kanji: "疲労", yomi: "ひろう", meaning: "mệt mỏi" },
+  { stt: 174, kanji: "普及", yomi: "ふきゅう", meaning: "phổ biến / phổ cập" },
+  { stt: 175, kanji: "負傷", yomi: "ふしょう", meaning: "bị thương" },
+  { stt: 176, kanji: "侮辱", yomi: "ぶじょく", meaning: "lăng mạ / sỉ nhục" },
+  { stt: 177, kanji: "負担", yomi: "ふたん", meaning: "gánh vác" },
+  { stt: 178, kanji: "赴任", yomi: "ふにん", meaning: "nhận chức" },
+  { stt: 179, kanji: "腐敗", yomi: "ふはい", meaning: "phân hủy / thối nát / mục nát" },
+  { stt: 180, kanji: "扶養", yomi: "ふよう", meaning: "cấp dưỡng" },
+  { stt: 181, kanji: "保管", yomi: "ほかん", meaning: "bảo quản" },
+  { stt: 182, kanji: "補充", yomi: "ほじゅう", meaning: "bổ sung" },
+  { stt: 183, kanji: "保障", yomi: "ほしょう", meaning: "bảo đảm" },
+  { stt: 184, kanji: "補償", yomi: "ほしょう", meaning: "bồi thường" },
+  { stt: 185, kanji: "募集", yomi: "ぼしゅう", meaning: "chiêu mộ / tuyển tập" },
+  { stt: 186, kanji: "摩擦", yomi: "まさつ", meaning: "ma sát" },
+  { stt: 187, kanji: "矛盾", yomi: "むじゅん", meaning: "mâu thuẫn / bất hòa" },
+  { stt: 188, kanji: "模索", yomi: "もさく", meaning: "tìm kiếm / dò dẫm" },
+  { stt: 189, kanji: "移住", yomi: "いじゅう", meaning: "di trú" },
+  { stt: 190, kanji: "依存", yomi: "いぞん", meaning: "dựa vào / phụ thuộc" },
+  { stt: 191, kanji: "異動", yomi: "いどう", meaning: "dời chỗ" },
+  { stt: 192, kanji: "化合", yomi: "かごう", meaning: "hợp chất hóa học" },
+  { stt: 193, kanji: "加入", yomi: "かにゅう", meaning: "gia nhập" },
+  { stt: 194, kanji: "議決", yomi: "ぎけつ", meaning: "nghị quyết" },
+  { stt: 195, kanji: "記述", yomi: "きじゅつ", meaning: "viết / mô tả" },
+  { stt: 196, kanji: "寄贈", yomi: "きぞう", meaning: "tặng / biếu" },
+  { stt: 197, kanji: "規定", yomi: "きてい", meaning: "quy định" },
+  { stt: 198, kanji: "居住", yomi: "きょじゅう", meaning: "cư trú / sinh sống" },
+  { stt: 199, kanji: "拒絶", yomi: "きょぜつ", meaning: "cự tuyệt / từ chối" },
+  { stt: 200, kanji: "許容", yomi: "きょよう", meaning: "chấp nhận / cho phép" },
+  { stt: 201, kanji: "区画", yomi: "くかく", meaning: "khu đất / ngăn chia" },
+  { stt: 202, kanji: "護衛", yomi: "ごえい", meaning: "bảo vệ / hộ tống" },
+  { stt: 203, kanji: "死刑", yomi: "しけい", meaning: "tử hình" },
+  { stt: 204, kanji: "辞職", yomi: "じしょく", meaning: "từ chức" },
+  { stt: 205, kanji: "持続", yomi: "じぞく", meaning: "tiếp tục / kéo dài" },
+  { stt: 206, kanji: "志望", yomi: "しぼう", meaning: "nguyện vọng" },
+  { stt: 207, kanji: "始末", yomi: "しまつ", meaning: "kết cục / tiết kiệm" },
+  { stt: 208, kanji: "主催", yomi: "しゅさい", meaning: "tổ chức / chủ trì" },
+  { stt: 209, kanji: "取材", yomi: "しゅざい", meaning: "lấy thông tin" },
+  { stt: 210, kanji: "所属", yomi: "しょぞく", meaning: "thuộc về" },
+  { stt: 211, kanji: "除外", yomi: "じょがい", meaning: "ngoại trừ" },
+  { stt: 212, kanji: "徐行", yomi: "じょこう", meaning: "giảm tốc độ / hãm lại" },
+  { stt: 213, kanji: "処分", yomi: "しょぶん", meaning: "xử lý / vứt bỏ" },
+  { stt: 214, kanji: "自立", yomi: "じりつ", meaning: "tự lập" },
+  { stt: 215, kanji: "指令", yomi: "しれい", meaning: "mệnh lệnh / chỉ thị" },
+  { stt: 216, kanji: "妥結", yomi: "だけつ", meaning: "thỏa thuận" },
+  { stt: 217, kanji: "貯蓄", yomi: "ちょちく", meaning: "tiết kiệm (tiền)" },
+  { stt: 218, kanji: "治療", yomi: "ちりょう", meaning: "điều trị" },
+  { stt: 219, kanji: "破壊", yomi: "はかい", meaning: "phá hoại" },
+  { stt: 220, kanji: "破損", yomi: "はそん", meaning: "hư tổn" },
+  { stt: 221, kanji: "破裂", yomi: "はれつ", meaning: "phá vỡ" },
+  { stt: 222, kanji: "悲観", yomi: "ひかん", meaning: "bi quan" },
+  { stt: 223, kanji: "否決", yomi: "ひけつ", meaning: "phủ quyết" },
+  { stt: 224, kanji: "微笑", yomi: "びしょう", meaning: "mỉm cười" },
+  { stt: 225, kanji: "比例", yomi: "ひれい", meaning: "tỉ lệ" },
+  { stt: 226, kanji: "布告", yomi: "ふこく", meaning: "tuyên bố / bố cáo" },
+  { stt: 227, kanji: "武装", yomi: "ぶそう", meaning: "vũ trang" },
+  { stt: 228, kanji: "捕獲", yomi: "ほかく", meaning: "giành được / bắt được" },
+  { stt: 229, kanji: "補給", yomi: "ほきゅう", meaning: "cung cấp thêm" },
+  { stt: 230, kanji: "募金", yomi: "ぼきん", meaning: "tiền quyên góp" },
+  { stt: 231, kanji: "舗装", yomi: "ほそう", meaning: "lát đường" },
+  { stt: 232, kanji: "補足", yomi: "ほそく", meaning: "bổ sung" },
+  { stt: 233, kanji: "保養", yomi: "ほよう", meaning: "bảo dưỡng" },
+  { stt: 234, kanji: "模倣", yomi: "もほう", meaning: "mô phỏng" },
+  { stt: 235, kanji: "預金", yomi: "よきん", meaning: "tiền gửi ngân hàng" },
+  { stt: 236, kanji: "予言", yomi: "よげん", meaning: "nói trước / điềm báo trước" },
+  { stt: 237, kanji: "移植", yomi: "いしょく", meaning: "cấy / ghép" },
+  { stt: 238, kanji: "遺伝", yomi: "いでん", meaning: "di truyền" },
+  { stt: 239, kanji: "会釈", yomi: "えしゃく", meaning: "cúi đầu / cúi chào" },
+  { stt: 240, kanji: "祈願", yomi: "きがん", meaning: "nguyện cầu / cầu khấn" },
+  { stt: 241, kanji: "棄却", yomi: "ききゃく", meaning: "bác bỏ" },
+  { stt: 242, kanji: "偽装", yomi: "ぎそう", meaning: "ngụy trang / cải trang" },
+  { stt: 243, kanji: "解毒", yomi: "げどく", meaning: "giải độc" },
+  { stt: 244, kanji: "懸念", yomi: "けねん", meaning: "lo lắng" },
+  { stt: 245, kanji: "下落", yomi: "げらく", meaning: "sụt giảm" },
+  { stt: 246, kanji: "個室", yomi: "こしつ", meaning: "phòng riêng" },
+  { stt: 247, kanji: "挫折", yomi: "ざせつ", meaning: "sụp đổ / thất bại" },
+  { stt: 248, kanji: "左遷", yomi: "させん", meaning: "giáng chức" },
+  { stt: 249, kanji: "作動", yomi: "さどう", meaning: "tác động" },
+  { stt: 250, kanji: "自炊", yomi: "じすい", meaning: "tự nấu" },
+  { stt: 251, kanji: "自重", yomi: "じちょう", meaning: "tự trọng" },
+  { stt: 252, kanji: "遮断", yomi: "しゃだん", meaning: "ngắt / làm gián đoạn" },
+  { stt: 253, kanji: "授与", yomi: "じゅよ", meaning: "trao tặng" },
+  { stt: 254, kanji: "受領", yomi: "じゅりょう", meaning: "nhận lãnh" },
+  { stt: 255, kanji: "是認", yomi: "ぜにん", meaning: "tán thành / chấp nhận" },
+  { stt: 256, kanji: "疎外", yomi: "そがい", meaning: "xa lánh / ghẻ lạnh" },
+  { stt: 257, kanji: "阻害", yomi: "そがい", meaning: "cản trở / trở ngại" },
+  { stt: 258, kanji: "遅延", yomi: "ちえん", meaning: "trì hoãn" },
+  { stt: 259, kanji: "波及", yomi: "はきゅう", meaning: "lan rộng" },
+  { stt: 260, kanji: "破綻", yomi: "はたん", meaning: "sụp đổ / phá sản" },
+  { stt: 261, kanji: "破滅", yomi: "はめつ", meaning: "tiêu tan / đổ nát" },
+  { stt: 262, kanji: "批准", yomi: "ひじゅん", meaning: "phê chuẩn" },
+  { stt: 263, kanji: "浮上", yomi: "ふじょう", meaning: "nổi lên / trồi lên" },
+  { stt: 264, kanji: "魅惑", yomi: "みわく", meaning: "quyến rũ / mê hoặc" },
+  { stt: 265, kanji: "癒着", yomi: "ゆちゃく", meaning: "dính chặt / liền lại" },
+  { stt: 266, kanji: "由来", yomi: "ゆらい", meaning: "nguồn gốc / gốc gác" },
+];
+
+const SOURCE_NAMES = {
+  1: "Bai1_徹底トレーニング_語彙N1.md",
+  2: "Bai2 - 徹底トレーニング語彙N1_Bai2.csv",
+};
+
+const VOCAB_BAI1 = VOCAB_BAI1_RAW.map((w) => ({ ...w, bai: 1, source: SOURCE_NAMES[1] }));
+const VOCAB_BAI2 = VOCAB_BAI2_RAW.map((w) => ({ ...w, bai: 2, source: SOURCE_NAMES[2] }));
+const VOCAB_ALL = [...VOCAB_BAI1, ...VOCAB_BAI2];
 
 const QUESTION_TYPES = ["kanji-yomi", "kanji-meaning", "meaning-kanji"];
 const TYPE_LABEL = {
@@ -137,6 +288,7 @@ const TYPE_LABEL = {
   "meaning-kanji": "ベトナム語 → 漢字",
 };
 
+let selectedRange = "both";
 let selectedCount = 5;
 let selectedType = "mixed";
 let quizItems = [];
@@ -145,13 +297,21 @@ let score = 0;
 let answered = false;
 let history = [];
 
+const RANGE_POOL = {
+  bai1: VOCAB_BAI1,
+  bai2: VOCAB_BAI2,
+  both: VOCAB_ALL,
+};
+
 const startScreen = document.getElementById("start-screen");
 const quizScreen = document.getElementById("quiz-screen");
 const resultScreen = document.getElementById("result-screen");
 
+const rangeOptions = document.getElementById("range-options");
 const countOptions = document.getElementById("count-options");
 const typeOptions = document.getElementById("type-options");
 const startBtn = document.getElementById("start-btn");
+const allCountBtn = countOptions.querySelector('[data-count="all"]');
 
 const progressFill = document.getElementById("progress-fill");
 const progressText = document.getElementById("progress-text");
@@ -190,8 +350,18 @@ function setupOptionGroup(container, dataAttr, onSelect, defaultValue) {
   });
 }
 
+function updateAllCountLabel() {
+  allCountBtn.textContent = `全${RANGE_POOL[selectedRange].length}問`;
+}
+
+setupOptionGroup(rangeOptions, "range", (v) => {
+  selectedRange = v;
+  updateAllCountLabel();
+}, "both");
 setupOptionGroup(countOptions, "count", (v) => (selectedCount = v), "5");
 setupOptionGroup(typeOptions, "type", (v) => (selectedType = v), "mixed");
+
+updateAllCountLabel();
 
 startBtn.addEventListener("click", startQuiz);
 retryBtn.addEventListener("click", () => {
@@ -199,8 +369,8 @@ retryBtn.addEventListener("click", () => {
   startScreen.classList.remove("hidden");
 });
 
-function buildQuestion(word, type) {
-  const others = VOCAB.filter((w) => w.stt !== word.stt);
+function buildQuestion(word, type, pool) {
+  const others = pool.filter((w) => w.stt !== word.stt);
 
   if (type === "kanji-yomi") {
     const distractors = shuffle(others.filter((w) => w.yomi !== word.yomi)).slice(0, 3);
@@ -239,14 +409,15 @@ function buildQuestion(word, type) {
 }
 
 function startQuiz() {
-  const count = selectedCount === "all" ? VOCAB.length : parseInt(selectedCount, 10);
-  const words = shuffle(VOCAB).slice(0, count);
+  const pool = RANGE_POOL[selectedRange];
+  const count = selectedCount === "all" ? pool.length : parseInt(selectedCount, 10);
+  const words = shuffle(pool).slice(0, count);
 
   quizItems = words.map((word) => {
     const type = selectedType === "mixed"
       ? QUESTION_TYPES[Math.floor(Math.random() * QUESTION_TYPES.length)]
       : selectedType;
-    return buildQuestion(word, type);
+    return buildQuestion(word, type, pool);
   });
 
   currentIndex = 0;
@@ -306,7 +477,7 @@ function selectAnswer(button, choice) {
   feedbackResult.className = `feedback-result ${isCorrect ? "correct" : "wrong"}`;
   feedbackExplain.textContent =
     `${w.kanji}（${w.yomi}）= ${w.meaning}　` +
-    `【${SOURCE_NAME} STT ${w.stt}番より】`;
+    `【${w.source} STT ${w.stt}番より】`;
   feedbackEl.classList.remove("hidden");
 
   history.push({
@@ -346,7 +517,7 @@ function showResult() {
       <div class="r-answer">
         あなたの答え: ${h.userAnswer} ${h.isCorrect ? "" : `／ 正解: ${h.correctAnswer}`}
         — ${h.word.kanji}（${h.word.yomi}）= ${h.word.meaning}
-        【${SOURCE_NAME} STT ${h.word.stt}番より】
+        【${h.word.source} STT ${h.word.stt}番より】
       </div>
     `;
     resultList.appendChild(div);

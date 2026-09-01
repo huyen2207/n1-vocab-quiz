@@ -5,15 +5,24 @@
 
 <div class="app">
   <header class="app-header">
-    <h1>N1語彙クイズ <span class="subtitle">徹底トレーニング Bai1</span></h1>
+    <h1>N1語彙クイズ <span class="subtitle">徹底トレーニング Bai1・Bai2</span></h1>
   </header>
 
   <!-- スタート画面 -->
   <section id="start-screen" class="screen">
-    <p class="intro">
-      「徹底トレーニング 語彙N1 — Bài 1」の単語（全126語）から出題します。<br>
+    <p class="intro" id="intro-text">
+      「徹底トレーニング 語彙N1」の単語から出題します。<br>
       4択問題を1問ずつ解いていきましょう。
     </p>
+
+    <div class="option-group">
+      <label>出題範囲</label>
+      <div class="option-buttons" id="range-options">
+        <button type="button" class="option-btn" data-range="bai1">Bai1（126語）</button>
+        <button type="button" class="option-btn" data-range="bai2">Bai2（140語）</button>
+        <button type="button" class="option-btn" data-range="both">Bai1+Bai2（266語）</button>
+      </div>
+    </div>
 
     <div class="option-group">
       <label>出題数</label>
@@ -21,7 +30,7 @@
         <button type="button" class="option-btn" data-count="5">5問</button>
         <button type="button" class="option-btn" data-count="10">10問</button>
         <button type="button" class="option-btn" data-count="20">20問</button>
-        <button type="button" class="option-btn" data-count="all">全126問</button>
+        <button type="button" class="option-btn" data-count="all">全問</button>
       </div>
     </div>
 
