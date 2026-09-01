@@ -45,6 +45,11 @@
     </div>
 
     <button id="start-btn" class="primary-btn">クイズを始める</button>
+
+    <div id="flashcard-entry" class="flashcard-entry hidden">
+      <p id="flashcard-entry-text"></p>
+      <button id="flashcard-entry-btn" class="secondary-btn">苦手単語をフラッシュカードで復習する</button>
+    </div>
   </section>
 
   <!-- クイズ画面 -->
@@ -73,7 +78,38 @@
     <h2>結果</h2>
     <p id="result-score" class="result-score"></p>
     <div id="result-list" class="result-list"></div>
+    <button id="review-mistakes-btn" class="secondary-btn hidden">今回間違えた単語をフラッシュカードで復習する</button>
     <button id="retry-btn" class="primary-btn">もう一度挑戦する</button>
+  </section>
+
+  <!-- フラッシュカード画面 -->
+  <section id="flashcard-screen" class="screen hidden">
+    <p id="flashcard-progress" class="progress-text"></p>
+
+    <div id="flashcard" class="flashcard">
+      <div id="flashcard-inner" class="flashcard-inner">
+        <div class="flashcard-face flashcard-front">
+          <p class="flashcard-label">漢字（タップしてめくる）</p>
+          <h2 id="flashcard-kanji" class="flashcard-kanji"></h2>
+        </div>
+        <div class="flashcard-face flashcard-back">
+          <p id="flashcard-yomi" class="flashcard-yomi"></p>
+          <p id="flashcard-meaning" class="flashcard-meaning"></p>
+          <p id="flashcard-source" class="flashcard-source"></p>
+        </div>
+      </div>
+    </div>
+
+    <div id="flashcard-actions" class="flashcard-actions hidden">
+      <button id="fc-again-btn" class="fc-btn fc-again">まだ覚えてない</button>
+      <button id="fc-known-btn" class="fc-btn fc-known">覚えた！</button>
+    </div>
+
+    <div id="flashcard-complete" class="hidden">
+      <p id="flashcard-complete-text" class="result-score"></p>
+    </div>
+
+    <button id="fc-exit-btn" class="primary-btn fc-exit">トップに戻る</button>
   </section>
 </div>
 

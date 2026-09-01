@@ -132,6 +132,166 @@ body {
   cursor: not-allowed;
 }
 
+.secondary-btn {
+  display: block;
+  width: 100%;
+  padding: 13px;
+  border: 2px solid var(--accent);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--accent);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: all 0.15s ease;
+}
+
+.secondary-btn:hover {
+  background: var(--accent);
+  color: #fff;
+}
+
+.secondary-btn.hidden {
+  display: none;
+}
+
+.flashcard-entry {
+  margin-top: 22px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+  text-align: center;
+}
+
+.flashcard-entry.hidden {
+  display: none;
+}
+
+.flashcard-entry p {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin: 0 0 4px;
+}
+
+.flashcard {
+  perspective: 1200px;
+  width: 100%;
+  max-width: 420px;
+  height: 220px;
+  margin: 8px auto 24px;
+  cursor: pointer;
+}
+
+.flashcard.hidden {
+  display: none;
+}
+
+.flashcard-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.5s ease;
+  transform-style: preserve-3d;
+}
+
+.flashcard.flipped .flashcard-inner {
+  transform: rotateY(180deg);
+}
+
+.flashcard-face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  text-align: center;
+  background: var(--bg);
+}
+
+.flashcard-back {
+  transform: rotateY(180deg);
+  background: var(--correct-bg);
+}
+
+.flashcard-label {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  margin: 0 0 14px;
+}
+
+.flashcard-kanji {
+  font-size: 2.4rem;
+  margin: 0;
+  word-break: break-word;
+}
+
+.flashcard-yomi {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--correct);
+  margin: 0 0 8px;
+}
+
+.flashcard-meaning {
+  font-size: 1.1rem;
+  margin: 0 0 14px;
+}
+
+.flashcard-source {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.flashcard-actions {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.flashcard-actions.hidden {
+  display: none;
+}
+
+.fc-btn {
+  flex: 1;
+  padding: 14px 8px;
+  border-radius: 12px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.fc-again {
+  border: 1px solid var(--wrong);
+  background: var(--wrong-bg);
+  color: var(--wrong);
+}
+
+.fc-known {
+  border: 1px solid var(--correct);
+  background: var(--correct);
+  color: #fff;
+}
+
+.fc-exit {
+  background: var(--text-muted);
+}
+
+.fc-exit:hover {
+  background: var(--text);
+}
+
+#flashcard-complete.hidden {
+  display: none;
+}
+
 .progress-bar {
   height: 6px;
   background: var(--border);

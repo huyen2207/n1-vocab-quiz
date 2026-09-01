@@ -280,6 +280,37 @@ const SOURCE_NAMES = {
 const VOCAB_BAI1 = VOCAB_BAI1_RAW.map((w) => ({ ...w, bai: 1, source: SOURCE_NAMES[1] }));
 const VOCAB_BAI2 = VOCAB_BAI2_RAW.map((w) => ({ ...w, bai: 2, source: SOURCE_NAMES[2] }));
 const VOCAB_ALL = [...VOCAB_BAI1, ...VOCAB_BAI2];
+const VOCAB_BY_STT = new Map(VOCAB_ALL.map((w) => [w.stt, w]));
+
+// 間違えた単語はSTT番号だけをlocalStorageに保存し、フラッシュカード復習に使う
+const WRONG_WORDS_KEY = "n1QuizWrongWords";
+
+function loadWrongStts() {
+  try {
+    const raw = JSON.parse(localStorage.getItem(WRONG_WORDS_KEY));
+    return Array.isArray(raw) ? raw : [];
+  } catch {
+    return [];
+  }
+}
+
+function addWrongStt(stt) {
+  const set = new Set(loadWrongStts());
+  set.add(stt);
+  localStorage.setItem(WRONG_WORDS_KEY, JSON.stringify([...set]));
+}
+
+function removeWrongStt(stt) {
+  const set = new Set(loadWrongStts());
+  set.delete(stt);
+  localStorage.setItem(WRONG_WORDS_KEY, JSON.stringify([...set]));
+}
+
+function getWrongWords() {
+  return loadWrongStts()
+    .map((stt) => VOCAB_BY_STT.get(stt))
+    .filter(Boolean);
+}
 
 const QUESTION_TYPES = ["kanji-yomi", "kanji-meaning", "meaning-kanji"];
 const TYPE_LABEL = {
@@ -297,6 +328,11 @@ let score = 0;
 let answered = false;
 let history = [];
 
+let fcQueue = [];
+let fcTotal = 0;
+let fcKnownCount = 0;
+let fcFlipped = false;
+
 const RANGE_POOL = {
   bai1: VOCAB_BAI1,
   bai2: VOCAB_BAI2,
@@ -306,12 +342,22 @@ const RANGE_POOL = {
 const startScreen = document.getElementById("start-screen");
 const quizScreen = document.getElementById("quiz-screen");
 const resultScreen = document.getElementById("result-screen");
+const flashcardScreen = document.getElementById("flashcard-screen");
+const ALL_SCREENS = [startScreen, quizScreen, resultScreen, flashcardScreen];
+
+function showScreen(screen) {
+  ALL_SCREENS.forEach((s) => s.classList.toggle("hidden", s !== screen));
+}
 
 const rangeOptions = document.getElementById("range-options");
 const countOptions = document.getElementById("count-options");
 const typeOptions = document.getElementById("type-options");
 const startBtn = document.getElementById("start-btn");
 const allCountBtn = countOptions.querySelector('[data-count="all"]');
+
+const flashcardEntry = document.getElementById("flashcard-entry");
+const flashcardEntryText = document.getElementById("flashcard-entry-text");
+const flashcardEntryBtn = document.getElementById("flashcard-entry-btn");
 
 const progressFill = document.getElementById("progress-fill");
 const progressText = document.getElementById("progress-text");
@@ -325,7 +371,21 @@ const nextBtn = document.getElementById("next-btn");
 
 const resultScore = document.getElementById("result-score");
 const resultList = document.getElementById("result-list");
+const reviewMistakesBtn = document.getElementById("review-mistakes-btn");
 const retryBtn = document.getElementById("retry-btn");
+
+const fcProgress = document.getElementById("flashcard-progress");
+const fcCard = document.getElementById("flashcard");
+const fcKanji = document.getElementById("flashcard-kanji");
+const fcYomi = document.getElementById("flashcard-yomi");
+const fcMeaning = document.getElementById("flashcard-meaning");
+const fcSource = document.getElementById("flashcard-source");
+const fcActions = document.getElementById("flashcard-actions");
+const fcAgainBtn = document.getElementById("fc-again-btn");
+const fcKnownBtn = document.getElementById("fc-known-btn");
+const fcComplete = document.getElementById("flashcard-complete");
+const fcCompleteText = document.getElementById("flashcard-complete-text");
+const fcExitBtn = document.getElementById("fc-exit-btn");
 
 function shuffle(arr) {
   const a = arr.slice();
@@ -365,8 +425,8 @@ updateAllCountLabel();
 
 startBtn.addEventListener("click", startQuiz);
 retryBtn.addEventListener("click", () => {
-  resultScreen.classList.add("hidden");
-  startScreen.classList.remove("hidden");
+  showScreen(startScreen);
+  refreshFlashcardEntry();
 });
 
 function buildQuestion(word, type, pool) {
@@ -424,9 +484,7 @@ function startQuiz() {
   score = 0;
   history = [];
 
-  startScreen.classList.add("hidden");
-  resultScreen.classList.add("hidden");
-  quizScreen.classList.remove("hidden");
+  showScreen(quizScreen);
 
   renderQuestion();
 }
@@ -473,6 +531,10 @@ function selectAnswer(button, choice) {
   });
 
   const w = item.word;
+  if (!isCorrect) {
+    addWrongStt(w.stt);
+  }
+
   feedbackResult.textContent = isCorrect ? "正解！" : "不正解";
   feedbackResult.className = `feedback-result ${isCorrect ? "correct" : "wrong"}`;
   feedbackExplain.textContent =
@@ -503,8 +565,7 @@ nextBtn.addEventListener("click", () => {
 
 function showResult() {
   progressFill.style.width = "100%";
-  quizScreen.classList.add("hidden");
-  resultScreen.classList.remove("hidden");
+  showScreen(resultScreen);
 
   resultScore.textContent = `${score} / ${quizItems.length} 問正解`;
 
@@ -522,4 +583,93 @@ function showResult() {
     `;
     resultList.appendChild(div);
   });
+
+  const roundMistakes = [...new Map(
+    history.filter((h) => !h.isCorrect).map((h) => [h.word.stt, h.word])
+  ).values()];
+
+  reviewMistakesBtn.classList.toggle("hidden", roundMistakes.length === 0);
+  reviewMistakesBtn.textContent = `今回間違えた単語をフラッシュカードで復習する（${roundMistakes.length}語）`;
+  reviewMistakesBtn.onclick = () => startFlashcards(roundMistakes);
+
+  refreshFlashcardEntry();
 }
+
+// ===== フラッシュカード =====
+
+function refreshFlashcardEntry() {
+  const words = getWrongWords();
+  flashcardEntry.classList.toggle("hidden", words.length === 0);
+  flashcardEntryText.textContent = `📇 苦手単語: ${words.length}語が復習待ちです`;
+}
+
+flashcardEntryBtn.addEventListener("click", () => startFlashcards(getWrongWords()));
+
+function startFlashcards(words) {
+  if (words.length === 0) return;
+  fcQueue = shuffle(words);
+  fcTotal = fcQueue.length;
+  fcKnownCount = 0;
+
+  fcComplete.classList.add("hidden");
+  fcCard.classList.remove("hidden");
+  fcActions.classList.remove("hidden");
+  fcExitBtn.classList.remove("hidden");
+
+  showScreen(flashcardScreen);
+  renderFlashcard();
+}
+
+function renderFlashcard() {
+  if (fcQueue.length === 0) {
+    fcCard.classList.add("hidden");
+    fcActions.classList.add("hidden");
+    fcProgress.textContent = "";
+    fcComplete.classList.remove("hidden");
+    fcCompleteText.textContent = `お疲れさまでした！ ${fcKnownCount} / ${fcTotal} 語を覚えました。`;
+    refreshFlashcardEntry();
+    return;
+  }
+
+  fcFlipped = false;
+  fcCard.classList.remove("flipped");
+  fcActions.classList.add("hidden");
+
+  const w = fcQueue[0];
+  fcProgress.textContent = `覚えた ${fcKnownCount} / ${fcTotal}　（残り ${fcQueue.length} 枚）`;
+  fcKanji.textContent = w.kanji;
+  fcYomi.textContent = w.yomi;
+  fcMeaning.textContent = w.meaning;
+  fcSource.textContent = `【${w.source} STT ${w.stt}番より】`;
+}
+
+fcCard.addEventListener("click", () => {
+  if (fcQueue.length === 0) return;
+  fcFlipped = !fcFlipped;
+  fcCard.classList.toggle("flipped", fcFlipped);
+  if (fcFlipped) {
+    fcActions.classList.remove("hidden");
+  }
+});
+
+fcAgainBtn.addEventListener("click", (e) => {
+  e.stopPropagation();
+  const w = fcQueue.shift();
+  fcQueue.push(w);
+  renderFlashcard();
+});
+
+fcKnownBtn.addEventListener("click", (e) => {
+  e.stopPropagation();
+  const w = fcQueue.shift();
+  fcKnownCount++;
+  removeWrongStt(w.stt);
+  renderFlashcard();
+});
+
+fcExitBtn.addEventListener("click", () => {
+  showScreen(startScreen);
+  refreshFlashcardEntry();
+});
+
+refreshFlashcardEntry();
