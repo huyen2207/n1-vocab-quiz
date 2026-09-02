@@ -192,6 +192,22 @@ body {
   margin: 0 0 4px;
 }
 
+.mastery-info {
+  margin-top: 14px;
+  text-align: center;
+}
+
+.mastery-info.hidden {
+  display: none;
+}
+
+.mastery-info p {
+  color: var(--correct);
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin: 0;
+}
+
 .flashcard {
   perspective: 1200px;
   width: 100%;
@@ -419,6 +435,7 @@ body {
   color: var(--text-muted);
   line-height: 1.6;
   margin: 0 0 16px;
+  white-space: pre-line;
 }
 
 .result-score {

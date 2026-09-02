@@ -138,6 +138,68 @@ async function getWrongWords() {
   return words;
 }
 
+// ===== 学習履歴（連続正解による習得管理） =====
+// 同じ単語に5回連続で正解すると「習得済み」とみなし、1ヶ月間は出題しない。
+
+const MASTERY_KEY = "n1QuizMastery";
+const MASTERY_STREAK_TARGET = 5;
+const MASTERY_HIDE_DAYS = 30;
+const MASTERY_HIDE_MS = MASTERY_HIDE_DAYS * 24 * 60 * 60 * 1000;
+
+function loadMastery() {
+  try {
+    const raw = JSON.parse(localStorage.getItem(MASTERY_KEY));
+    return raw && typeof raw === "object" ? raw : {};
+  } catch {
+    return {};
+  }
+}
+
+function saveMastery(map) {
+  localStorage.setItem(MASTERY_KEY, JSON.stringify(map));
+}
+
+function getMasteryEntry(stt) {
+  const map = loadMastery();
+  return map[stt] || { streak: 0, hiddenUntil: 0 };
+}
+
+function isMastered(stt) {
+  const entry = getMasteryEntry(stt);
+  return entry.hiddenUntil > Date.now();
+}
+
+// 正解/不正解を記録し、5連続正解になったかどうかを返す
+function recordMasteryAnswer(stt, isCorrect) {
+  const map = loadMastery();
+  const entry = map[stt] || { streak: 0, hiddenUntil: 0 };
+
+  if (isCorrect) {
+    entry.streak = (entry.streak || 0) + 1;
+    if (entry.streak >= MASTERY_STREAK_TARGET) {
+      entry.streak = 0;
+      entry.hiddenUntil = Date.now() + MASTERY_HIDE_MS;
+      map[stt] = entry;
+      saveMastery(map);
+      removeWrongStt(stt);
+      return { justMastered: true, streak: 0 };
+    }
+  } else {
+    entry.streak = 0;
+    entry.hiddenUntil = 0;
+  }
+
+  map[stt] = entry;
+  saveMastery(map);
+  return { justMastered: false, streak: entry.streak };
+}
+
+function countMasteredWords() {
+  const map = loadMastery();
+  const now = Date.now();
+  return Object.values(map).filter((e) => e.hiddenUntil > now).length;
+}
+
 // ===== 出題範囲（グループ）定義 =====
 
 let RANGE_DEFS = {};
@@ -210,6 +272,9 @@ const allCountBtn = countOptions.querySelector('[data-count="all"]');
 const flashcardEntry = document.getElementById("flashcard-entry");
 const flashcardEntryText = document.getElementById("flashcard-entry-text");
 const flashcardEntryBtn = document.getElementById("flashcard-entry-btn");
+
+const masteryInfo = document.getElementById("mastery-info");
+const masteryInfoText = document.getElementById("mastery-info-text");
 
 const progressFill = document.getElementById("progress-fill");
 const progressText = document.getElementById("progress-text");
@@ -309,7 +374,10 @@ async function startQuiz() {
   startBtn.disabled = true;
   startBtn.textContent = "読み込み中...";
 
-  const pool = await loadChapters(RANGE_DEFS[selectedRangeId].chapters);
+  const fullPool = await loadChapters(RANGE_DEFS[selectedRangeId].chapters);
+  const available = fullPool.filter((w) => !isMastered(w.stt));
+  // 習得済みの単語を除いた結果、選択肢を作れないほど少なくなった場合は全体プールにフォールバックする
+  const pool = available.length >= 4 ? available : fullPool;
   const count = selectedCount === "all" ? pool.length : Math.min(parseInt(selectedCount, 10), pool.length);
   const words = shuffle(pool).slice(0, count);
 
@@ -376,12 +444,19 @@ function selectAnswer(button, choice) {
   if (!isCorrect) {
     addWrongStt(w.stt);
   }
+  const mastery = recordMasteryAnswer(w.stt, isCorrect);
 
   feedbackResult.textContent = isCorrect ? "正解！" : "不正解";
   feedbackResult.className = `feedback-result ${isCorrect ? "correct" : "wrong"}`;
-  feedbackExplain.textContent =
+  let explain =
     `${w.kanji}（${w.yomi}）= ${w.meaning}　` +
     `【${w.source} STT ${w.stt}番より】`;
+  if (mastery.justMastered) {
+    explain += `\n🎉 ${MASTERY_STREAK_TARGET}回連続正解！ 習得済みとして今後${MASTERY_HIDE_DAYS}日間は出題されません。`;
+  } else if (isCorrect) {
+    explain += `\n連続正解 ${mastery.streak} / ${MASTERY_STREAK_TARGET}`;
+  }
+  feedbackExplain.textContent = explain;
   feedbackEl.classList.remove("hidden");
 
   history.push({
@@ -435,6 +510,7 @@ function showResult() {
   reviewMistakesBtn.onclick = () => startFlashcards(roundMistakes);
 
   refreshFlashcardEntry();
+  refreshMasteryInfo();
 }
 
 // ===== フラッシュカード =====
@@ -443,6 +519,12 @@ async function refreshFlashcardEntry() {
   const words = await getWrongWords();
   flashcardEntry.classList.toggle("hidden", words.length === 0);
   flashcardEntryText.textContent = `📇 苦手単語: ${words.length}語が復習待ちです`;
+}
+
+function refreshMasteryInfo() {
+  const count = countMasteredWords();
+  masteryInfo.classList.toggle("hidden", count === 0);
+  masteryInfoText.textContent = `✅ 習得済み: ${count}語（1ヶ月間は出題されません）`;
 }
 
 flashcardEntryBtn.addEventListener("click", async () => {
@@ -515,12 +597,14 @@ fcKnownBtn.addEventListener("click", (e) => {
 fcExitBtn.addEventListener("click", () => {
   showScreen(startScreen);
   refreshFlashcardEntry();
+  refreshMasteryInfo();
 });
 
 startBtn.addEventListener("click", startQuiz);
 retryBtn.addEventListener("click", () => {
   showScreen(startScreen);
   refreshFlashcardEntry();
+  refreshMasteryInfo();
 });
 
 // ===== 初期化 =====
@@ -541,6 +625,7 @@ async function init() {
   startBtn.classList.remove("hidden");
 
   refreshFlashcardEntry();
+  refreshMasteryInfo();
 }
 
 init();
