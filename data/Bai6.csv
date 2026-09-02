@@ -1,0 +1,135 @@
+STT,漢字,音（漢越）,読み方,意味
+684,影響,ẢNH HƯỞNG,えいきょう,ảnh hưởng
+685,介護,GIỚI HỘ,かいご,điều dưỡng
+686,回収,HỒI THU,かいしゅう,thu hồi
+687,改修,CẢI TU,かいしゅう,cải tiến
+688,解消,GIẢI TIÊU,かいしょう,hủy bỏ
+689,概説,KHÁI THUYẾT,がいせつ,khái quát / tỳm lương
+690,改善,CẢI THỆN,かいぜん,cải thiện
+691,開拓,KHAI THÁC,かいたく,khai thác
+692,該当,CAI ĐƯƠNG,がいとう,tương thích / tương ứng / liên quan
+693,介入,GIỚI NHẬP,かいにゅう,can thiệp vào
+694,介抱,GIỚI BÃO,かいほう,trông nom / chăm sóc
+695,警戒,CẢNH GIỚI,けいかい,cảnh giác / đề phòng
+696,掲載,YẾT TẢI,けいさい,đăng bài / post
+697,継続,KẾ TỤC,けいぞく,thừa hưởng / tiếp tục
+698,携帯,HUỀ ĐỚI,けいたい,điện thoại
+699,契約,KHIẾT ƯỚC,けいやく,hợp đồng
+700,細工,TẾ CÔNG,さいく,thủ công / tác phẩm tinh xảo
+701,採択,THẢI TRẠCH,さいたく,chọn lựa (nghĩa hẹp hơn 選択)
+702,栽培,TÀI BỒI,さいばい,trồng trọt
+703,再発,TÁI PHÁT,さいはつ,tái diễn / tái phát
+704,推進,THÔI TIẾN,すいしん,đẩy mạnh / xúc tiến
+705,衰退,SUY THỐI,すいたい,suy thoái
+706,推理,THÔI LÝ,すいり,suy luận / lập luận
+707,制限,CHẾ HẠN,せいげん,giới hạn / hạn chế
+708,精算,TINH TOÁN,せいさん,tính toán tỉ mỉ
+709,盛装,THỊNH TRANG,せいそう,ăn diện (quần áo / trang phục)
+710,対処,ĐỐI XỨ,たいしょ,đối phó / ứng phó
+711,追放,TRUY PHÓNG,ついほう,trục xuất / bài trừ
+712,提案,ĐỀ ÁN,ていあん,đề xuất phương án
+713,定義,ĐỊNH NGHĨA,ていぎ,định nghĩa
+714,提供,ĐỀ CUNG,ていきょう,cung cấp / tài trợ
+715,提携,ĐỀ HUỀ,ていけい,hợp tác / liên kết
+716,抵抗,ĐỀ KHÁNG,ていこう,đề kháng / kháng cự
+717,停滞,ĐÌNH TRỆ,ていたい,đình trệ
+718,廃棄,PHẾ KHÍ,はいき,phế thải / tiêu hủy
+719,配慮,PHỐI LỰ,はいりょ,sự quan tâm chăm sóc
+720,閉鎖,BẾ TỎA,へいさ,phong tỏa / tạm dừng
+721,類似,LOẠI TỰ,るいじ,tương tự
+722,類推,LOẠI THÔI,るいすい,suy đoán / ước tính dựa trên sự thương đồng
+723,改革,CẢI CÁCH,かいかく,cải cán
+724,開催,KHAI THÔI,かいさい,tổ chức (lễ hội / sự kiện...)
+725,解除,KHAI TRỪ,かいじょ,hủy bỏ / miễn trừ / chấm dứt
+726,解剖,GIẢI PHẪU,かいぼう,mổ tử thi / mổ xẻ vấn đề
+727,回覧,HỒI LÃM,かいらん,luân chuyển / truyền tay nhau (tài liệu)
+728,経過,KINH QUA,けいか,trôi qua / trải qua (quá trình)
+729,軽減,KHINH GIẢM,けいげん,giảm nhẹ / giảm bớt
+730,傾斜,KHUYNH TÀ,けいしゃ,nghiêng
+731,軽蔑,KHINH MIỆT,けいべつ,miệt thị / khinh miệt
+732,採掘,THẢI QUẬT,さいくつ,khai thác / quật mỏ
+733,採決,THẢI QUYẾT,さいけつ,bỏ phiếu / biểu quyết
+734,再建,TÁI KIẾN,さいけん,tái thiết / xây dựng lại
+735,吹奏,XUY TẤU,すいそう,thổi nhạc cụ
+736,推測,THÔI TRẮC,すいそく,phán đoán / phỏng đoán
+737,静止,TĨNH CHỈ,せいし,giữ nguyên trạng thái đứng im
+738,成熟,THÀNH THỤC,せいじゅく,chín muồi / chín chến
+739,制定,CHẾ ĐỊNH,せいてい,ban hành
+740,征服,CHINH PHỤC,せいふく,chinh phục
+741,整列,CHỈNH LIỆT,せいれつ,xếp thành hàng / căn chỉnh
+742,退化,THỐI HÓA,たいか,thoái hóa
+743,体験,THỂ NGHIỆM,たいけん,trải nghiệm
+744,対抗,ĐỐI KHÁNG,たいこう,đối đầu
+745,退治,THỐI TRỊ,たいじ,tiêu diệt / triệt tiêu
+746,退職,THỐI CHỨC,たいしょく,nghỉ việc
+747,滞納,TRỆ NẠP,たいのう,nộp muộn / trễ
+748,対比,ĐỐI BỈ,たいひ,tương phản / đối xứng
+749,代弁,ĐẠI BIỆN,だいべん,thay mặt
+750,待望,ĐÃI VỌNG,たいぼう,kì vọng
+751,追求,THUY CẦU,ついきゅう,theo đuổi / tìm kiếm
+752,追跡,TRUY TÍCH,ついせき,truy tìm / theo dấu vết
+753,墜落,TRỤY LẠC,ついらく,rơi từ trên cao
+754,提示,ĐỀ KÌ,ていじ,xuất trình / đề xuất
+755,訂正,ĐÍNH CHÍNH,ていせい,sửa lại / đính chính
+756,配給,PHỐI CẤP,はいきゅう,phân phối
+757,廃止,PHẾ CHỈ,はいし,hủy bỏ
+758,拝借,BÁI TÁ,はいしゃく,mượn (khiêm nhường ngữ)
+759,排除,BÀI TRỪ,はいじょ,loại bỏ / trừ khử
+760,賠償,BỒI THƯỜNG,ばいしょう,bồi thường
+761,排水,BÀI THỦY,はいすい,nước thải
+762,配置,PHỐI TRÍ,はいち,bố trí
+763,配布,PHỐI BỐ,はいふ,phân phối / cung cấp
+764,敗北,BẠI BẮC,はいぼく,thua cuộc
+765,配列,PHỐI LIỆT,はいれつ,xếp hàng
+766,閉口,BẾ KHẨU,へいこう,khó khăn / im lặng / nín thinh
+767,並列,TỊNH LIỆT,へいれつ,song song
+768,埋蔵,MAI TÀNG,まいぞう,chôn cất
+769,命中,MỆNH TRUNG,めいちゅう,đánh trúng mục tiêu
+770,解雇,GIẢI CỐ,かいこ,sa thải
+771,回顧,HỒI CaẺD-8Ố,かいこ,hối tương / nhớ lại
+772,概疰,KHÁI TOÁN,がいさん,tính toán sơ
+773,誏消,GIẢI TIÊU,かいしょう,xóa bỏ / hủy bỏ
+774,改箉,CẢI TRÚC,かいちく,xéy dựng lại
+775,回避,HỒI TỊ,かいひ,tránh né
+776,開封,KHAI PHONG,かいふう,mở thư / bóc tem
+777,開幕,KHAI MẠC,かいまく,khai mạc
+778,迎合,NGHÊNH HỢP,げいごう,nắm được ý đối phương / hùa theo / xu nịnh
+779,継承,KẾ THỪA,けいしょう,kế thừa / thừa hưởng
+780,傾倒,KHUYNH ĐẢO,けいとう,cống hiến / dốục sức
+781,掲揚,YẾT ĐƯƠNG,けいよう,dương cờ
+782,裁決,TÀI QUYẾT,さいけつ,phán xử
+783,採取,THẢI THU,さいしゅ,thu thập / thu nhặt
+784,采配,THẢI PHỐI,さいはい,chỉ huy / điều phối
+785,推敲,THÔI XAO,すいこう,sự sửa lại (bản thảo)
+786,遂行,TOẠI HÀNH,すいこう,hoàn thành
+787,衰弱,SUY NHƯỢC,すいじゃく,suy yếu
+788,推奨,THÔI TƯỞNG,すいしょう,tán dương / khen thưởng
+789,制御,CHẾ NGỰ,せいぎょ,chế ngự / kiểm soát
+790,整頓,CHỈNH ĐỐN,せいとん,chỉnh đốn / sắp xếp
+791,制覇,CHẾ BÁ,せいは,thống trị
+792,誓約,THỆ ƯỚC,せいやく,thề ước
+793,待機,ĐÃI KI,たいき,chờ cơ hội
+794,退却,THỐI KHƯỚC,たいきゃく,rút lui / nghỉ việc
+795,対称,ĐỐI XỨNG,たいしょう,đối xứng
+796,堆積,ĐÔI TÍCH,たいせき,chồng chất
+797,退廃,THỐI PHẾ,たいはい,suy thoái
+798,追憶,TRUY ỨC,ついおく,nhớ lại
+799,追突,TRUY ĐỘT,ついとつ,tông từ sau
+800,締結,ĐẾ KẾT,ていけつ,kí kết
+801,抵触,ĐẾ XÚC,ていしょく,vi phạm (luật)
+802,提訴,ĐỀ TỐ,ていそ,kiện / tố cáo
+803,定着,ĐỊNH TRỨ,ていちゃく,phổ biến / có chỗ đứng vững chắc
+804,低迷,ĐÊ MÊ,ていめい,trì trệ / suy sụp / đi xuống
+805,内臓,NỘI TẠNG,ないぞう,nội tạng
+806,媒介,MÔI GIỚI,ばいかい,môi giới / truyền nhiễm
+807,売却,MẠI KHƯỚC,ばいきゃく,thanh lí / bán xả hàng
+808,買収,MÃI THU,ばいしゅう,thu mua lại
+809,排出,BÀI XUẤT,はいしゅつ,thải ra / xả thải
+810,廃絶,PHẾ TUYỆT,はいぜつ,phá hủy hoàn toàn / tuyệt diệt
+811,倍増,BỘI TĂNG,ばいぞう,tăng gấp đôi
+812,配属,PHỐI THUỘC,はいぞく,phân phối / cung cấp
+813,拝聴,BÁI THÍNH,はいちょう,nghe (kính ngữ)
+814,培養,BỒI DƯỠNG,ばいよう,bồi dưỡng
+815,併記,TÍNH KÝ,へいき,viết cạnh / sát nhau
+816,累積,XÚC TÍCH,るいせき,chất đống / tích tụ / tích lũy
+817,冷却,LÃNH KHƯỚC,れいきゃく,ướp lạnh

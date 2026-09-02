@@ -1,11 +1,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>N1語彙クイズ - Bai1</title>
+<title>N1語彙クイズ</title>
 <link rel="stylesheet" href="style.css">
 
 <div class="app">
   <header class="app-header">
-    <h1>N1語彙クイズ <span class="subtitle">徹底トレーニング Bai1・Bai2</span></h1>
+    <h1>N1語彙クイズ <span class="subtitle">徹底トレーニング Bai1〜68</span></h1>
   </header>
 
   <!-- スタート画面 -->
@@ -14,17 +14,14 @@
       「徹底トレーニング 語彙N1」の単語から出題します。<br>
       4択問題を1問ずつ解いていきましょう。
     </p>
+    <p id="loading-text" class="loading-text">単語データを読み込み中...</p>
 
-    <div class="option-group">
+    <div class="option-group hidden" id="range-group">
       <label>出題範囲</label>
-      <div class="option-buttons" id="range-options">
-        <button type="button" class="option-btn" data-range="bai1">Bai1（126語）</button>
-        <button type="button" class="option-btn" data-range="bai2">Bai2（140語）</button>
-        <button type="button" class="option-btn" data-range="both">Bai1+Bai2（266語）</button>
-      </div>
+      <div class="option-buttons" id="range-options"></div>
     </div>
 
-    <div class="option-group">
+    <div class="option-group hidden" id="count-group">
       <label>出題数</label>
       <div class="option-buttons" id="count-options">
         <button type="button" class="option-btn" data-count="5">5問</button>
@@ -34,7 +31,7 @@
       </div>
     </div>
 
-    <div class="option-group">
+    <div class="option-group hidden" id="type-group">
       <label>出題形式</label>
       <div class="option-buttons" id="type-options">
         <button type="button" class="option-btn" data-type="kanji-yomi">漢字→読み方</button>
@@ -44,7 +41,7 @@
       </div>
     </div>
 
-    <button id="start-btn" class="primary-btn">クイズを始める</button>
+    <button id="start-btn" class="primary-btn hidden">クイズを始める</button>
 
     <div id="flashcard-entry" class="flashcard-entry hidden">
       <p id="flashcard-entry-text"></p>

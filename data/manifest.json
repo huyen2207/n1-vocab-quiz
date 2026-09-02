@@ -1,0 +1,574 @@
+{
+  "chapters": [
+    {
+      "num": 1,
+      "file": "Bai1.csv",
+      "count": 126,
+      "startStt": 1,
+      "endStt": 126
+    },
+    {
+      "num": 2,
+      "file": "Bai2.csv",
+      "count": 140,
+      "startStt": 127,
+      "endStt": 266
+    },
+    {
+      "num": 3,
+      "file": "Bai3.csv",
+      "count": 141,
+      "startStt": 267,
+      "endStt": 407
+    },
+    {
+      "num": 4,
+      "file": "Bai4.csv",
+      "count": 145,
+      "startStt": 408,
+      "endStt": 552
+    },
+    {
+      "num": 5,
+      "file": "Bai5.csv",
+      "count": 131,
+      "startStt": 553,
+      "endStt": 683
+    },
+    {
+      "num": 6,
+      "file": "Bai6.csv",
+      "count": 134,
+      "startStt": 684,
+      "endStt": 817
+    },
+    {
+      "num": 7,
+      "file": "Bai7.csv",
+      "count": 104,
+      "startStt": 818,
+      "endStt": 921
+    },
+    {
+      "num": 8,
+      "file": "Bai8.csv",
+      "count": 169,
+      "startStt": 922,
+      "endStt": 1090
+    },
+    {
+      "num": 9,
+      "file": "Bai9.csv",
+      "count": 169,
+      "startStt": 1091,
+      "endStt": 1259
+    },
+    {
+      "num": 10,
+      "file": "Bai10.csv",
+      "count": 125,
+      "startStt": 1260,
+      "endStt": 1384
+    },
+    {
+      "num": 11,
+      "file": "Bai11.csv",
+      "count": 73,
+      "startStt": 1385,
+      "endStt": 1457
+    },
+    {
+      "num": 12,
+      "file": "Bai12.csv",
+      "count": 162,
+      "startStt": 1458,
+      "endStt": 1619
+    },
+    {
+      "num": 13,
+      "file": "Bai13.csv",
+      "count": 111,
+      "startStt": 1620,
+      "endStt": 1730
+    },
+    {
+      "num": 14,
+      "file": "Bai14.csv",
+      "count": 169,
+      "startStt": 1731,
+      "endStt": 1899
+    },
+    {
+      "num": 15,
+      "file": "Bai15.csv",
+      "count": 86,
+      "startStt": 1900,
+      "endStt": 1985
+    },
+    {
+      "num": 16,
+      "file": "Bai16.csv",
+      "count": 108,
+      "startStt": 1986,
+      "endStt": 2093
+    },
+    {
+      "num": 17,
+      "file": "Bai17.csv",
+      "count": 88,
+      "startStt": 2094,
+      "endStt": 2181
+    },
+    {
+      "num": 18,
+      "file": "Bai18.csv",
+      "count": 141,
+      "startStt": 2182,
+      "endStt": 2322
+    },
+    {
+      "num": 19,
+      "file": "Bai19.csv",
+      "count": 103,
+      "startStt": 2323,
+      "endStt": 2425
+    },
+    {
+      "num": 20,
+      "file": "Bai20.csv",
+      "count": 91,
+      "startStt": 2427,
+      "endStt": 2517
+    },
+    {
+      "num": 21,
+      "file": "Bai21.csv",
+      "count": 105,
+      "startStt": 2518,
+      "endStt": 2622
+    },
+    {
+      "num": 22,
+      "file": "Bai22.csv",
+      "count": 144,
+      "startStt": 2623,
+      "endStt": 2766
+    },
+    {
+      "num": 23,
+      "file": "Bai23.csv",
+      "count": 163,
+      "startStt": 2767,
+      "endStt": 2929
+    },
+    {
+      "num": 24,
+      "file": "Bai24.csv",
+      "count": 127,
+      "startStt": 2930,
+      "endStt": 3056
+    },
+    {
+      "num": 25,
+      "file": "Bai25.csv",
+      "count": 148,
+      "startStt": 3057,
+      "endStt": 3204
+    },
+    {
+      "num": 26,
+      "file": "Bai26.csv",
+      "count": 136,
+      "startStt": 3205,
+      "endStt": 3340
+    },
+    {
+      "num": 27,
+      "file": "Bai27.csv",
+      "count": 164,
+      "startStt": 3341,
+      "endStt": 3504
+    },
+    {
+      "num": 28,
+      "file": "Bai28.csv",
+      "count": 138,
+      "startStt": 3505,
+      "endStt": 3642
+    },
+    {
+      "num": 29,
+      "file": "Bai29.csv",
+      "count": 185,
+      "startStt": 3643,
+      "endStt": 3827
+    },
+    {
+      "num": 30,
+      "file": "Bai30.csv",
+      "count": 165,
+      "startStt": 3828,
+      "endStt": 3992
+    },
+    {
+      "num": 31,
+      "file": "Bai31.csv",
+      "count": 148,
+      "startStt": 3993,
+      "endStt": 4140
+    },
+    {
+      "num": 32,
+      "file": "Bai32.csv",
+      "count": 170,
+      "startStt": 4141,
+      "endStt": 4310
+    },
+    {
+      "num": 33,
+      "file": "Bai33.csv",
+      "count": 163,
+      "startStt": 4311,
+      "endStt": 4473
+    },
+    {
+      "num": 34,
+      "file": "Bai34.csv",
+      "count": 126,
+      "startStt": 4474,
+      "endStt": 4599
+    },
+    {
+      "num": 35,
+      "file": "Bai35.csv",
+      "count": 104,
+      "startStt": 4600,
+      "endStt": 4703
+    },
+    {
+      "num": 36,
+      "file": "Bai36.csv",
+      "count": 161,
+      "startStt": 4704,
+      "endStt": 4864
+    },
+    {
+      "num": 37,
+      "file": "Bai37.csv",
+      "count": 147,
+      "startStt": 4865,
+      "endStt": 5011
+    },
+    {
+      "num": 38,
+      "file": "Bai38.csv",
+      "count": 178,
+      "startStt": 5012,
+      "endStt": 5189
+    },
+    {
+      "num": 39,
+      "file": "Bai39.csv",
+      "count": 162,
+      "startStt": 5190,
+      "endStt": 5351
+    },
+    {
+      "num": 40,
+      "file": "Bai40.csv",
+      "count": 175,
+      "startStt": 5352,
+      "endStt": 5526
+    },
+    {
+      "num": 41,
+      "file": "Bai41.csv",
+      "count": 163,
+      "startStt": 5527,
+      "endStt": 5689
+    },
+    {
+      "num": 42,
+      "file": "Bai42.csv",
+      "count": 155,
+      "startStt": 5690,
+      "endStt": 5844
+    },
+    {
+      "num": 43,
+      "file": "Bai43.csv",
+      "count": 147,
+      "startStt": 5845,
+      "endStt": 5991
+    },
+    {
+      "num": 44,
+      "file": "Bai44.csv",
+      "count": 118,
+      "startStt": 5992,
+      "endStt": 6109
+    },
+    {
+      "num": 45,
+      "file": "Bai45.csv",
+      "count": 161,
+      "startStt": 6110,
+      "endStt": 6270
+    },
+    {
+      "num": 46,
+      "file": "Bai46.csv",
+      "count": 158,
+      "startStt": 6271,
+      "endStt": 6428
+    },
+    {
+      "num": 47,
+      "file": "Bai47.csv",
+      "count": 72,
+      "startStt": 6429,
+      "endStt": 6500
+    },
+    {
+      "num": 48,
+      "file": "Bai48.csv",
+      "count": 57,
+      "startStt": 6501,
+      "endStt": 6557
+    },
+    {
+      "num": 49,
+      "file": "Bai49.csv",
+      "count": 58,
+      "startStt": 6558,
+      "endStt": 6615
+    },
+    {
+      "num": 50,
+      "file": "Bai50.csv",
+      "count": 44,
+      "startStt": 6616,
+      "endStt": 6659
+    },
+    {
+      "num": 51,
+      "file": "Bai51.csv",
+      "count": 78,
+      "startStt": 6660,
+      "endStt": 6737
+    },
+    {
+      "num": 52,
+      "file": "Bai52.csv",
+      "count": 99,
+      "startStt": 6738,
+      "endStt": 6836
+    },
+    {
+      "num": 53,
+      "file": "Bai53.csv",
+      "count": 53,
+      "startStt": 6837,
+      "endStt": 6889
+    },
+    {
+      "num": 54,
+      "file": "Bai54.csv",
+      "count": 104,
+      "startStt": 6890,
+      "endStt": 6993
+    },
+    {
+      "num": 55,
+      "file": "Bai55.csv",
+      "count": 234,
+      "startStt": 6994,
+      "endStt": 7227
+    },
+    {
+      "num": 56,
+      "file": "Bai56.csv",
+      "count": 173,
+      "startStt": 7228,
+      "endStt": 7400
+    },
+    {
+      "num": 57,
+      "file": "Bai57.csv",
+      "count": 141,
+      "startStt": 7401,
+      "endStt": 7541
+    },
+    {
+      "num": 60,
+      "file": "Bai60.csv",
+      "count": 117,
+      "startStt": 7676,
+      "endStt": 7792
+    },
+    {
+      "num": 61,
+      "file": "Bai61.csv",
+      "count": 99,
+      "startStt": 7793,
+      "endStt": 7891
+    },
+    {
+      "num": 62,
+      "file": "Bai62.csv",
+      "count": 184,
+      "startStt": 7892,
+      "endStt": 8075
+    },
+    {
+      "num": 63,
+      "file": "Bai63.csv",
+      "count": 148,
+      "startStt": 8076,
+      "endStt": 8223
+    },
+    {
+      "num": 64,
+      "file": "Bai64.csv",
+      "count": 147,
+      "startStt": 8224,
+      "endStt": 8370
+    },
+    {
+      "num": 65,
+      "file": "Bai65.csv",
+      "count": 114,
+      "startStt": 8371,
+      "endStt": 8484
+    },
+    {
+      "num": 66,
+      "file": "Bai66.csv",
+      "count": 16,
+      "startStt": 8485,
+      "endStt": 8500
+    },
+    {
+      "num": 67,
+      "file": "Bai67.csv",
+      "count": 22,
+      "startStt": 8501,
+      "endStt": 8522
+    },
+    {
+      "num": 68,
+      "file": "Bai68.csv",
+      "count": 27,
+      "startStt": 8523,
+      "endStt": 8549
+    }
+  ],
+  "groups": [
+    {
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "label": "Bai1〜10"
+    },
+    {
+      "chapters": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "label": "Bai11〜20"
+    },
+    {
+      "chapters": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "label": "Bai21〜30"
+    },
+    {
+      "chapters": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "label": "Bai31〜40"
+    },
+    {
+      "chapters": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "label": "Bai41〜50"
+    },
+    {
+      "chapters": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        60,
+        61,
+        62
+      ],
+      "label": "Bai51〜62"
+    },
+    {
+      "chapters": [
+        63,
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "label": "Bai63〜68"
+    }
+  ],
+  "totalWords": 8414,
+  "missing": [
+    59
+  ],
+  "note": "Bai58はBai57と完全に重複していたため除外。STT 7542-7675相当の範囲はGoogle Drive上に見つからず欠落。"
+}

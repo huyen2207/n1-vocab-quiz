@@ -3,11 +3,11 @@
   --surface: #ffffff;
   --text: #2b2620;
   --text-muted: #77706a;
-  --accent: #b0492f;
-  --accent-dark: #8f3a25;
-  --correct: #2f7d4f;
-  --correct-bg: #e8f5ec;
-  --wrong: #b0492f;
+  --accent: #cb330c;
+  --accent-dark: #d73a13;
+  --correct: #07df61;
+  --correct-bg: #1f1e1f;
+  --wrong: #ee3f13;
   --wrong-bg: #fbeae6;
   --border: #e4ddd3;
   --radius: 14px;
@@ -69,8 +69,23 @@ body {
   margin-bottom: 24px;
 }
 
+.loading-text {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  text-align: center;
+  margin: 0 0 20px;
+}
+
+.loading-text.hidden {
+  display: none;
+}
+
 .option-group {
   margin-bottom: 20px;
+}
+
+.option-group.hidden {
+  display: none;
 }
 
 .option-group label {
@@ -130,6 +145,10 @@ body {
 .primary-btn:disabled {
   background: var(--border);
   cursor: not-allowed;
+}
+
+.primary-btn.hidden {
+  display: none;
 }
 
 .secondary-btn {
