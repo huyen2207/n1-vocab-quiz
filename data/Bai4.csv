@@ -2,14 +2,10 @@ STT,漢字,音（漢越）,読み方,意味
 408,暗算,ÁM TOÁN,あんざん,tính nhẩm
 409,暗示,ÁM THỊ,あんじ,gợi ý / góp ý
 410,隠居,ẨN CƯ,いんきょ,ở ẩn / về hưu
-411,運営,VẬN DOANH,うんえい,quản lí
 412,運搬,VẬN BAN,うんぱん,vận chuyển
 413,運用,VẬN DỤNG,うんよう,vận dụng
 414,演奏,DIỄN TẤU,えんそう,biểu diễn
 415,完結,HOÀN KẾT,かんけつ,kết thúc / hoàn thành
-416,看護,KHÁN HỘ,かんご,hộ lý
-417,干渉,CAN THIỆP,かんしょう,can thiệp
-418,感染,CẢM NHIỄM,かんせん,nhiễm
 419,監督,GIÁM ĐỐC,かんとく,quản lý / người điều hành
 420,勘弁,KHÁM BIỆN,かんべん,biện hộ / bào chữa
 421,関与,QUAN DỰ,かんよ,liên quan / dính líu
@@ -17,7 +13,6 @@ STT,漢字,音（漢越）,読み方,意味
 423,均衡,QUÂN HÀNH,きんこう,cân bằng
 424,吟味,NGÂM VỊ,ぎんみ,nêm gia vị / xem xét kỹ
 425,現像,HIỆN TƯỢNG,げんぞう,rửa ảnh
-426,検討,KIỂM THẢO,けんとう,xem xét
 427,混乱,HỖN LOẠN,こんらん,hỗn loạn
 428,酸化,TOAN HÓA,さんか,oxy hóa
 429,参照,THAM CHIẾU,さんしょう,đối chiếu
@@ -52,7 +47,6 @@ STT,漢字,音（漢越）,読み方,意味
 458,反射,PHẢN XẠ,はんしゃ,phản xạ
 459,繁盛,PHỒN THỊNH,はんじょう,thịnh vượng
 460,繁殖,PHỒN THỰC,はんしょく,sinh sôi / nảy nở
-461,反応,PHẢN ỨNG,はんのう,phản ứng
 462,反発,PHẢN PHÁT,はんぱつ,phản bác
 463,憤慨,PHÂN KHÁI,ふんがい,phẫn nộ / căm phẫn
 464,分析,PHÂN TÍCH,ぶんせき,phân tích
@@ -70,7 +64,6 @@ STT,漢字,音（漢越）,読み方,意味
 476,還元,HOÀN NGUYÊN,かんげん,trả lại ban đầu
 477,換算,HOÁN TOÁN,かんさん,quy ra / đổi ra
 478,監視,GIÁM THỊ,かんし,giám thị
-479,勧誘,KHUYÊN DỤ,かんゆう,khuyên bảo / khuyến bảo
 480,観覧,QUAN LÃM,かんらん,tham quan
 481,勤動,CẦN VỤ,きんむ,làm việc
 482,兼業,KIÊM NGHIỆP,けんぎょう,nghề tay trái
@@ -91,11 +84,9 @@ STT,漢字,音（漢越）,読み方,意味
 497,沈没,TRẦM MỘT,ちんぼつ,chìm tàu / chìm đắm
 498,転居,CHUYỂN CƯ,てんきょ,chuyển nhà
 499,点検,ĐIỂM KIỂM,てんけん,kiểm tra / bảo dưỡng
-500,伝言,TRUYỀN NGÔN,でんごん,thông báo / lời nhắn
 501,伝達,TRUYỀN ĐẠT,でんたつ,truyền đạt
 502,展望,TRIỂN VỌNG,てぼう,triển vọng
 503,念願,NIỆM NGUYỆN,ねんがん,tâm niệm / nguyện vọng
-504,反響,PHẢN HƯỞNG,はんきょう,phản hồi / tiếng vọng lại
 505,反撃,PHẢN KÍCH,はんげき,phản kích / phản công
 506,判定,PHÁN ĐỊNH,はんてい,phán quyết / phán xét
 507,氾濫,PHIẾM LẠM,はんらん,tràn lan / ngập nước
@@ -140,7 +131,6 @@ STT,漢字,音（漢越）,読み方,意味
 546,分岐,PHÚN XẠ,ふんしゃ,phun ra / bay ra
 547,奮発,PHẤN PHÁT,ふんぱつ,có cảm hứng / hưng phấn
 548,乱発,LOẠN PHÁT,らんぱつ,lạm phát
-549,連携,LIÊN HUỀ,れんけい,cộng tác / chung sức
 550,連覇,LIÊN BÁ,れんぱ,thắng liên tục
 551,連敗,LIÊN BẠI,れんぱい,thua liên tục
 552,連発,LIÊN PHÁT,れんぱつ,bắn liên tục

@@ -3,28 +3,28 @@
     {
       "num": 1,
       "file": "Bai1.csv",
-      "count": 126,
-      "startStt": 1,
-      "endStt": 126
+      "count": 102,
+      "startStt": 3,
+      "endStt": 125
     },
     {
       "num": 2,
       "file": "Bai2.csv",
-      "count": 140,
+      "count": 116,
       "startStt": 127,
       "endStt": 266
     },
     {
       "num": 3,
       "file": "Bai3.csv",
-      "count": 141,
+      "count": 127,
       "startStt": 267,
       "endStt": 407
     },
     {
       "num": 4,
       "file": "Bai4.csv",
-      "count": 145,
+      "count": 135,
       "startStt": 408,
       "endStt": 552
     },
@@ -566,7 +566,7 @@
       "label": "Bai63〜68"
     }
   ],
-  "totalWords": 8414,
+  "totalWords": 8342,
   "missing": [
     59
   ],
