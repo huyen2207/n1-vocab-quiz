@@ -1,26 +1,19 @@
 STT,漢字,音（漢越）,読み方,意味
-2094,献立,HIẾN LẬP,こんだて,thực đơn
 2095,本筋,BỔN CÂN,ほんすじ,"cốt truyện, sườn chính"
-2096,本音,BỔN ÂM,ほんね,"thật lòng, lời nói xuất phát từ tâm"
-2097,本場,BỔN TRƯỜNG,ほんば,nơi xuất xứ
 2098,縁側,DUYÊN TRẮC,えんがわ,hiên nhà
-2099,残高,TÀN CAO,ざんだか,số dư tài khoản
 2100,桟橋,SẠN KIỀU,さんばし,bến tàu
 2101,地主,ĐỊA CHỦ,じぬし,"chủ đất, người sở hữu đất"
 2102,地元,ĐỊA NGUYÊN,じもと,địa phương
 2103,円高,VIÊN CAO,えんだか,đồng yen lên giá
-2104,円安,VIÊN AN,えんやす,đồng yen xuống giá
 2105,額縁,NGẠCH DUYÊN,がくぶち,"khung treo (tranh, ảnh)"
 2106,急場,CẤP TRƯỜNG,きゅうば,"tình trạng khẩn cấp, tình thế"
 2107,札束,TRÁT THÚC,さつたば,"bó tiền, cuộn tiền, nhiều tiền"
 2108,地道,ĐỊA ĐẠO,じみち,"chắc chắn, đảm bảo, ổn định"
-2109,心底,TÂM ĐỂ,しんそこ,đáy lòng
 2110,素顔,TỐ NHAN,すがお,mặt mộc
 2111,図柄,ĐỒ BỈNH,ずがら,"kiểu vẽ, thiết kế, họa tiết"
 2112,素手,TỐ THỦ,すで,tay không
 2113,図星,ĐỒ TINH,ずぼし,"đoán trúng, điểm yếu"
 2114,雑木,TẠP MỘC,ぞうき,"bụi cây, bụi rậm"
-2115,相場,TƯƠNG TRƯỜNG,そうば,"giá thị trường, tỉ giá hối đoái"
 2116,粗品,THÔ PHẨM,そしな,quà mọn
 2117,頭取,ĐẦU THỦ,とうどり,"chủ tịch, người đứng đầu, thống đốc"
 2118,銘柄,MINH BỈNH,めいがら,"nhãn hàng, tên sản phẩm"
@@ -41,7 +34,6 @@ STT,漢字,音（漢越）,読み方,意味
 2133,手本,THỦ BỔN,てほん,gương mẫu
 2134,眠気,MIÊN KHÍ,ねむけ,buồn ngủ
 2135,蜂蜜,PHONG MẬT,はちみつ,mật ong
-2136,人気,NHÂN KHÍ,ひとけ,bóng người
 2137,水気,THỦY KHÍ,みずけ,"ướt, dính nước"
 2138,喪服,TANG PHỤC,もふく,đồ tang
 2139,頭金,ĐẦU KIM,あたまきん,tiền gửi ban đầu
@@ -53,7 +45,6 @@ STT,漢字,音（漢越）,読み方,意味
 2145,敷金,PHU KIM,しききん,tiền cọc
 2146,喪中,TANG TRUNG,もちゅう,đang chịu tang
 2147,悪気,ÁC KHÍ,わるぎ,"ác ý, mánh khóe"
-2148,田舎,ĐIỀN XÁ,いなか,quê nhà
 2149,問屋,VẤN ỐC,とんや,cửa hàng kinh doanh
 2150,名残,DANH TÀN,なごり,"tàn dư, luyến lưu"
 2151,団扇,ĐOÀN PHIẾN,うちわ,"quạt tròn, quạt giấy"

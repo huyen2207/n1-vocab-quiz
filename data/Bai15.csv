@@ -6,10 +6,8 @@ STT,漢字,音（漢越）,読み方,意味
 1904,相対的,TƯƠNG ĐỐI ĐÍCH,そうたいてき,tương đối
 1905,本格的,BỔN CÁCH ĐÍCH,ほんかくてき,"đích thị, chính cống"
 1906,劇的,KỊCH ĐÍCH,げきてき,kịch tính
-1907,静的,TĨNH ĐÍCH,せいてき,tĩnh
 1908,端的,ĐOAN ĐÍCH,たんてき,"rõ ràng, thẳng thắn"
 1909,動的,ĐỘNG ĐÍCH,どうてき,động
-1910,圧倒的,ÁP ĐẢO ĐÍCH,あっとうてき,áp đảo
 1911,意図的,Ý ĐỒ ĐÍCH,いとてき,có ý đồ
 1912,意欲的,Ý DỤC ĐÍCH,いよくてき,"ham muốn, tham vọng"
 1913,懐疑的,HOÀI NGHI ĐÍCH,かいぎてき,hoài nghi
@@ -18,7 +16,6 @@ STT,漢字,音（漢越）,読み方,意味
 1916,感情的,CẢM TÌNH ĐÍCH,かんじょうてき,"về tình cảm, cảm tính"
 1917,奇跡的,KỲ TÍCH ĐÍCH,きせきてき,"kì diệu, phi thường, thần kì"
 1918,驚異的,KINH DỊ ĐÍCH,きょういてき,đáng kinh ngạc
-1919,具体的,CỤ THỂ ĐÍCH,ぐたいてき,một cách cụ thể
 1920,系統的,HỆ THỐNG ĐÍCH,けいとうてき,mang tính hệ thống
 1921,今日的,KIM NHẬT ĐÍCH,こんにちてき,"hiện nay, ngày nay"
 1922,根本的,CĂN BỔN ĐÍCH,こんぽんてき,một cách cơ bản
@@ -28,7 +25,6 @@ STT,漢字,音（漢越）,読み方,意味
 1926,常識的,THƯỜNG THỨC ĐÍCH,じょうしきてき,bình thường
 1927,象徴的,TƯỢNG TRƯNG ĐÍCH,しょうちょうてき,tượng trưng
 1928,人道的,NHÂN ĐẠO ĐÍCH,じんどうてき,nhân đạo
-1929,進歩的,TIẾN BỘ ĐÍCH,しんぽてき,"tiến bộ, có cách nghĩ mới"
 1930,組織的,TỔ CHỨC ĐÍCH,そしきてき,có tổ chức
 1931,断片的,ĐOẠN PHIẾN ĐÍCH,だんぺんてき,"rời rạc, chắp vá"
 1932,短絡的,ĐOẢN LẠC ĐÍCH,たんらくてき,thiển cận
@@ -47,19 +43,13 @@ STT,漢字,音（漢越）,読み方,意味
 1945,楽天的,LẠC THIÊN ĐÍCH,らくてんてき,"lạc quan, tích cực"
 1946,流動的,LƯU ĐỘNG ĐÍCH,りゅうどうてき,"hay thay đổi, lưu động"
 1947,類型的,LOẠI HÌNH ĐÍCH,るいけいてき,"kiểu hình, bình thường"
-1948,一概に,NHẤT KHÁI,いちがいに,"hoàn toàn, dứt khoát"
 1949,一挙に,NHẤT CỬ,いっきょに,"một mạch, một lèo"
 1950,懸命に,HUYỀN MỆNH,けんめいに,gắng hết sức
 1951,即座に,TỨC TỌA,そくざに,"ngay lúc đó, ngay lập tức"
 1952,依然として,Y NHIÊN,いぜんとして,"giống với trước nay, vẫn vậy"
 1953,漠然と,MẠC NHIÊN,ばくぜんと,"mập mờ, không rõ ràng"
-1954,一見,NHẤT KIẾN,いっけん,"nhìn một lần, nhìn một chút, thoạt nhìn"
-1955,一切,NHẤT THIẾT,いっさい,hoàn toàn (~ không)
-1956,到底,ĐÁO ĐỂ,とうてい,làm thế nào (~ cũng không)
 1957,突如,ĐỘT NHƯ,とつじょ,đột nhiên
 1958,一律に,NHẤT LUẬT,いちりつに,"toàn diện, trên mọi lĩnh vực"
-1959,一様に,NHẤT DẠNG,いちように,"như nhau, cùng một dạng"
-1960,一気に,NHẤT KHÍ,いっきに,một hơi
 1961,一心に,NHẤT TÂM,いっしんに,"đồng lòng, chuyên tâm"
 1962,整然と,CHỈNH NHIÊN,せいぜんと,"gọn gàng, mạch lạc, chặt chẽ"
 1963,堂々と,ĐƯỜNG ĐƯỜNG,どうどうと,đường hoàng

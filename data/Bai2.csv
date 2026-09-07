@@ -1,16 +1,12 @@
 STT,漢字,音（漢越）,読み方,意味
 127,移行,DI HÀNH,いこう,chuyển tiếp / di trú
-132,加減,GIA GIẢM,かげん,điều chỉnh / tăng giảm
 134,棄権,KHÍ QUYỀN,きけん,bỏ phiếu trắng
-139,故障,CỐ CHƯỚNG,こしょう,hỏng hóc
 140,誇張,PHÔ TRƯƠNG,こちょう,khoa trương / phóng đại
-141,雇用,CỐ DỤNG,こよう,tuyển dụng
 142,孤立,CÔ LẬP,こりつ,cô lập
 144,飼育,TỰ DỤC,しいく,chăn nuôi
 146,志向,CHÍ HƯỚNG,しこう,chí hướng
 149,試行,THÍ HÀNH,しこう,thờ nghiệm
 150,視察,THỊ SÁT,しさつ,thị sát
-151,辞退,TỪ THOÁI,じたい,từ chức / từ chối
 152,指摘,CHỈ TRÍCH,してき,chỉ trích
 155,謝絶,TẠ TUYỆT,しゃぜつ,cự tuyệt / từ chối
 157,主張,CHỦ TRƯƠNG,しゅちょう,chủ trương
@@ -24,12 +20,8 @@ STT,漢字,音（漢越）,読み方,意味
 172,披露,PHI LỘ,ひろう,công khai / tuyên bố
 176,侮辱,VŨ NHỤC,ぶじょく,lăng mạ / sỉ nhục
 179,腐敗,HỦ BẠI,ふはい,phân hủy / thối nát / mục nát
-180,扶養,PHÙ DƯỠNG,ふよう,cấp dưỡng
-181,保管,BẢO QUẢN,ほかん,bảo quản
 182,補充,BỔ SUNG,ほじゅう,bổ sung
 184,補償,BỔ THƯỜNG,ほしょう,bồi thường
-186,摩擦,MA SÁT,まさつ,ma sát
-188,模索,MÔ TÁC,もさく,tìm kiếm / dò dẫm
 189,移住,DI CHÚ,いじゅう,di trú
 191,異動,DỊ ĐỘNG,いどう,dời chỗ
 192,化合,HÓA HỢP,かごう,hợp chất hóa học
@@ -42,15 +34,12 @@ STT,漢字,音（漢越）,読み方,意味
 200,許容,HỨA DUNG,きょよう,chấp nhận / cho phép
 201,区画,KHU HỌC,くかく,khu đất / ngăn chia
 202,護衛,HỘ VỆ,ごえい,bảo vệ / hộ tống
-203,死刑,TỬ HÌNH,しけい,tử hình
-204,辞職,TỪ CHỨC,じしょく,từ chức
 205,持続,TRÌ TỤC,じぞく,tiếp tục / kéo dài
 206,志望,CHÍ VỌNG,しぼう,nguyện vọng
 208,主催,CHỦ THÔI,しゅさい,tổ chức / chủ trì
 209,取材,THỦ TÀI,しゅざい,lấy thông tin
 210,所属,SỞ CHÚC,しょぞく,thuộc về
 211,除外,TRỪ NGOẠI,じょがい,ngoại trừ
-212,徐行,TỪ HÀNH,じょこう,giảm tốc độ / hãm lại
 215,指令,CHỈ LỆNH,しがい,mệnh lệnh / chỉ thị
 216,妥結,THỎA KẾT,だけつ,thỏa thuận
 217,貯蓄,TRỮ SÚC,ちょちく,tiết kiệm (tiền)
@@ -65,7 +54,6 @@ STT,漢字,音（漢越）,読み方,意味
 227,武装,VŨ TRANG,ぶそう,vũ trang
 228,捕獲,BỘ HOẠCH,ほかく,giành được / bắt được
 229,補給,BỔ CẤP,ほきゅう,cung cấp thêm
-230,募金,MỘ KIM,ぼきん,tiền quyên góp
 231,舗装,PHỐ TRANG,ほそう,lát đường
 233,保養,BẢO DƯỠNG,ほよう,bảo dưỡng
 234,模倣,MÔ PHỎNG,もほう,mô phỏng

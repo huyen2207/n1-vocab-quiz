@@ -1,7 +1,6 @@
 STT,漢字,音（漢越）,読み方,意味
 2182,悪循環,ÁC TUẦN HOÀN,あくじゅんかん,vòng luẩn quẩn
 2183,過疎化,QUÁ SƠ HÓA,かそか,sự giảm dân số
-2184,既婚者,KÍ HÔN GIẢ,きこんしゃ,người đã kết hôn
 2185,権力者,QUYỀN LỰC GIẢ,けんりょくしゃ,người có thẩm quyền
 2186,香辛料,HƯƠNG TÂN LIỆU,こうしんりょう,đồ gia vị
 2187,死傷者,TỬ THƯƠNG GIẢ,ししょうしゃ,"người tử thương, người chết và bị thương"
@@ -10,9 +9,7 @@ STT,漢字,音（漢越）,読み方,意味
 2190,大惨事,ĐẠI THẢM SỰ,だいさんじ,"thảm họa, tai họa lớn"
 2191,特派員,ĐẶC PHÁI VIÊN,とくはいん,đặc phái viên
 2192,廃棄物,PHẾ KHÍ VẬT,はいきぶつ,chất thải
-2193,被害者,BỊ HẠI GIẢ,ひがいしゃ,người bị hại
 2194,被災地,BỊ TAI ĐỊA,ひさいち,"vùng chịu ảnh hưởng, vùng bị thiên tai"
-2195,雰囲気,PHÂN VI KHÍ,ふんいき,bầu không khí
 2196,放射能,PHÓNG XẠ NĂNG,ほうしゃのう,"năng lực phóng xạ, tính phóng xạ"
 2197,保守派,BẢO THỦ PHÁI,ほしゅは,phe bảo thủ
 2198,無条件,VÔ ĐIỀU KIỆN,むじょうけん,vô điều kiện
@@ -31,7 +28,6 @@ STT,漢字,音（漢越）,読み方,意味
 2211,植民地,THỰC DÂN ĐỊA,しょくみんち,thuộc địa
 2212,税務署,THUẾ VỤ THỰ,ぜいむしょ,"cục thuế, thuế vụ"
 2213,多数決,ĐA SỐ QUYẾT,たすうけつ,biểu quyết
-2214,配偶者,PHỐI NGẪU GIẢ,はいぐうしゃ,người hôn phối (vợ hoặc chồng)
 2215,不可欠,BẤT KHẢ KHUYẾT,ふかけつ,không thể thiếu
 2216,不景気,BẤT CẢNH KHÍ,ふけいき,suy thoái kinh tế
 2217,文化財,VĂN HÓA TÀI,ぶんかざい,di sản văn hóa
@@ -43,7 +39,6 @@ STT,漢字,音（漢越）,読み方,意味
 2223,温暖化,ÔN NOÃN HÓA,おんだんか,ấm dần lên
 2224,活性化,HOẠT TÍNH HÓA,かっせいか,hoạt hóa
 2225,形骸化,HÌNH HÀI HÓA,けいがいか,"điều không ai công nhận nữa, luật lệ hết hiệu lực"
-2226,少子化,THIỂU TỬ HÓA,しょうしか,tỉ lệ sinh giảm
 2227,多極化,ĐA CỰC HÓA,たきょくか,"đa cực hóa, tính đa cực"
 2228,即戦力,TỨC CHIẾN LỰC,そくせんりょく,sẵn sàng tác chiến
 2229,超能力,SIÊU NĂNG LỰC,ちょうのうりょく,sức mạnh siêu nhiên
@@ -77,7 +72,6 @@ STT,漢字,音（漢越）,読み方,意味
 2257,劣等感,LIỆT ĐẲNG CẢM,れっとうかん,tự ti
 2258,価値観,GIÁ TRỊ QUAN,かちかん,giá trị quan
 2259,人生観,NHÂN SINH QUAN,じんせいかん,nhân sinh quan
-2260,先入観,TIÊN NHẬP QUAN,せんにゅうかん,"thành kiến, định kiến"
 2261,滑走路,HOẠT TẨU LỘ,かっそうろ,đường băng (sân bay)
 2262,過渡期,QUÁ ĐỘ KỲ,かとき,thời kì quá độ
 2263,含有量,HÀM HỮU LƯỢNG,がんゆうりょう,hàm lượng

@@ -1,20 +1,12 @@
 STT,漢字,音（漢越）,読み方,意味
 2518,駆ける,KHU,かける,"chạy nhanh, phi nước đại"
-2519,傾ける,KHUYNH,かたむける,"nghiêng, hướng theo"
-2520,兼ねる,KIÊM,かねる,"kiêm nhiệm, khó có thể"
-2521,避ける,TỊ,よける,"né, phòng ngừa, để riêng ra"
 2522,告げる,CÁO,つげる,"báo cáo, thông báo"
 2523,遂げる,TOẠI,とげる,đạt được
-2524,述べる,THUẬT,のべる,"kể, thuật lại"
 2525,隔てる,CÁCH,へだてる,"ngăn chia, cách biệt"
-2526,経る,KINH,へる,trải qua
 2527,裂ける,LIỆT,さける,"bị xé, bị rách"
 2528,退ける,THỐI,しりぞける,"bác bỏ, loại ra"
 2529,惚ける,HỐT,とぼける,lẩn thẩn
-2530,脱げる,THOÁT,ぬげる,cởi ra
 2531,剥げる,BÁC,はげる,"làm bong ra, phai màu"
-2532,化ける,HÓA,ばける,biến hóa
-2533,老ける,LÃO,ふける,già
 2534,掲げる,YẾT,かかげる,treo
 2535,賭ける,ĐỔ,かける,"cá độ, đặt cược"
 2536,傾げる,KHUYNH,かしげる,"cúi, nghiêng"
@@ -22,18 +14,14 @@ STT,漢字,音（漢越）,読み方,意味
 2538,捧げる,BỔNG,ささげる,"giương lên, giơ cao, trình lên"
 2539,授ける,THỤ,さずける,tặng cho
 2540,虐げる,NGƯỢC,しいたげる,"đàn áp, áp bức"
-2541,設ける,THIẾT,もうける,"thiết lập, trang bị"
 2542,和らげる,HÒA,やわらげる,làm dịu đi
-2543,避ける,TỊ,さける,"tránh, né"
 2544,宛てる,UYỂN,あてる,"gửi, để địa chỉ, viết cho"
 2545,透ける,THẤU,すける,xuyên thấu
 2546,果てる,QUẢ,はてる,"kết thúc, dốc hết"
-2547,開ける,KHAI,ひらける,"khai thông, mở mang"
 2548,破ける,PHÁ,やぶける,rách
 2549,空ける,KHÔNG,あける,"làm cạn, để trống"
 2550,奏でる,TẤU,かなでる,chơi (nhạc cụ)
 2551,企てる,XÍ,くわだてる,lên kế hoạch
-2552,損ねる,TỔN,そこねる,"tổn hại, làm bị thương"
 2553,背ける,BỐI,そむける,"quay lưng, ngoảnh đi"
 2554,束ねる,THÚC,たばねる,buộc thành bó
 2555,伏せる,PHỤC,ふせる,"nằm thấp xuống, nhìn xuống"
@@ -43,7 +31,6 @@ STT,漢字,音（漢越）,読み方,意味
 2559,締める,ĐẾ,しめる,"buộc, vặn chặt"
 2560,勧める,KHUYẾN,すすめる,"khuyến khích, khuyên"
 2561,眺める,THIẾU,ながめる,"nhìn, ngắm"
-2562,認める,NHẬN,みとめる,"chứng nhận, chấp thuận"
 2563,辞める,TỪ,やめる,nghỉ làm
 2564,傷める,THƯƠNG,いためる,"làm bị thương, làm tổn thương"
 2565,炒める,SAO,いためる,xào
@@ -58,15 +45,11 @@ STT,漢字,音（漢越）,読み方,意味
 2574,絞める,GIẢO,しめる,bóp chặt
 2575,秘める,BÍ,ひめる,"giấu kín, che đậy"
 2576,衰える,SUY,おとろえる,suy yếu
-2577,耐える,NẠI,たえる,chịu đựng
 2578,与える,DỮ,あたえる,"gây ra, cho"
-2579,訴える,TỐ,うったえる,"tố tụng, khiếu kiện"
 2580,支える,CHI,ささえる,"nâng đỡ, duy trì"
 2581,添える,THIÊM,そえる,"thêm vào, đính kèm"
-2582,控える,KHỐNG,ひかえる,"chế ngự, kiềm chế"
 2583,怯える,KHIẾP,おびえる,"sợ hãi, khiếp sợ"
 2584,冴える,NGA,さえる,"tỉnh táo, trong trẻo"
-2585,栄える,VINH,さかえる,"phồn vinh, hưng thịnh"
 2586,絶える,TUYỆT,たえる,tuyệt chủng
 2587,仕える,SĨ,つかえる,"phục vụ, phụng sự"
 2588,映える,ÁNH,はえる,chiếu sáng
@@ -85,11 +68,9 @@ STT,漢字,音（漢越）,読み方,意味
 2601,携える,HUỀ,たずさえる,"mang, xách, cầm"
 2602,称える,XƯNG,たたえる,"tán dương, ca tụng"
 2603,暴れる,BẠO,あばれる,"nổi giận, làm ầm ĩ"
-2604,現れる,HIỆN,あらわれる,xuất hiện
 2605,崩れる,BĂNG,くずれる,"sụp đổ, hư hại"
 2606,訪れる,PHỎNG,おとずれる,"ghé thăm, viếng thăm"
 2607,逃れる,ĐÀO,のがれる,trốn chạy
-2608,離れる,LY,はなれる,"xa rời, cách xa"
 2609,廃れる,PHẾ,すたれる,"lỗi thời, suy yếu"
 2610,垂れる,THÙY,たれる,"treo rủ, chảy nhỏ giọt"
 2611,紛れる,PHÂN,まぎれる,bị phân tâm

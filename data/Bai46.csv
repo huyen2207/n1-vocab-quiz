@@ -1,13 +1,8 @@
 STT,漢字,音（漢越）,読み方,意味
-6271,一員,NHẤT VIÊN,いちいん,một thành viên
 6272,一因,NHẤT NHÂN,いちいん,một nguyên nhân
 6273,一円,NHẤT VIÊN,いちえん,"tất cả, hoàn toàn, một yen"
-6274,一概,NHẤT KHÁI,いちがい,"theo lệ thường, tuyệt đối, quả quyết"
 6275,一次,NHẤT THỨ,いちじ,"vòng thứ nhất (thi cử, phỏng vấn)"
 6276,一同,NHẤT ĐỒNG,いちどう,"tất thảy, mọi người"
-6277,一面,NHẤT DIỆN,いちめん,"trang nhất, trang bìa, lần đầu gặp, tất cả, một mặt"
-6278,一目,NHẤT MỤC,いちもく,"nhìn sơ qua, nhìn một chút"
-6279,一様,NHẤT DẠNG,いちよう,"một kiểu như nhau, bình thường"
 6280,一連,NHẤT LIÊN,いちれん,"chuỗi liên tục, liền thành sợi"
 6281,一足,NHẤT TÚC,ひとあし,"một đôi (giày, vớ...)"
 6282,一息,NHẤT TỨC,ひといき,"hít một hơi, nghỉ một lát, làm một lèo không nghỉ, chút cố gắng"
@@ -17,10 +12,8 @@ STT,漢字,音（漢越）,読み方,意味
 6286,一目,NHẤT MỤC,ひとめ,"nhìn sơ qua, nhìn một chút"
 6287,画一,HỌA NHẤT,かくいつ,"nhất thể hóa, đồng nhất"
 6288,均一,QUÂN NHẤT,きんいつ,"cân bằng, quân bình"
-6289,単一,ĐƠN NHẤT,たんいつ,"chỉ có một, duy nhất"
 6290,逐一,TRỤC NHẤT,ちくいち,chi tiết từng cái một
 6291,随一,TÙY NHẤT,ずいいち,"nhất, cái đầu tiên"
-6292,唯一,DUY NHẤT,ゆいいつ,duy nhất
 6293,一覧,NHẤT LÃM,いちらん,"nhìn lướt qua, khái lược"
 6294,統一,THỐNG NHẤT,とういつ,thống nhất
 6295,圧力,ÁP LỰC,あつりょく,"áp lực, sức ép"
@@ -54,9 +47,6 @@ STT,漢字,音（漢越）,読み方,意味
 6323,摂理,NHIẾP LÝ,せつり,"thượng đế, trời"
 6324,摂取,NHIẾP THỦ,せっしゅ,"tiếp thu, hấp thụ"
 6325,学説,HỌC THUYẾT,がくせつ,học thuyết
-6326,伝説,TRUYỀN THUYẾT,でんせつ,truyền thuyết
-6327,説教,THUYẾT GIÁO,せっきょう,"thuyết giáo, chỉ dạy, giải thích kinh điển"
-6328,説得,THUYẾT ĐẮC,せっとく,thuyết phục
 6329,演説,DIỄN THUYẾT,えんぜつ,diễn thuyết
 6330,解説,GIẢI THUYẾT,かいせつ,"giải thích, diễn dịch"
 6331,力説,LỰC THUYẾT,りきせつ,"nhấn mạnh, lập luận mạnh mẽ"
@@ -66,18 +56,15 @@ STT,漢字,音（漢越）,読み方,意味
 6335,突破,ĐỘT PHÁ,とっぱ,đột phá
 6336,激突,KÍCH ĐỘT,げきとつ,"đâm sầm, đụng mạnh"
 6337,衝突,XUNG ĐỘT,しょうとつ,xung đột
-6338,発作,PHÁT TÁC,ほっさ,"phát tác, lên cơn (bệnh)"
 6339,発起人,PHÁT KHỞI NHÂN,ほっきにん,"người khởi đầu, người sáng lập"
 6340,発育,PHÁT DỤC,はついく,"phát dục, trưởng thành"
 6341,発芽,PHÁT NHA,はつが,nảy mầm
 6342,発揮,PHÁT HUY,はっき,phát huy
-6343,発言,PHÁT NGÔN,はつげん,"phát ngôn, nêu ý kiến"
 6344,発信,PHÁT TÍN,はっしん,phát tin
 6345,発生,PHÁT SINH,はっせい,"phát sinh, sinh ra (cái mới)"
 6346,発熱,PHÁT NHIỆT,はつねつ,"phát sốt, phát ra sức nóng"
 6347,発病,PHÁT BỆNH,はつびょう,phát bệnh
 6348,発足,PHÁT TÚC,ほっそく,"bắt đầu hoạt động, xuất phát"
-6349,開発,KHAI PHÁT,かいはつ,"khai phát, phát triển"
 6350,再発,TÁI PHÁT,さいはつ,tái phát
 6351,摘発,TRÍCH PHÁT,てきはつ,"vạch trần, phơi bày"
 6352,乱発,LOẠN PHÁT,らんぱつ,phát hành tràn lan
@@ -107,21 +94,18 @@ STT,漢字,音（漢越）,読み方,意味
 6376,確立,XÁC LẬP,かくりつ,xác lập
 6377,起立,KHỞI LẬP,きりつ,"đứng dậy, nghiêm (tỏ ý tôn trọng)"
 6378,孤立,CÔ LẬP,こりつ,cô lập
-6379,成立,THÀNH LẬP,せいりつ,thành lập
 6380,設立,THIẾT LẬP,せつりつ,"thiết lập, tạo dựng mới (cơ quan, trường học)"
 6381,創立,SÁNG LẬP,そうりつ,sáng lập
 6382,両立,LƯỠNG LẬP,りょうりつ,hoàn thành tốt cả hai
 6383,決算,QUYẾT TOÁN,けっさん,"kết toán, quyết toán"
 6384,判決,PHÁN QUYẾT,はんけつ,"phán quyết, xét xử"
 6385,決意,QUYẾT Ý,けつい,"quyết tâm, ý đã quyết"
-6386,決断,QUYẾT ĐOẠN,けつだん,"quyết đoán, quyết định"
 6387,決着,QUYẾT TRỨ,けっちゃく,đi đến kết luận
 6388,決裂,QUYẾT LIỆT,けつれつ,"đổ gãy, rời ra, tan vỡ"
 6389,対決,ĐỐI QUYẾT,たいけつ,"đối đầu, đấu tay đôi"
 6390,雑務,TẠP VỤ,ざつむ,tạp vụ
 6391,混雑,HỖN TẠP,こんざつ,hỗn tạp
 6392,煩雑,PHIỀN TẠP,はんざつ,"phiền phức, rối rắm"
-6393,複雑,PHỨC TẠP,ふくざつ,phức tạp
 6394,乱雑,LOẠN TẠP,らんざつ,"lẫn lộn, tạp nham"
 6395,雑談,TẠP ĐÀM,ざつだん,nói chuyện phiếm
 6396,失格,THẤT CÁCH,しっかく,"mất tư cách, không đủ tư cách"

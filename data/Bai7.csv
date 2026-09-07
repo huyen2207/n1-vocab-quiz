@@ -1,36 +1,22 @@
 STT,漢字,音（漢越）,読み方,意味
 818,愛想,ÁI TƯƠNG,あいそう,cảm tình / dễ mến
-819,栄養,DINH DƯỠNG,えいよう,dinh dưỡng
 820,海峡,HẢI HẠP,かいきょう,eo biển
-821,怪獣,QUÁI THÚ,かいじゅう,quái thú
 822,街頭,NHAI ĐẦU,がいとう,đường phố
 823,概念,KHÁI NIỆM,がいねん,khái niệm
-824,経緯,KINH VĨ,けいい,đầu đuôi / chi tiết ngọn ngành
 825,形勢,HÌNH THẾ,けいせい,tình thế / tình cảnh / tình trạng
 826,形態,HÌNH THÁI,けいたい,hình thức / cách thức
 827,刑罰,HÌNH PHẠT,けいばつ,hình phạt
-829,細菌,TẾ KHUẨN,さいきん,vi khuẩn
 830,採算,THẢI TOÁN,さいさん,có lợi / lợi nhuận
-831,細胞,TẾ BÀO,さいぼう,tế bào
 832,睡眠,THỤY MIÊN,すいみん,giấc ngủ
 833,誠意,THÀNH Ý,せいい,thành ý / thiện chí
 834,正規,CHÍNH QUY,せいき,chính quy / chính thức
-835,政策,CHÍNH SÁCH,せいさく,chính sách / giải pháp
-836,正常,CHÍNH THƯỜNG,せいじょう,thông thường
-837,制服,CHẾ PHỤC,せいふく,đồng phục
-838,待遇,ĐÃI NGỘ,たいぐう,đãi ngộ
 839,態勢,THÁI THẾ,たいせい,thái độ / tư thế
 840,邸宅,ĐẾ TRẠCH,ていたく,biệt thự
-841,内臓,NỘI TẠNG,ないぞう,nội tạng
 842,拝啓,BÁI KHẢI,はいけい,kính gửi
-843,背景,BỐI CẢNH,はいけい,bối cảnh / hoàn cảnh / phông nền
 844,俳優,BÀI ƯU,はいゆう,diễn viên
-845,迷信,MÊ TÍN,めいしん,mê tín
-846,名簿,DANH BỘ,めいぼ,danh bạ
 847,名誉,DANH DỰ,めいよ,danh dự
 848,映写,ẢNH TẢ,えいしゃ,chiếu phim
 849,衛星,VỆ TINH,えいせい,vệ tinh
-850,映像,ẢNH TƯỢNG,えいぞう,hình ảnh
 851,英雄,ANH HÙNG,えいゆう,anh hùng
 852,階層,GIAI TẰNG,かいそう,tầng lớp / các level
 853,街道,NHAI ĐẠO,がいどう,đường chính
@@ -39,15 +25,12 @@ STT,漢字,音（漢越）,読み方,意味
 856,概略,KHÁI LƯỢC,がいりゃく,khái lược / tóm tắt
 857,契機,KHẾ CƠ,けいき,cơ hội / thời cơ
 859,警部,CẢNH BỘ,けいぶ,thanh tra cảnh sát
-860,経歴,KINH SỬ,けいれき,lý lịch / lai lịch
 861,財源,TÀI NGUYÊN,ざいげん,vốn / ngân quỹ
-862,在庫,TẠI KHỐ,ざいこ,tồn kho
 863,財政,TÀI CHÍNH,ざいせい,tài chính
 864,最善,TỐI THIỆN,さいぜん,tối ưu
 865,水源,THỦY NGUYÊN,すいげん,nguồn nước
 866,政権,CHÍNH QUYỀN,せいけん,chính quyền
 867,制裁,CHẾ TÀI,せいさい,hình phạt / trừng phạt
-868,青春,THANH XUÂN,せいしゅん,tuổi thanh xuân
 869,製鉄,CHẾ THIẾT,せいてつ,sản xuất sắt thép
 870,勢力,THẾ LỰC,せいりょく,thế lực / sức mạnh
 871,大家,ĐẠI GIA,たいか / おおや,nhà giàu / chủ nhà
@@ -65,7 +48,6 @@ STT,漢字,音（漢越）,読み方,意味
 885,街灯,NHAI ĐĂNG,がいとう,đèn đường
 886,怪物,QUÁI VẬT,かいぶつ,quái vật
 887,渓谷,KHÊ CỐC,けいこく,thung lũng / hẻm vực
-888,警報,CẢNH BÁO,けいほう,cảnh báo
 889,債権,TRÁI QUYỀN,さいけん,quyền lợi có được (lãi)
 890,際限,TẾ HẠN,さいげん,giới hạn
 891,妻子,THÊ TỬ,さいし,vợ con

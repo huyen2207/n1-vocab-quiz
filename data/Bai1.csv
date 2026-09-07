@@ -21,14 +21,12 @@ STT,漢字,音（漢越）,読み方,意味
 30,除去,TRỪ KHỨ,じょぎょ,loại bỏ / giải thoát
 31,図示,ĐỒ THỊ,ずし,hiển thị
 32,打破,ĐẢ PHÁ,だは,phá vỡ
-33,治癒,TRỊ DŨ,ちゆ,điều trị
 34,卑下,TI HẠ,ひげ,hạ thấp mình / tự ti
 35,補佐,BỔ TÁ,ほさ,trợ lí
 36,拉致,LẠP TRÍ,らち,bắt cóc
 37,濾過,LỰ QUÁ,ろか,lọc
 38,意義,Ý NGHĨA,いぎ,ý nghĩa
 39,異議,DỊ NGHỊ,いぎ,phản bác / phản đối
-40,意地,Ý ĐỊA,いじ,tâm địa
 41,過疎,QUÁ SƠ,かそ,sự giảm dân số
 45,誤差,NGỘ SA,ごさ,sai số
 46,磁気,TỪ KHÍ,じき,từ tính
@@ -38,13 +36,11 @@ STT,漢字,音（漢越）,読み方,意味
 57,義理,NGHĨA LÝ,ぎり,tình nghĩa
 60,語句,NGỮ CÚ,ごく,câu cú
 61,孤児,CÔ NHI,こじ/みなじょご,mồ côi
-64,自我,TỰ NGÃ,じが,đắc ý / tâm đắc / tự hào
 65,磁器,TỪ KHÍ,じき,đồ gốm sứ
 67,自主,TỰ CHỦ,じしゅ,tự chủ
 68,守備,THỦ BỊ,しゅび,phòng vệ / bảo vệ
 70,庶務,THỨ VỊ,しょむ,cv tổng hợp
 72,著書,TRỨ THƯ,ちょしょ,tác phẩm
-73,徒歩,ĐỒ BỘ,とほ,đi bộ
 74,秘書,BÍ THƯ,ひしょ,thư ký
 75,不意,BẤT Ý,ふい,đột nhiên / không ngờ tới
 77,捕虜,BỘ LỖ,ほりょ,tù binh
@@ -57,7 +53,6 @@ STT,漢字,音（漢越）,読み方,意味
 85,過度,QUÁ ĐỘ,かど,quá độ / quá mức
 86,可否,KHẢ PHỦ,かひ,sự đúng sai
 87,飢餓,CƠ NGẠ,きが,nạn đói
-88,機器,CƠ KHÍ,きき,máy móc
 89,季語,QUÝ NGỮ,きご,từ ngữ theo mùa
 90,機種,CƠ CHỦNG,きしゅ,chởng loại máy
 91,旗手,KÌ THỦ,きしゅ,người chơi cờ
@@ -81,10 +76,5 @@ STT,漢字,音（漢越）,読み方,意味
 114,地価,ĐỊA GIÁ,ちか,giá đất
 115,致死,CHÍ TỬ,ちし,gây chết / chí mạng
 116,覇者,BÁ GIẢ,はしゃ,quán quân / dẫn đầu
-117,馬車,MÃ XA,ばしゃ,xe ngựa
-118,避暑,TỈ THỬ,ひしょ,tránh nóng
 119,比喩,TỈ DỤ,ひゆ,so sánh / ví von
-120,部署,BỘ THỬ,ぶしょ,cương vị
-121,不和,BẤT HÒA,ふわ,bất hòa
-124,無期,VÔ KÌ,むき,không hạn định
 125,路地,LỘ ĐỊA,ろじ,đường đi

@@ -1,41 +1,29 @@
 STT,漢字,音（漢越）,読み方,意味
 1620,衣装,Y TRANG,いしょう,trang phục
-1621,企画,KẾ HOẠCH,きかく,kế hoạch
-1622,工夫,CÔNG PHU,くふう,công phu
-1623,交代,GIAO ĐẠI,こうたい,thay đổi / thay nhau
 1624,強盗,CƯỜNG ĐẠO,ごうとう,trộm
 1625,興奮,HƯNG PHẤN,こうふん,hưng phấn
 1626,存続,TỒN TỤC,そんぞく,tiếp tục tồn tại
-1627,無言,VÔ NGÔN,むごん,im lặng
 1628,融通,DUNG THÔNG,ゆうずう,linh hoạt / thích nghi / cho mượn tiền
 1629,証拠,CHỨNG CỨ,しょうこ,chứng cứ
-1630,正体,CHÍNH THỂ,しょうたい,thân phận / danh tính thật sự
 1631,禁物,CẤM VẬT,きんもつ,điều cấm kỵ
-1632,気配,KHÍ PHỐI,けはい,cảm thấy / cảm giác
 1633,修行,TU HÀNH,しゅぎょう,tu hành / tu nghiệp
 1634,寿命,THỌ MỆNH,じゅみょう,tuổi thọ
-1635,万能,VẠN NĂNG,ばんのう,toàn năng
-1636,舞台,VŨ THAI,ぶたい,sân khấu / đài
 1637,磁石,TỪ THẠCH,じしゃく,nam châm
 1638,繁盛,PHỒN THỊNH,はんじょう,phồn thịnh
 1639,披露,PHI LỘ,ひろう,thể hiện ra / thông báo / cho xem
 1640,一致,NHẤT TRÍ,いっち,nhất trí
-1641,統一,THỐNG NHẤT,とういつ,thống nhất
 1642,左右,TẢ HỮU,さゆう,chi phối / bên phải trái
 1643,右折,HỮU CHIẾT,うせつ,rẽ phải
 1644,会談,HỘI ĐÀM,かいだん,hội đàm
 1645,会釈,HỘI THÍCH,えしゃく,cúi chào
 1646,気性,KHÍ TÍNH,きしょう,tính tình / tính khí
-1647,気配,KHÍ PHỐI,けはい,cảm giác / dấu hiệu
 1648,金銭,KIM TIỀN,きんせん,tiền bạc
 1649,黄金,HOÀNG KIM,おうごん / こがね,vàng / bằng vàng
 1650,言動,NGÔN ĐỘNG,げんどう,lời nói và hành động
-1651,無言,VÔ NGÔN,むごん,im lặng / không nói gì
 1652,口論,KHẨU LUẬN,こうろん,tranh luận / cãi vã
 1653,口調,KHẨU ĐIỀU,くちょう,cách nói chuyện / chất giọng
 1654,出荷,XUẤT HÀ,しゅっか,xuất hàng / xuất kho
 1655,出納,XUẤT NẠP,すいとう,xuất nhập
-1656,女子,NỮ TỬ,じょし,bé gái / nữ nhi
 1657,女房,NỮ PHÒNG,にょうぼう,vợ
 1658,食物,THỰC VẬT,しょくもつ,đồ ăn
 1659,断食,ĐOẠN THỰC,だんじき,nhịn đói
@@ -44,7 +32,6 @@ STT,漢字,音（漢越）,読み方,意味
 1662,樹木,THỤ MỘC,じゅもく,lùm cây
 1663,土木,THỔ MỘC,どぼく,đất và cây
 1664,万一,VẠN NHẤT,まんいち,vạn nhất / lỡ như
-1665,万能,VẠN NĂNG,ばんのう,vạn năng
 1666,名人,DANH NHÂN,めいじん,bậc thầy / chuyên gia
 1667,本名,BẢN DANH,ほんみょう,tên thật
 1668,名目,DANH MỤC,めいもく,danh nghĩa
@@ -54,17 +41,14 @@ STT,漢字,音（漢越）,読み方,意味
 1672,次元,THỨ NGUYÊN,じげん,thứ nguyên / chiều
 1673,元来,NGUYÊN LAI,がんらい,từ đầu đến / vốn dĩ
 1674,作物,TÁC VẬT,さくもつ,hoa màu / cây trồng
-1675,作用,TÁC DỤNG,さよう,tác dụng
 1676,性質,TÍNH CHẤT,せいしつ,tính chất
 1677,人質,NHÂN CHẤT,ひとじち,con tin
 1678,白色,BẠCH SẮC,はくしょく,màu trắng
 1679,色彩,SẮC THÁI,しきさい,màu sắc / khuynh hướng
-1680,発生,PHÁT SINH,はっせい,phát sinh
 1681,発作,PHÁT TÁC,ほっさ,phát tác
 1682,植物,THỰC VẬT,しょくぶつ,thực vật
 1683,食物,THỰC VẬT,しょくもつ,đồ ăn
 1684,文体,VĂN THỂ,ぶんたい,cách viết văn
-1685,文句,VĂN CÚ,もんく,câu cú / than phiền
 1686,便宜,TIỆN NGHI,べんぎ,tiện nghi
 1687,便乗,TIỆN THỪA,びんじょう,thừa cơ hội
 1688,役者,DỊCH GIẢ,やくしゃ,diễn viên
@@ -82,31 +66,21 @@ STT,漢字,音（漢越）,読み方,意味
 1700,究極,CỨU CỰC,きゅうきょく,cùng cực / cuối cùng
 1701,極楽,CỰC LẠC,ごくらく,thiên đường
 1702,恩恵,ÂN HUỆ,おんけい,ơn huệ
-1703,知恵,TRI HUỆ,ちえ,trí tuệ
 1704,次元,THỨ NGUYÊN,じげん,chiều hướng
 1705,次第,THỨ ĐỆ,しだい,dần dần / ngay sau khi / tùy thuộc
-1706,児童,NHI ĐỒNG,じどう,nhi đồng
 1707,小児,TIỂU NHI,しょうに,trẻ em
-1708,政治,CHÍNH TRỊ,せいじ,chính trị
-1709,治療,TRỊ LIỆU,ちりょう,chữa trị
 1710,保守,BẢO THỦ,ほしゅ,bảo trì / bảo thủ
 1711,留守,LƯU THỦ,るす,vắng nhà
-1712,一緒,NHẤT TỰ,いっしょ,cùng...
 1713,情緒,TÌNH TỰ,じょうしょ / じょうちょ,cảm xúc / cảm nhận
-1714,反省,PHẢN TỈNH,はんせい,tự kiểm điểm / xem lại bản thân mình
 1715,省略,TỈNH LƯỢC,しょうりゃく,rút gọn
 1716,施工,THI CÔNG,しこう,thi công
-1717,執筆,CHẤP BÚT,しっぴつ,viết văn / thơ
 1718,執念,CHẤP NIỆM,しゅうねん,kiên định / cố chấp / khăng khăng
 1719,天井,THIÊN TỈNH,てんじょう,trần nhà / giới hạn
 1720,市井,THỊ TỈNH,しせい,thành phố / thành thị
-1721,丁寧,ĐINH NINH,ていねい,lịch sự / cẩn thận / chỉn chu
 1722,丁度,ĐINH ĐỘ,ちょうど,vừa đúng lúc / y như...
 1723,納入,NẠP NHẬP,のうにゅう,giao hàng / nộp tiền / thuế
 1724,納得,NẠP ĐẮC,なっとく,chấp nhận / đồng ý / hiểu ra / lý giải ra
-1725,拍手,PHÁCH THỦ,はくしゅ,vỗ tay
 1726,拍子,PHÁCH TỬ,ひょうし,nhịp / phách / vừa lúc đó thì...
-1727,凡人,PHÀM NHÂN,ぼんじん,người bình thường
 1728,凡例,PHÀM LỆ,はんれい,lời nói đầu / lời giải thích đầu
 1729,模型,MÔ HÌNH,もけい,mô hình / khuôn mẫu
 1730,規模,QUY MÔ,きぼ,quy mô

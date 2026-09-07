@@ -1,36 +1,21 @@
 STT,漢字,音（漢越）,読み方,意味
-2427,焦る,TIÊU,あせる,"nôn nóng, vội vàng, hấp tấp"
-2428,余る,DƯ,あまる,"dư ra, thừa"
 2429,至る,CHÍ,いたる,"đạt đến, đến nơi"
 2430,劣る,LIỆT,おとる,"kém hơn, thấp hơn (địa vị)"
 2431,偏る,THIÊN,かたよる,"nghiêng, lệch, không công bằng"
-2432,去る,KHỨ,さる,"lui bước, ra khỏi, rời"
-2433,迫る,BÁCH,せまる,"cưỡng bức, thúc giục, cấp bách"
 2434,潜る,TIỀM,もぐる,"lặn, chìm, trốn"
-2435,配る,PHỐI,くばる,"phân phát, để mắt tới"
-2436,断る,ĐOẠN,ことわる,từ chối; xin phép
 2437,遮る,GIÀ,さえぎる,"chặn đứng, cắt ngang"
-2438,探る,THÁM,さぐる,"mò mẫm, thăm dò, tìm ra"
 2439,悟る,NGỘ,さとる,"giác ngộ, hiểu rõ"
 2440,募る,MỘ,つのる,"thỉnh cầu, ngày càng mạnh, chiêu mộ"
 2441,釣る,ĐIẾU,つる,câu cá
-2442,練る,LUYỆN,ねる,"trộn, làm cho hoàn thiện"
-2443,図る,ĐỒ,はかる,"lập kế hoạch, toan tính"
 2444,測る,TRẮC,はかる,đo đạc
 2445,葬る,TÁNG,ほうむる,"chôn cất, che khuất"
 2446,誇る,KHOA,ほこる,"tự hào, kiêu ngạo"
-2447,巡る,TUẦN,めぐる,"đi quanh, xoay quanh"
 2448,凝る,NGƯNG,こる,"đông lại, cứng đờ"
-2449,反る,PHẢN,そる,bật ngược lại
-2450,滞る,TRỆ,とどこおる,"đọng, ứ"
 2451,鈍る,ĐỘN,にぶる,"cùn đi, trở nên yếu"
-2452,粘る,NIÊM,ねばる,"dính, kiên trì"
 2453,捗る,BỘ,はかどる,tiến bộ
 2454,耽る,ĐAM,ふける,"buông thả, đắm đuối"
 2455,勝る,THẮNG,まさる,"vượt trội, áp đảo"
 2456,蘇る,TÔ,よみがえる,"làm sống lại, tỉnh lại"
-2457,操る,THAO,あやつる,"thao tác, vận hành"
-2458,誤る,NGỘ,あやまる,"nhầm, mắc lỗi"
 2459,怠る,ĐÃI,おこたる,"bỏ bê, sao nhãng"
 2460,潜る,TIỀM,くぐる,"lặn, chìm, trốn"
 2461,擦る,SÁT,する,"chà xát, chùi"
@@ -38,8 +23,6 @@ STT,漢字,音（漢越）,読み方,意味
 2463,辿る,TUẦN,たどる,"theo dấu, lần theo"
 2464,司る,TƯ,つかさどる,"cai trị, quản lý"
 2465,憤る,PHẪN,いきどおる,"phẫn uất, nổi giận"
-2466,陥る,HÃM,おちいる,rơi vào
-2467,香る,HƯƠNG,かおる,tỏa hương
 2468,陰る,ÂM,かげる,"làm u ám, làm tối đi"
 2469,覆る,PHÚC,くつがえる,bị lật ngược
 2470,滴る,TÍCH,したたる,"rỏ xuống, rỉ rả"
@@ -49,7 +32,6 @@ STT,漢字,音（漢越）,読み方,意味
 2474,宿る,TÚC,やどる,"ở, ngụ"
 2475,煽る,PHIẾN,あおる,"làm lay động, kích động"
 2476,侮る,VŨ,あなどる,"khinh miệt, coi thường"
-2477,偽る,NGỤY,いつわる,làm giả
 2478,彩る,THÁI,いろどる,nhuộm
 2479,括る,QUÁT,くくる,"buộc, thắt"
 2480,携わる,HUỀ,たずさわる,bận làm việc gì
@@ -58,12 +40,9 @@ STT,漢字,音（漢越）,読み方,意味
 2483,受かる,THỤ,うかる,thi đậu
 2484,埋まる,MAI,うまる,"được chôn, được lấp"
 2485,植わる,THỰC,うわる,"được trồng, mọc"
-2486,収まる,THU,おさまる,"thu nạp, lắng xuống, nguôi ngoai"
-2487,納まる,NẠP,おさまる,"lưu lại, dịu xuống"
 2488,治まる,TRỊ,おさまる,"dịu lại, lắng đi, thuyên giảm"
 2489,定まる,ĐỊNH,さだまる,ổn định
 2490,備わる,BỊ,そなわる,"gắn liền, trang bị"
-2491,染まる,NHIỄM,そまる,nhuộm
 2492,務まる,VỤ,つとまる,hoàn thành nhiệm vụ
 2493,連なる,LIÊN,つらなる,"kết nối, liên kết"
 2494,隔たる,CÁCH,へだたる,cách biệt
@@ -76,7 +55,6 @@ STT,漢字,音（漢越）,読み方,意味
 2501,帯びる,ĐỚI,おびる,"nhiễm, được giao, đeo"
 2502,省みる,TỈNH,かえりみる,"nhìn lại, hồi tưởng"
 2503,顧みる,CỐ,かえりみる,"nhớ lại, hình dung lại"
-2504,試みる,THÍ,こころみる,thử
 2505,率いる,SUẤT,ひきいる,"dẫn đầu, dẫn dắt"
 2506,老いる,LÃO,おいる,già
 2507,朽ちる,HỦ,くちる,"mục nát, thối rữa"
@@ -85,7 +63,6 @@ STT,漢字,音（漢越）,読み方,意味
 2510,綻びる,TRÁN,ほころびる,"sổ mép, bung (chỉ)"
 2511,滅びる,DIỆT,ほろびる,"bị phá hủy, bị hủy hoại"
 2512,綴じる,TRUYẾT,とじる,"may, khâu, xếp lại làm một"
-2513,恥じる,SỈ,はじる,"xấu hổ, ngượng"
 2514,萎びる,ỦY,しなびる,"héo, rủ xuống"
 2515,報いる,BÁO,むくいる,"báo đáp, đền đáp"
 2516,鑑みる,GIÁM,かんがみる,"tham khảo, đối chiếu"

@@ -1,12 +1,9 @@
 STT,漢字,音（漢越）,読み方,意味
 3057,意義,Ý NGHĨA,いぎ,ý nghĩa
-3058,意向,Ý HƯỚNG,いこう,ý hướng
 3059,意思,Ý TƯ,いし,ý nghĩ
-3060,意志,Ý CHÍ,いし,ý chí
 3061,意地,Ý ĐỊA,いじ,tâm địa
 3062,意識,Ý THỨC,いしき,ý thức
 3063,意匠,Ý TƯỢNG,いしょう,"ý tưởng, công phu"
-3064,意欲,Ý DỤC,いよく,ý muốn
 3065,敬意,KÍNH Ý,けいい,lòng tôn kính
 3066,辞意,TỪ Ý,じい,ý định nghỉ làm
 3067,不意,BẤT Ý,ふい,"bất chợt, không ngờ tới"
@@ -33,7 +30,6 @@ STT,漢字,音（漢越）,読み方,意味
 3088,破棄,PHÁ KHÍ,はき,"hủy hoại, hủy bỏ"
 3089,規格,QUY CÁCH,きかく,quy cách
 3090,規範,QUY PHẠM,きはん,quy phạm
-3091,規模,QUY MÔ,きぼ,quy mô
 3092,規約,QUY ƯỚC,きやく,quy ước
 3093,規律,QUY LUẬT,きりつ,quy luật
 3094,規制,QUY CHẾ,きせい,quy chế
@@ -75,22 +71,14 @@ STT,漢字,音（漢越）,読み方,意味
 3130,決議,QUYẾT NGHỊ,けつぎ,nghị quyết
 3131,抗議,KHÁNG NGHỊ,こうぎ,kháng nghị
 3132,審議,THẨM NGHỊ,しんぎ,"suy nghĩ cân nhắc, bàn bạc kĩ"
-3133,視界,THỊ GIỚI,しかい,tầm nhìn
 3134,視覚,THỊ GIÁC,しかく,thị giác
-3135,視線,THỊ TUYẾN,しせん,"hướng nhìn, trục nhìn"
-3136,視点,THỊ ĐIỂM,してん,quan điểm
-3137,視野,THỊ DÃ,しや,"tầm nhìn, tầm hiểu biết"
-3138,視力,THỊ LỰC,しりょく,thị lực
 3139,視察,THỊ SÁT,しさつ,thị sát
 3140,視聴,THỊ THÍNH,しちょう,"nghe nhìn, sự chú ý từ người khác"
 3141,監視,GIÁM THỊ,かんし,giám sát
 3142,軽視,KHINH THỊ,けいし,"coi thường, xem nhẹ"
-3143,重視,TRỌNG THỊ,じゅうし,coi trọng
 3144,辞意,TỪ Ý,じい,ý định nghỉ làm
 3145,辞表,TỪ BIỂU,じひょう,đơn xin nghỉ việc
 3146,辞令,TỪ LỆNH,じれい,thư bổ nhiệm
-3147,お世辞,THẾ TỪ,おせじ,"nịnh nọt, tâng bốc"
-3148,辞職,TỪ CHỨC,じしょく,từ chức
 3149,辞退,TỪ THOÁI,じたい,"từ chối, khước từ"
 3150,辞任,TỪ NHIỆM,じにん,từ chức
 3151,固辞,CỐ TỪ,こじ,từ chối
@@ -101,7 +89,6 @@ STT,漢字,音（漢越）,読み方,意味
 3156,主審,CHỦ THẨM,しゅしん,trọng tài chính
 3157,主体,CHỦ THỂ,しゅたい,chủ thể
 3158,主題,CHỦ ĐỀ,しゅだい,đề tài chính
-3159,主任,CHỦ NHIỆM,しゅにん,chủ nhiệm
 3160,主流,CHỦ LƯU,しゅりゅう,"dòng chảy chính, khuynh hướng chính"
 3161,主力,CHỦ LỰC,しゅりょく,chủ lực
 3162,自主,TỰ CHỦ,じしゅ,tự chủ
@@ -112,7 +99,6 @@ STT,漢字,音（漢越）,読み方,意味
 3167,主張,CHỦ TRƯƠNG,しゅちょう,chủ trương
 3168,主導,CHỦ ĐẠO,しゅどう,chủ đạo
 3169,処刑,XỬ HÌNH,しょけい,hành hình
-3170,処置,XỬ TRÍ,しょち,"xử trí, đối xử"
 3171,処罰,XỬ PHẠT,しょばつ,xử phạt
 3172,処分,XỬ PHÂN,しょぶん,trừng phạt
 3173,善処,THIỆN XỬ,ぜんしょ,xử lý phù hợp
@@ -120,8 +106,6 @@ STT,漢字,音（漢越）,読み方,意味
 3175,措置,THỐ TRÍ,そち,biện pháp
 3176,置換,TRÍ HOÁN,ちかん,"thay thế, hoán đổi"
 3177,拘置,CÂU TRÍ,こうち,"giam giữ, bắt giam"
-3178,設置,THIẾT TRÍ,せっち,"thiết lập, gắn, trang bị"
-3179,配置,PHỐI TRÍ,はいち,bày trí
 3180,放置,PHÓNG TRÍ,ほうち,để bừa bãi
 3181,破格,PHÁ CÁCH,はかく,phá cách
 3182,破線,PHÁ TUYẾN,はせん,đường nét đứt
@@ -141,7 +125,6 @@ STT,漢字,音（漢越）,読み方,意味
 3196,難破,NAN PHÁ,なんぱ,"làm đắm tàu, tranh cãi giành phần thắng"
 3197,論破,LUẬN PHÁ,ろんぱ,"bác bỏ, tranh cãi giành phần thắng"
 3198,費用,PHÍ DỤNG,ひよう,"phí sử dụng, chi phí"
-3199,学費,HỌC PHÍ,がくひ,học phí
 3200,経費,KINH PHÍ,けいひ,kinh phí
 3201,実費,THỰC PHÍ,じっぴ,chi phí thực
 3202,出費,XUẤT PHÍ,しゅっぴ,"chi phí, phí tổn"

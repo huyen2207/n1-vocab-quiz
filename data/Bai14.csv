@@ -4,7 +4,6 @@ STT,漢字,音（漢越）,読み方,意味
 1733,悲惨,BI THẢM,ひさん,bi thảm
 1734,微妙,VI DIỆU,びみょう,"tinh tế, khó diễn tả, nhạy cảm"
 1735,不利,BẤT LỢI,ふり,bất lợi
-1736,無礼,VÔ LỄ,ぶれい,"vô lễ, thất lễ"
 1737,過密,QUÁ MẬT,かみつ,"đông đúc, mật độ cao"
 1738,孤独,CÔ ĐỘC,こどく,cô độc
 1739,素朴,TỐ PHÁC,そぼく,"mộc mạc, giản dị, đơn sơ"
@@ -13,7 +12,6 @@ STT,漢字,音（漢越）,読み方,意味
 1742,不審,BẤT THẨM,ふしん,"hoài nghi, nghi hoặc"
 1743,不調,BẤT ĐIỀU,ふちょう,"hỏng hóc, trục trặc"
 1744,不評,BẤT BÌNH,ふひょう,"mang tiếng xấu, không được đánh giá tốt"
-1745,未熟,VỊ THỤC,みじゅく,"chưa chín, chưa thành thục, chưa trưởng thành"
 1746,無念,VÔ NIỆM,むねん,"phiền muộn, buồn chán"
 1747,無能,VÔ NĂNG,むのう,"bất tài, không có năng lực"
 1748,遺憾,DI HÁM,いかん,đáng tiếc
@@ -37,7 +35,6 @@ STT,漢字,音（漢越）,読み方,意味
 1766,無謀,VÔ MƯU,むぼう,"khinh suất, thiếu suy tính, ẩu tả"
 1767,無欲,VÔ DỤC,むよく,không ham muốn
 1768,野蛮,DÃ MAN,やばん,"không văn minh, dã man, suồng sã"
-1769,円滑,VIÊN HOẠT,えんかつ,"thuận lợi, trôi chảy"
 1770,温厚,ÔN HẬU,おんこう,"hòa nhã, ôn hòa"
 1771,簡潔,GIẢN KHIẾT,かんけつ,"giản dị, súc tích, mộc mạc"
 1772,頑丈,NGOAN TRƯỢNG,がんじょう,"cứng cáp, khỏe mạnh"
@@ -47,13 +44,11 @@ STT,漢字,音（漢越）,読み方,意味
 1776,賢明,HIỀN MINH,けんめい,khôn ngoan
 1777,迅速,TẤN TỐC,じんそく,"mau lẹ, nhanh chóng"
 1778,慎重,THẬN TRỌNG,しんちょう,thận trọng
-1779,敏感,MẪN CẢM,びんかん,"mẫn cảm, nhạy cảm"
 1780,貧弱,BẦN NHƯỢC,ひんじゃく,"yếu ớt, nghèo nàn"
 1781,陰気,ÂM KHÍ,いんき,"tối tăm, ưu sầu"
 1782,婉曲,UYỂN KHÚC,えんきょく,vòng vo
 1783,簡易,GIẢN DỊ,かんい,đơn giản
 1784,簡素,GIẢN TỐ,かんそ,"giản dị, mộc mạc, chân phương"
-1785,完璧,HOÀN BÍCH,かんぺき,hoàn hảo
 1786,勤勉,CẦN MIỄN,きんべん,cần mẫn
 1787,残酷,TÀN KHỐC,ざんこく,tàn khốc
 1788,単調,ĐƠN ĐIỀU,たんちょう,"đơn điệu, tẻ nhạt"
@@ -89,13 +84,11 @@ STT,漢字,音（漢越）,読み方,意味
 1818,巧妙,XẢO DIỆU,こうみょう,khéo léo
 1819,柔軟,NHU NHUYỄN,じゅうなん,"mềm dẻo, linh hoạt"
 1820,壮大,TRÁNG ĐẠI,そうだい,"tráng lệ, hùng vĩ"
-1821,忠実,TRUNG THỰC,ちゅうじつ,trung thực
 1822,重宝,TRỌNG BẢO,ちょうほう,"tiện lợi, trân quý"
 1823,膨大,BÀNH ĐẠI,ぼうだい,"khổng lồ, to lớn"
 1824,豊富,PHONG PHÚ,ほうふ,phong phú
 1825,猛烈,MÃNH LIỆT,もうれつ,mãnh liệt
 1826,勇敢,DŨNG CẢM,ゆうかん,"can đảm, dũng cảm"
-1827,有望,HỮU VỌNG,ゆうぼう,có triển vọng
 1828,容易,DUNG DỊ,ようい,"đơn giản, dễ dàng"
 1829,強硬,CƯỜNG NGẠNH,きょうこう,"cứng rắn, kiên quyết, không thỏa hiệp"
 1830,強烈,CƯỜNG LIỆT,きょうれつ,"quyết liệt, mạnh mẽ"
@@ -114,7 +107,6 @@ STT,漢字,音（漢越）,読み方,意味
 1843,脅威,HIẾP UY,きょうい,"uy hiếp, hiếp đáp, đe dọa"
 1844,凶暴,HUNG BẠO,きょうぼう,hung bạo
 1845,空虚,KHÔNG HƯ,くうきょ,"trống rỗng, rỗng tuếch, vắng hoe"
-1846,光栄,QUANG VINH,こうえい,"quang vinh, vinh dự"
 1847,豪快,HÀO KHOÁI,ごうかい,"hào sảng, khoái chí"
 1848,狡猾,GIẢO HOẠT,こうかつ,"xảo trá, gian manh"
 1849,強情,CƯỜNG TÌNH,ごうじょう,"bướng bỉnh, bảo thủ, cố chấp"
@@ -137,11 +129,9 @@ STT,漢字,音（漢越）,読み方,意味
 1866,精巧,TINH XẢO,せいこう,tinh xảo
 1867,正常,CHÍNH THƯỜNG,せいじょう,trạng thái bình thường
 1868,盛大,THỊNH ĐẠI,せいだい,"trọng thể, long trọng"
-1869,正当,CHÍNH ĐÁNG,せいとう,"chính đáng, xứng đáng"
 1870,特殊,ĐẶC THÙ,とくしゅ,đặc thù
 1871,質素,CHẤT TỐ,しっそ,"giản dị, đơn sơ, mộc mạc"
 1872,切実,THIẾT THỰC,せつじつ,"thích hợp, nghiêm trọng, sâu sắc"
-1873,誠実,THÀNH THỰC,せいじつ,thành thật
 1874,清純,THANH THUẦN,せいじゅん,ngây thơ trong trắng
 1875,精密,TINH MẬT,せいみつ,"chính xác, kĩ lưỡng, cặn kẽ"
 1876,明瞭,MINH LIỄU,めいりょう,"rõ ràng, sáng sủa"
@@ -160,7 +150,6 @@ STT,漢字,音（漢越）,読み方,意味
 1889,怠惰,ĐÃI NỌA,たいだ,lười nhác
 1890,低俗,ĐÊ TỤC,ていぞく,thô tục
 1891,丁重,ĐINH TRỌNG,ていちょう,"lễ độ, hòa nhã, tôn trọng"
-1892,平穏,BÌNH ỔN,へいおん,"êm đềm, yên ả"
 1893,着実,TRỨ THỰC,ちゃくじつ,"vững chắc, đều đặn"
 1894,薄情,BẠC TÌNH,はくじょう,"vô tâm, lạnh nhạt"
 1895,活発,HOẠT PHÁT,かっぱつ,"hoạt bát, hoạt động sôi nổi"

@@ -5,7 +5,6 @@ STT,漢字,音（漢越）,読み方,意味
 692,該当,CAI ĐƯƠNG,がいとう,tương thích / tương ứng / liên quan
 693,介入,GIỚI NHẬP,かいにゅう,can thiệp vào
 696,掲載,YẾT TẢI,けいさい,đăng bài / post
-699,契約,KHIẾT ƯỚC,けいやく,hợp đồng
 700,細工,TẾ CÔNG,さいく,thủ công / tác phẩm tinh xảo
 701,採択,THẢI TRẠCH,さいたく,chọn lựa (nghĩa hẹp hơn 選択)
 702,栽培,TÀI BỒI,さいばい,trồng trọt
@@ -19,7 +18,6 @@ STT,漢字,音（漢越）,読み方,意味
 710,対処,ĐỐI XỨ,たいしょ,đối phó / ứng phó
 711,追放,TRUY PHÓNG,ついほう,trục xuất / bài trừ
 712,提案,ĐỀ ÁN,ていあん,đề xuất phương án
-714,提供,ĐỀ CUNG,ていきょう,cung cấp / tài trợ
 715,提携,ĐỀ HUỀ,ていけい,hợp tác / liên kết
 717,停滞,ĐÌNH TRỆ,ていたい,đình trệ
 718,廃棄,PHẾ KHÍ,はいき,phế thải / tiêu hủy
@@ -72,17 +70,17 @@ STT,漢字,音（漢越）,読み方,意味
 768,埋蔵,MAI TÀNG,まいぞう,chôn cất
 769,命中,MỆNH TRUNG,めいちゅう,đánh trúng mục tiêu
 770,解雇,GIẢI CỐ,かいこ,sa thải
-771,回顧,HỒI CaẺD-8Ố,かいこ,hối tương / nhớ lại
-772,概疰,KHÁI TOÁN,がいさん,tính toán sơ
-773,誏消,GIẢI TIÊU,かいしょう,xóa bỏ / hủy bỏ
-774,改箉,CẢI TRÚC,かいちく,xéy dựng lại
+771,回顧,HỒI CỐ,かいこ,hồi tưởng / nhớ lại
+772,概算,KHÁI TOÁN,がいさん,tính toán sơ
+773,解消,GIẢI TIÊU,かいしょう,xóa bỏ / hủy bỏ
+774,改築,CẢI TRÚC,かいちく,xây dựng lại
 775,回避,HỒI TỊ,かいひ,tránh né
 776,開封,KHAI PHONG,かいふう,mở thư / bóc tem
 777,開幕,KHAI MẠC,かいまく,khai mạc
 778,迎合,NGHÊNH HỢP,げいごう,nắm được ý đối phương / hùa theo / xu nịnh
-779,継承,KẾ THỪA,けいしょう,kế thừa / thừa hưởng
-780,傾倒,KHUYNH ĐẢO,けいとう,cống hiến / dốục sức
-781,掲揚,YẾT ĐƯƠNG,けいよう,dương cờ
+779,継承,THỪA NHẬN,けいしょう,kế thừa / thừa hưởng
+780,傾倒,KHUYNH ĐẢO,けいとう,cống hiến / dốc sức
+781,掲揚,YẾT DƯƠNG,けいよう,dương cờ
 782,裁決,TÀI QUYẾT,さいけつ,phán xử
 783,採取,THẢI THU,さいしゅ,thu thập / thu nhặt
 784,采配,THẢI PHỐI,さいはい,chỉ huy / điều phối

@@ -2,15 +2,12 @@ STT,漢字,音（漢越）,読み方,意味
 1091,救援,CỨU VIỆN,きゅうえん,cứu viện
 1092,救済,CỨU TẾ,きゅうさい,viện trợ
 1093,休養,HƯU DƯỠNG,きゅうよう,nghỉ dưỡng
-1094,収穫,THU HOẠCH,しゅうかく,thu hoạch
-1096,重視,TRỌNG THỊ,じゅうし,xem trọng
 1097,従事,TÙNG SỰ,じゅうじ,hành nghề
 1098,充実,SUNG THỰC,じゅうじつ,đầy đủ
 1099,修飾,TU SỨC,しゅうしょく,trang điểm / bổ nghĩa
 1100,渋滞,SÁP TRỆ,じゅうたい,kẹt xe
 1101,執着,CHẤP TRỨ,しゅうちゃく,lưu luyến / bám chặt
 1102,収容,THU DUNG,しゅうよう,sức chứa / dung nạp (người / vật)
-1103,忠告,TRUNG CÁO,ちゅうこく,nhắc nhở / khuyên bảo
 1104,中傷,TRUNG THƯƠNG,ちゅうしょう,bôi nhọ / phỉ báng
 1105,抽選,TRỪU TUYỂN,ちゅうせん,rút thăm
 1106,給仕,CẤP SĨ,きゅうじ,tiếp viên / phục vụ
@@ -18,8 +15,6 @@ STT,漢字,音（漢越）,読み方,意味
 1108,就業,TỰU NGHIỆP,しゅうぎょう,làm việc
 1109,襲撃,TẬP KÍCH,しゅうげき,tấn công
 1111,重複,TRỌNG PHÚC,ちょうふく,trùng lặp
-1112,終了,CHUNG LIỄU,しゅうりょう,kết thúc
-1113,中継,TRUNG KẾ,ちゅうけい,phát sóng truyền hình
 1114,入手,NHẬP THỦ,にゅうしゅ,nắm bắt / có trong tay
 1115,流通,LƯU THÔNG,りゅうつう,lưu thông
 1116,求刑,CẦU HÌNH,きゅうけい,hỏi cung / truy hỏi
@@ -35,11 +30,9 @@ STT,漢字,音（漢越）,読み方,意味
 1126,収縮,THU SÚC,しゅうしゅく,co rút / co lại
 1127,就寝,TỰU TẨM,しゅうしん,ngủ
 1128,従属,TÙNG CHÚC,じゅうぞく,phụ thuộc
-1129,習得,TẬP ĐẮC,しゅうとく,lĩnh hội
 1130,収納,THU NẠP,しゅうのう,thu dọn / thu nạp
 1131,充満,SUNG MÃN,じゅうまん,tràn đầy / sung mãn
 1132,就労,TỰU LAO,しゅうろう,lao động
-1133,仲介,TRỌNG GIỚI,ちゅうかい,môi giới
 1134,仲裁,TRỌNG TÀI,ちゅうさい,trọng tài
 1135,注釈,CHÚ THÍCH,ちゅうしゃく,chú thích
 1136,抽出,TRỪU XUẤT,ちゅうしゅつ,trích xuất / lọc
@@ -47,7 +40,6 @@ STT,漢字,音（漢越）,読み方,意味
 1138,入札,NHẬP TRÁT,にゅうさつ,đấu thầu / đấu giá
 1139,宮殿,CUNG ĐIỆN,きゅうでん,cung điện
 1140,丘陵,KHÂU LĂNG,きゅうりょう,đồi núi
-1141,周囲,CHU VI,しゅうい,xung quanh
 1142,収益,THU ÍCH,しゅうえき,tiền lãi
 1143,収支,THU CHI,しゅうし,thu chi
 1145,従来,TÙNG LAI,じゅうらい,từ trước đến nay
@@ -72,7 +64,6 @@ STT,漢字,音（漢越）,読み方,意味
 1165,共鳴,CỘNG MINH,きょうめい,cộng hưởng / vang vọng
 1166,消去,TIÊU KHỨ,しょうきょ,xóa bỏ / triệt tiêu
 1167,照合,CHIẾU HỢP,しょうごう,đối chiếu / so sánh
-1168,上昇,THƯỢNG THĂNG,じょうしょう,tăng lên / tiến lên
 1169,昇進,THĂNG TIẾN,しょうしん,thăng tiến / thăng chức
 1170,衝突,XUNG ĐỘT,しょうとつ,xung đột
 1171,譲歩,NHƯỢNG BỘ,じょうほ,nhượng bộ
@@ -84,17 +75,14 @@ STT,漢字,音（漢越）,読み方,意味
 1178,了承,LIỄU THỪA,りょうしょう,thừa nhận / chấp nhận
 1179,両立,LƯỠNG LẬP,りょうりつ,song song / cả 2
 1180,共存,CỘNG TỒN,きょうぞん,cùng tồn tại
-1181,協調,HIỆP ĐIỀU,きょうちょう,hiệp lực / phối hợp / hợp tác
 1182,脅迫,HIẾP BÁCH,きょうはく,đe dọa / uy hiếp
 1183,承諾,THỪA NẶC,しょうだく,đồng ý / nhận lời
 1184,象徴,TƯỢNG TRƯNG,しょうちょう,tượng trưng
-1185,勝利,THẮNG LỢI,しょうり,thắng lợi / chiến thắng
 1186,上陸,THƯỢNG LỤC,じょうりく,đổ bộ / hạ cánh
 1187,聴講,THÍNH GIẢNG,ちょうこう,dự thính / thính giảng
 1188,挑戦,THIÊU CHIẾN,ちょうせん,thử thách / đương đầu
 1189,調停,ĐIỀU ĐÌNH,ちょうてい,hòa giải
 1190,描写,MIÊU TẢ,びょうしゃ,miêu tả / phác họa / khắc họa / phản ánh
-1191,了解,LIỄU GIẢI,りょうかい,hiểu
 1192,凝縮,NGƯNG SÚC,ぎょうしゅく,ngưng tụ / dồn lại
 1193,供述,CUNG THUẬT,きょうじゅつ,khai nhận
 1194,共謀,CUNG MƯU,きょうぼう,đồng lõa / thông đồng
@@ -113,7 +101,6 @@ STT,漢字,音（漢越）,読み方,意味
 1207,境地,CẢNH ĐỊA,きょうち,cảnh ngộ / hoàn cảnh
 1208,協定,HIỆP ĐỊNH,きょうてい,hiệp định / giao kèo / giao ước
 1209,郷里,HƯƠNG LÍ,きょうり,quê hương
-1210,障害,CHƯỚNG HẠI,しょうがい,khó khăn / trở ngại
 1211,生涯,SANH NHAI,しょうがい,sinh nhai / cả đời / suốt đời
 1212,衝撃,XUNG KÍCH,しょうげき,va đập / sốc / tác động
 1213,証拠,CHỨNG CỨ,しょうこ,bằng chứng / chứng cứ

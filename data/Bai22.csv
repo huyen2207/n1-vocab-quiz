@@ -7,16 +7,12 @@ STT,漢字,音（漢越）,読み方,意味
 2628,慕う,MỘ,したう,"ngưỡng mộ, tưởng nhớ"
 2629,償う,THƯỜNG,つぐなう,bồi thường
 2630,縫う,PHÙNG,ぬう,"thêu, khâu vá"
-2631,狙う,THƯ,ねらう,nhắm vào
 2632,賄う,HỐI,まかなう,"trang trải, cung cấp"
 2633,装う,TRANG,よそおう,"làm đẹp, cải trang"
 2634,賑わう,CHẨN,にぎわう,"náo nhiệt, huyên náo"
-2635,恥じらう,SỈ,はじらう,"xấu hổ, ngượng ngùng"
-2636,負う,PHỤ,おう,"mang, gánh vác"
 2637,庇う,TÍ,かばう,"bảo vệ, bảo bọc"
 2638,競う,CẠNH,きそう,"tranh giành, ganh đua"
 2639,繕う,THIỆN,つくろう,"chắp vá, sửa (giày dép)"
-2640,担う,ĐẢM,になう,gánh vác
 2641,舞う,VŨ,まう,"nhảy múa, bay"
 2642,養う,DƯỠNG,やしなう,nuôi nấng
 2643,憩う,KHẾ,いこう,"nghỉ hơi, giải lao"
@@ -31,15 +27,11 @@ STT,漢字,音（漢越）,読み方,意味
 2652,労う,LAO,ねぎらう,"cảm kích, cảm ơn"
 2653,結う,KẾT,ゆう,"nối, buộc"
 2654,呪う,CHÚ,のろう,nguyền rủa
-2655,輝く,HUY,かがやく,"chiếu sáng, lấp lánh"
 2656,和らぐ,HÒA,やわらぐ,dịu đi
-2657,描く,MIÊU,えがく,vẽ
 2658,稼ぐ,GIÁ,かせぐ,kiếm tiền
 2659,築く,TRÚC,きずく,xây dựng
 2660,裂く,LIỆT,さく,"xé rách, xé toạc"
-2661,説く,THUYẾT,とく,"thuyết giáo, giải thích"
 2662,嘆く,THÁN,なげく,"than thở, kêu than"
-2663,招く,CHIÊU,まねく,"mời, rủ"
 2664,磨く,MA,みがく,"đánh bóng, chải, gọt giũa"
 2665,赴く,PHÓ,おもむく,lên đường đi
 2666,背く,BỐI,そむく,"phản bội, quay lưng, làm trái lại"
@@ -60,13 +52,10 @@ STT,漢字,音（漢越）,読み方,意味
 2681,割く,CÁT,さく,"chia ra, dành ra (thời gian)"
 2682,凌ぐ,LĂNG,しのぐ,"áp đảo, vượt trội"
 2683,退く,THỐI,しりぞく,thoái lui
-2684,継ぐ,KẾ,つぐ,"kế tục, thừa kế"
-2685,研ぐ,NGHIÊN,とぐ,"mài, vo (gạo), mài dũa"
 2686,轟く,OANH,とどろく,"nổ ầm ầm, gầm lên"
 2687,剥ぐ,BÁC,はぐ,"gọt, bóc (vỏ)"
 2688,危ぶむ,NGUY,あやぶむ,lo sợ
 2689,挑む,THIÊU,いどむ,thách thức
-2690,及ぶ,CẬP,およぶ,"bằng, đạt đến"
 2691,絡む,LẠC,からむ,"gặp rắc rối, dính líu"
 2692,組む,TỔ,くむ,lắp ghép
 2693,澄む,TRỪNG,すむ,"lọc, lắng xuống, trong"
@@ -75,7 +64,6 @@ STT,漢字,音（漢越）,読み方,意味
 2696,結ぶ,KẾT,むすぶ,"nối, thắt, buộc"
 2697,惜しむ,TÍCH,おしむ,"tiếc nuối, tiếc rẻ"
 2698,慎む,THẬN,つつしむ,"cẩn trọng, tránh, kiêng khem"
-2699,歩む,BỘ,あゆむ,đi bộ
 2700,霞む,HÀ,かすむ,mù sương
 2701,親しむ,THÂN,したしむ,"thân thiết, thân mật"
 2702,弛む,THỈ,たるむ,"cong xuống, nới lỏng"
@@ -101,7 +89,6 @@ STT,漢字,音（漢越）,読み方,意味
 2722,企む,XÍ,たくらむ,bày mưu
 2723,貴ぶ,QUÝ,とうとぶ,"tôn kính, tôn trọng"
 2724,育む,DỤC,はぐくむ,"ấp ủ, nuôi dưỡng"
-2725,促す,XÚC,うながす,"thúc đẩy, xúc tiến"
 2726,脅かす,HIẾP,おびやかす,đe dọa
 2727,及ぼす,CẬP,およぼす,gây ra
 2728,崩す,BĂNG,くずす,làm sụp đổ
@@ -115,7 +102,6 @@ STT,漢字,音（漢越）,読み方,意味
 2736,催す,THÔI,もよおす,"tổ chức, cảm thấy"
 2737,侵す,XÂM,おかす,xâm phạm
 2738,脅す,HIẾP,おどす,"bắt nạt, hăm dọa, hiếp đáp"
-2739,交わす,GIAO,かわす,"trao đổi, đổi chác"
 2740,覆す,PHÚC,くつがえす,"lật ngược, lật lại"
 2741,凝らす,NGƯNG,こらす,"làm đông lại, làm cứng"
 2742,記す,KÍ,しるす,ghi chép lại

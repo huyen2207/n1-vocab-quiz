@@ -3,14 +3,10 @@ STT,漢字,音（漢越）,読み方,意味
 2931,潔い,KHIẾT,いさぎよい,"trong sạch, quyết đoán"
 2932,快い,KHOÁI,こころよい,"dễ chịu, sảng khoái"
 2933,厳しい,NGHIÊM,きびしい,nghiêm khắc
-2934,詳しい,TƯỜNG,くわしい,"chi tiết, tường tận, cặn kẽ"
 2935,寂しい,TỊCH,さびしい,"buồn, cô đơn"
 2936,乏しい,PHẠP,とぼしい,nghèo túng
-2937,華々しい,HOA HOA,はなばなしい,"hào hoa, tráng lệ"
-2938,紛らわしい,PHÂN,まぎらわしい,"dễ nhầm lẫn, khó phân biệt"
 2939,目覚しい,MỤC GIÁC,めざましい,"đáng chú ý, nổi bật"
 2940,煩わしい,PHIỀN,わずらわしい,phiền toái
-2941,渋い,SÁP,しぶい,"chát, giản dị, keo kiệt"
 2942,切ない,THIẾT,せつない,"buồn, đau lòng"
 2943,尊い,TÔN,とうとい,"quý báu, đáng tôn kính"
 2944,貴い,QUÝ,とうとい,"tôn quý, quý giá"
@@ -18,30 +14,21 @@ STT,漢字,音（漢越）,読み方,意味
 2946,拙い,CHUYẾT,つたない,"dở, vụng về"
 2947,著しい,TRỨ,いちじるしい,"rõ ràng, minh bạch, nổi bật"
 2948,卑しい,TI,いやしい,"ti tiện, hạ cấp"
-2949,久しい,CỬU,ひさしい,bấy lâu nay
 2950,空しい,KHÔNG,むなしい,trống rỗng
 2951,好ましい,HẢO,このましい,"đáng yêu, dễ mến"
-2952,悩ましい,NÃO,なやましい,lo âu
-2953,望ましい,VỌNG,のぞましい,mong mỏi
 2954,待ち遠しい,ĐÃI VIỄN,まちどおしい,mong ngóng
 2955,見苦しい,KIẾN KHỔ,みぐるしい,khó coi
-2956,情けない,TÌNH,なさけない,tiếc nuối vì không như kì vọng
 2957,何気ない,HÀ KHÍ,なにげない,"bất chợt, thờ ơ, lãnh đạm"
 2958,物足りない,VẬT TÚC,ものたりない,không đủ thỏa mãn
 2959,荒っぽい,HOANG,あらっぽい,thô lỗ
-2960,安っぽい,AN,やすっぽい,rẻ tiền
 2961,煙たい,YÊN,けむたい,"ngột ngạt, gò bó"
 2962,眠たい,MIÊN,ねむたい,buồn ngủ
 2963,平たい,BÌNH,ひらたい,bằng phẳng
-2964,心強い,TÂM CƯỜNG,こころづよい,"làm yên lòng, làm vững dạ"
-2965,心細い,TÂM TẾ,こころぼそい,"cô đơn, bất an"
-2966,素早い,TỐ TẢO,すばやい,nhanh nhẹn
 2967,情け深い,TÌNH THÂM,なさけぶかい,cảm thông sâu sắc
 2968,欲深い,DỤC THÂM,よくぶかい,"ham muốn, tham lam"
 2969,名高い,DANH CAO,なだかい,"nổi tiếng, nổi danh"
 2970,生臭い,SINH XÚ,なまぐさい,"có mùi máu, tanh"
 2971,真ん丸い,CHÂN HOÀN,まんまるい,tròn trịa
-2972,香ばしい,HƯƠNG,こうばしい,thơm phức
 2973,痛ましい,THỐNG,いたましい,"đáng thương, khổ sở"
 2974,疑わしい,NGHI,うたがわしい,nghi hoặc
 2975,輝かしい,HUY,かがやかしい,"sáng ngời, rực rỡ"
@@ -69,7 +56,6 @@ STT,漢字,音（漢越）,読み方,意味
 2997,真新しい,CHÂN TÂN,まあたらしい,mới toanh
 2998,目新しい,MỤC TÂN,めあたらしい,"mới mẻ, mới thấy lần đầu"
 2999,目ぼしい,MỤC,めぼしい,"đáng chú ý, đáng để mắt tới"
-3000,目まぐるしい,MỤC,めまぐるしい,"rối mắt, hoa cả mắt"
 3001,疑い深い,NGHI THÂM,うたがいぶかい,đầy nghi hoặc
 3002,遠慮深い,VIỄN LỰ THÂM,えんりょぶかい,"dè dặt, khách sáo"
 3003,奥深い,ÁO THÂM,おくぶかい,sâu thẳm
@@ -94,11 +80,9 @@ STT,漢字,音（漢越）,読み方,意味
 3022,人懐っこい,NHÂN HOÀI,ひとなつっこい,thân mật
 3023,後ろ暗い,HẬU ÁM,うしろぐらい,"mờ ám, ám muội"
 3024,後ろめたい,HẬU,うしろめたい,"tội lỗi, mờ ám"
-3025,気まずい,KHÍ,きまずい,không thoải mái
 3026,気難しい,KHÍ NAN,きむずかしい,khó chiều
 3027,図太い,ĐỒ THÁI,ずぶとい,cố chấp
 3028,手厚い,THỦ HẬU,てあつい,"lịch sự, mến khách"
-3029,手洗い,THỦ TẨY,てあらい,"rửa tay, toa-lét, giặt tay"
 3030,手痛い,THỦ THỐNG,ていたい,"nhức nhói, nghiêm trọng"
 3031,手堅い,THỦ KIÊN,てがたい,"cứng rắn, kiên quyết, không nhân nhượng"
 3032,手厳しい,THỦ NGHIÊM,てきびしい,"không nương tay, không dung thứ"

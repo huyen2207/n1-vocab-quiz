@@ -1,16 +1,13 @@
 STT,漢字,音（漢越）,読み方,意味
 1458,復興,PHỤC HƯNG,ふっこう,khôi phục / phục hưng
 1459,楽観,LẠC QUAN,らっかん,lạc quan
-1460,悪化,ÁC HÓA,あっか,trở nên xấu đi
 1461,錯覚,ẢO GIÁC,さっかく,ảo giác / nhầm tưởng
 1462,着工,TRỨ CÔNG,ちゃっこう,xây dựng / khởi công
 1463,直感,TRỰC CẢM,ちょっかん,trực giác / trực cảm
 1464,復活,PHỤC HOẠT,ふっかつ,sống lại / tái sinh lại
-1465,復旧,PHỤC CỰU,ふっきゅう,khôi phục / phục hồi
 1466,落下,LẠC HẠ,らっか,rơi / ngã xuống
 1467,客観,KHÁCH QUAN,きゃっかん,khách quan
 1468,国交,QUỐC GIAO,こっこう,ngoại giao
-1469,若干,NHƯỢC CAN,じゃっかん,1 chút / 1 ít
 1470,特許,ĐẶC HỨA,とっきょ,bằng sáng chế / cấp phép
 1471,特権,ĐẶC QUYỀN,とっけん,đặc quyền / quyền lợi đặc biệt
 1472,却下,KHƯỚC HẠ,きゃっか,loại bỏ ra / từ chối
@@ -19,7 +16,6 @@ STT,漢字,音（漢越）,読み方,意味
 1475,直結,TRỰC KẾT,ちょっけつ,kết nối trực tiếp
 1476,独居,ĐỘC CƯ,どくきょ,cô độc / 1 mình
 1477,特訓,ĐẶC HUẤN,とっくん,huấn luyện đặc biệt
-1478,復帰,PHỤC QUY,ふっき,trở lại trạng thái đầu
 1479,逆境,NGHỊCH CẢNH,ぎゃっきょう,nghịch cảnh / hoàn cảnh khó khăn
 1480,昨今,TÁC KIM,さっこん,gần đây
 1481,触覚,XÚC GIÁC,しょっかく,xúc giác
@@ -44,27 +40,19 @@ STT,漢字,音（漢越）,読み方,意味
 1500,屈折,KHUẤT CHIẾT,くっせつ,khúc xạ / ương ngạnh
 1501,決行,QUYẾT HÀNH,けっこう,quyết làm / tiến hành / thực hiện
 1502,結成,KẾT THÀNH,けっせい,thành lập / tạo (tổ chức / đoàn thể)
-1503,失格,THẤT CÁCH,しっかく,mất quyền / mất tư cách
 1504,失脚,THẤT KHƯỚC,しっきゃく,bị giáng chức / cách chức
 1505,実践,THỰC TIỄN,じっせん,thực tiễn
 1506,嫉妬,TẬT ĐỐ,しっと,ghen tị / đố kỵ
-1507,出血,XUẤT HUYẾT,しゅっけつ,chảy máu / xuất huyết
 1508,出産,XUẤT SẢN,しゅっさん,sinh đẻ
 1509,出生,XUẤT SINH,しゅっしょう,sinh đẻ
 1510,出世,XUẤT THẾ,しゅっせ,thăng tiến
 1511,切開,THIẾT KHAI,せっかい,mổ
-1512,接触,TIẾP XÚC,せっしょく,tiếp xúc
-1513,設定,THIẾT ĐỊNH,せってい,thiết lập / cài đặt
-1514,説得,THUYẾT ĐẮC,せっとく,thuyết phục
-1515,脱出,THOÁT XUẤT,だっしゅつ,thoát khỏi / thoát hiểm
-1516,達成,ĐẠT THÀNH,たっせい,đạt được / hoàn thành
 1517,脱退,THOÁT THỐI,だったい,rút lui / rút khỏi
 1518,窒息,TRẤT TỨC,ちっそく,ngạt thở / đứt hơi / khó thở
 1519,発生,PHÁT SINH,はっせい,phát sinh / xảy ra
 1520,沸騰,PHÍ ĐẰNG,ふっとう,sôi
 1521,別居,BIỆT CƯ,べっきょ,ở riêng
 1522,圧勝,ÁP THẮNG,あっしょう,chiến thắng áp đảo
-1523,欠勤,KHUYẾT CẦN,けっきん,vắng mặt / nghỉ làm
 1524,欠航,KHIẾM HÀNG,けっこう,hủy chuyến (máy bay / tàu)
 1525,決済,QUYẾT TẾ,けっさい,thanh toán / quyết toán
 1526,決着,QUYẾT TRỨ,けっちゃく,quyết định / dứt điểm (thể thao)
@@ -100,10 +88,8 @@ STT,漢字,音（漢越）,読み方,意味
 1556,抹消,MẠT TIÊU,まっしょう,loại bỏ / xóa bỏ (thông tin / tờ đăng ký)
 1557,列挙,LIỆT CỬ,れっきょ,liệt kê
 1558,欠陥,KHIẾM HÃM,けっかん,khuyết điểm / sai sót
-1559,血管,HUYẾT QUẢN,けっかん,mạch máu
 1560,決勝,QUYẾT THẮNG,けっしょう,chung kết
 1561,実態,THỰC THÁI,じったい,tình hình thực tế / thực trạng
-1562,実費,THỰC PHÍ,じっぴ,chi phí thực tế
 1563,必死,TẤT TỬ,ひっし,hết sức mình
 1564,別荘,BIỆT TRANG,べっそう,biệt thự / villa
 1565,一帯,NHẤT ĐỚI,いったい,cả vùng / toàn vùng
@@ -131,7 +117,6 @@ STT,漢字,音（漢越）,読み方,意味
 1587,特価,ĐẶC GIÁ,とっか,giá khuyến mãi đặc biệt
 1588,突風,ĐỘT PHONG,とっぷう,gió giật
 1589,熱戦,NHIỆT CHIẾN,ねっせん,cuộc chiến quyết liệt
-1590,罰金,PHẠT KIM,ばっきん,tiền phạt
 1591,罰則,PHẠT TẮC,ばっそく,quy tắc xử phạt
 1592,必携,TẤT HUỀ,ひっけい,vật cần phải / bắt buộc có (mưa thì áo mưa)
 1593,必須,TẤT TU,ひっす,thiết yếu / cần thiết
@@ -144,7 +129,6 @@ STT,漢字,音（漢越）,読み方,意味
 1600,末端,MẠT ĐOAN,まったん,điểm đầu mút
 1601,合作,HỢP TÁC,がっさく,hợp tác
 1602,合唱,HỢP XƯỚNG,がっしょう,hát cùng / hợp xướng
-1603,合体,HỢP THỂ,がったい,hợp nhất
 1604,合致,HỢP CHÍ,がっち,nhất trí / thống nhất chung
 1605,合併,HỢP TINH,がっぺい,hợp nhất / gộp vào / kết hợp
 1606,合宿,HỢP TÚC,がっしゅく,trại huấn luyện
@@ -155,7 +139,6 @@ STT,漢字,音（漢越）,読み方,意味
 1611,一変,NHẤT BIẾN,いっぺん,thay đổi
 1612,一環,NHẤT HOÀN,いっかん,mối liên kết
 1613,一見,NHẤT KIẾN,いっけん,nhìn lướt qua
-1614,一切,NHẤT THIẾT,いっさい,hoàn toàn (thường đi với ない = hoàn toàn không)
 1615,一心,NHẤT TÂM,いっしん,đồng lòng
 1616,一対,NHẤT ĐỐI,いっつい,1 cặp
 1617,一端,NHẤT ĐOAN,いったん,đầu mút

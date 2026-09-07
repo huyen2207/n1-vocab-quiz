@@ -6,7 +6,6 @@ STT,漢字,音（漢越）,読み方,意味
 413,運用,VẬN DỤNG,うんよう,vận dụng
 414,演奏,DIỄN TẤU,えんそう,biểu diễn
 415,完結,HOÀN KẾT,かんけつ,kết thúc / hoàn thành
-419,監督,GIÁM ĐỐC,かんとく,quản lý / người điều hành
 420,勘弁,KHÁM BIỆN,かんべん,biện hộ / bào chữa
 421,関与,QUAN DỰ,かんよ,liên quan / dính líu
 422,緩和,HOÃN HÒA,かんわ,nới lỏng
@@ -16,7 +15,6 @@ STT,漢字,音（漢越）,読み方,意味
 427,混乱,HỖN LOẠN,こんらん,hỗn loạn
 428,酸化,TOAN HÓA,さんか,oxy hóa
 429,参照,THAM CHIẾU,さんしょう,đối chiếu
-430,進化,TIẾN HÓA,しんか,cải tiến / tiến hóa
 431,審議,THẨM NGHỊ,しんぎ,xem xét / hội ý
 432,信仰,TÍN NGƯỠNG,しんこう,tín ngưỡng
 433,進行,TIẾN HÀNH,しんこう,tiến hành
@@ -25,12 +23,9 @@ STT,漢字,音（漢越）,読み方,意味
 436,審査,THẨM TRA,しんさ,xét duyệt / thẩm tra
 437,新築,TÂN TRÚC,しんちく,xây mới
 438,進呈,TIẾN TRÌNH,しんてい,biếu / tặng / cho
-439,振動,CHẤN ĐỘNG,しんどう,chấn động
-440,侵入,XÂM NHẬP,しんにゅう,đột nhập / xâm nhập
 441,辛抱,TÂN BÃO,しんぼう,chịu đựng
 442,宣言,TUYÊN NGÔN,せんげん,tuyên bố
 443,選考,TUYỂN KHẢO,せんこう,tuyển chọn
-444,宣伝,TUYÊN TRUYỀN,せんでん,tuyên truyền
 445,全滅,TOÀN DIỆT,ぜんめつ,thất bại hoàn toàn
 446,存続,TỒN TỤC,そんぞく,tiếp tục tồn tại
 447,探検,THÁM HIỂM,たんけん,thám hiểm / khám phá
@@ -49,7 +44,6 @@ STT,漢字,音（漢越）,読み方,意味
 460,繁殖,PHỒN THỰC,はんしょく,sinh sôi / nảy nở
 462,反発,PHẢN PHÁT,はんぱつ,phản bác
 463,憤慨,PHÂN KHÁI,ふんがい,phẫn nộ / căm phẫn
-464,分析,PHÂN TÍCH,ぶんせき,phân tích
 465,紛争,PHÂN TRANH,ふんそう,tranh chấp
 466,分離,PHÂN LI,ぶんり,tách rời
 467,返還,PHÂN HOÀN,へんかん,hoàn trả
@@ -67,13 +61,10 @@ STT,漢字,音（漢越）,読み方,意味
 480,観覧,QUAN LÃM,かんらん,tham quan
 481,勤動,CẦN VỤ,きんむ,làm việc
 482,兼業,KIÊM NGHIỆP,けんぎょう,nghề tay trái
-483,減少,GIẢM THIỂU,げんしょう,giảm thiểu
-484,限定,HẠN ĐỊNH,げんてい,giới hạn
 485,倹約,KIỆM ƯỚC,けんやく,tiết kiệm
 486,混同,HỖN ĐỒNG,こんどう,lẫn lộn
 487,賛美,TÁN MĨ,さんび,tán dương / khen
 488,侵略,XÂM LƯỢC,しんりゃく,xâm lược
-489,診療,CHẨN LIỆU,しんりょう,khám / chẩn đoán
 490,選挙,TUYỂN CỬ,せんきょ,tuyển cử
 491,戦闘,CHIẾN ĐẤU,せんとう,chiến đấu
 492,潜入,TIỀM NHẬP,せんにゅう,thâm nhập / len lỏi vào
@@ -87,12 +78,9 @@ STT,漢字,音（漢越）,読み方,意味
 501,伝達,TRUYỀN ĐẠT,でんたつ,truyền đạt
 502,展望,TRIỂN VỌNG,てぼう,triển vọng
 503,念願,NIỆM NGUYỆN,ねんがん,tâm niệm / nguyện vọng
-505,反撃,PHẢN KÍCH,はんげき,phản kích / phản công
-506,判定,PHÁN ĐỊNH,はんてい,phán quyết / phán xét
 507,氾濫,PHIẾM LẠM,はんらん,tràn lan / ngập nước
 508,紛失,PHÂN THẤT,ふんしつ,làm mất / thất lạc
 509,噴出,PHÚN XUẤT,ふんしゅつ,phun trào ra
-510,分担,PHÂN ĐẢM,ぶんたん,phân chia
 511,奮闘,PHẤN ĐẤU,ふんとう,gắng sức đấu tranh
 512,分配,PHÂN PHỐI,ぶんぱい,phân phối
 513,分裂,PHÂN LIỆT,ぶんれつ,phân ra / chia ra

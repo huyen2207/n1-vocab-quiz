@@ -1,10 +1,8 @@
 STT,漢字,音（漢越）,読み方,意味
 267,意向,Ý HƯỚNG,いこう,ý hướng
 268,衣装,Y TRANG,いしょう,trang phục
-271,威力,UY LỰC,いりょく,sức mạnh / uy lực
 274,化繊,HÓA TIÊM,かせん,sợi tổng hợp
 275,河川,HÀ XUYÊN,かせん,sông ngòi
-276,課題,KHÓA ĐỀ,かだい,đề tài nói chuyện
 277,花壇,HOA ĐÀN,かだん,vườn hoa
 278,過労,QUÁ LAO,かろう,làm việc quá sức
 279,危害,NGUY HẠI,きがい,sự nguy hại / nguy hiểm
@@ -20,9 +18,6 @@ STT,漢字,音（漢越）,読み方,意味
 290,疑惑,NGHI HOẶC,ぎわく,hoài nghi
 291,固有,CỐ HỮU,こゆう,sẵn có / có từ trước
 292,砂漠,SA MẠC,さばく,sa mạc
-293,事項,SỰ HẠNG,じこう,điều khoản / mục
-294,事情,SỰ TÌNH,じじょう,sự tình / lý do
-295,姿勢,TƯ THẾ,しせい,tư thế
 296,事態,SỰ THÁI,じたい,tình hình
 298,紙幣,CHỈ TỆ,しへい,tiền giấy
 299,脂肪,CHI PHƯƠNG,しぼう,mạ
@@ -33,7 +28,6 @@ STT,漢字,音（漢越）,読み方,意味
 304,主導,CHỦ ĐẠO,しゅどう,chủ đạo
 305,樹木,THỤ MỘC,じゅもく,lùm cây
 306,庶民,THỨ DÂN,しょみん,dân đen
-308,視力,THỊ LỰC,しりょく,thị lực
 309,素材,TỐ TÀI,そざい,nguyên liệu / vật liệu
 310,肥料,PHÌ LIỆU,ひりょう,phân bón
 311,富豪,PHÚ HÀO,ふごう,người giàu / phú hào
@@ -46,7 +40,6 @@ STT,漢字,音（漢越）,読み方,意味
 319,未練,VỊ LUYỆN,みれん,lưu luyến / tiếc nuối
 322,無念,VÔ NIỆM,むねん,buồn chán / phiền muộn
 323,模型,MÔ HÌNH,もけい,mô hình
-324,模様,MÔ DẠNG,もよう,hoa văn
 325,野心,DÃ TÂM,やしん,dã tâm
 326,与党,DỮ ĐẢNG,よとう,đảng cầm quyền
 328,貨幣,HÓA TỆ,かへい,tiền tệ / đồng tiền
@@ -72,7 +65,6 @@ STT,漢字,音（漢越）,読み方,意味
 350,諸君,CHỦ QUÂN,しょくん,các bạn / các vị
 351,所得,SỞ ĐẮC,しょとく,thu nhập
 353,打撃,ĐẢ KÍCH,だげき,cú đánh / cú sốc
-354,治安,TRỊ AN,ちあん,trị an
 355,途上,ĐỒ THƯỢNG,とじょう,trên đường đi
 356,悲鳴,BI MINH,ひめい,thét / kêu gào
 357,微量,VI LƯỢNG,びりょう,lượng nhỏ / vi lượng
@@ -99,7 +91,6 @@ STT,漢字,音（漢越）,読み方,意味
 378,拠点,CỨ ĐIỂM,きょてん,cứ điểm (quân sự)
 379,苦渋,KHỔ SÁP,くじゅう,đau khổ / gay go
 380,顧客,CỐ KHÁCH,こきゃく,khách quen
-381,誤算,NGỘ TOÁN,ごさん,tính sai
 382,後日,HẬU NHẬT,ごじつ,hôm sau
 383,鼓動,CỔ ĐỘNG,こどう,nhịp đập / mạch
 384,古墳,CỔ PHẦN,こふん,mộ cổ
