@@ -3,14 +3,14 @@
     {
       "num": 1,
       "file": "Bai1.csv",
-      "count": 102,
-      "startStt": 3,
+      "count": 89,
+      "startStt": 9,
       "endStt": 125
     },
     {
       "num": 2,
       "file": "Bai2.csv",
-      "count": 116,
+      "count": 100,
       "startStt": 127,
       "endStt": 266
     },
@@ -31,35 +31,35 @@
     {
       "num": 5,
       "file": "Bai5.csv",
-      "count": 131,
+      "count": 120,
       "startStt": 553,
       "endStt": 683
     },
     {
       "num": 6,
       "file": "Bai6.csv",
-      "count": 134,
-      "startStt": 684,
+      "count": 120,
+      "startStt": 688,
       "endStt": 817
     },
     {
       "num": 7,
       "file": "Bai7.csv",
-      "count": 104,
+      "count": 100,
       "startStt": 818,
       "endStt": 921
     },
     {
       "num": 8,
       "file": "Bai8.csv",
-      "count": 169,
+      "count": 157,
       "startStt": 922,
       "endStt": 1090
     },
     {
       "num": 9,
       "file": "Bai9.csv",
-      "count": 169,
+      "count": 161,
       "startStt": 1091,
       "endStt": 1259
     },
@@ -402,63 +402,63 @@
     {
       "num": 60,
       "file": "Bai60.csv",
-      "count": 117,
+      "count": 109,
       "startStt": 7676,
       "endStt": 7792
     },
     {
       "num": 61,
       "file": "Bai61.csv",
-      "count": 99,
+      "count": 75,
       "startStt": 7793,
       "endStt": 7891
     },
     {
       "num": 62,
       "file": "Bai62.csv",
-      "count": 184,
-      "startStt": 7892,
+      "count": 118,
+      "startStt": 7898,
       "endStt": 8075
     },
     {
       "num": 63,
       "file": "Bai63.csv",
-      "count": 148,
+      "count": 86,
       "startStt": 8076,
       "endStt": 8223
     },
     {
       "num": 64,
       "file": "Bai64.csv",
-      "count": 147,
+      "count": 98,
       "startStt": 8224,
       "endStt": 8370
     },
     {
       "num": 65,
       "file": "Bai65.csv",
-      "count": 114,
+      "count": 105,
       "startStt": 8371,
       "endStt": 8484
     },
     {
       "num": 66,
       "file": "Bai66.csv",
-      "count": 16,
+      "count": 10,
       "startStt": 8485,
       "endStt": 8500
     },
     {
       "num": 67,
       "file": "Bai67.csv",
-      "count": 22,
-      "startStt": 8501,
+      "count": 19,
+      "startStt": 8502,
       "endStt": 8522
     },
     {
       "num": 68,
       "file": "Bai68.csv",
-      "count": 27,
+      "count": 26,
       "startStt": 8523,
       "endStt": 8549
     }
@@ -566,7 +566,7 @@
       "label": "Bai63〜68"
     }
   ],
-  "totalWords": 8342,
+  "totalWords": 8036,
   "missing": [
     59
   ],

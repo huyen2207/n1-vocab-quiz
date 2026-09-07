@@ -1,6 +1,5 @@
 STT,漢字,音（漢越）,読み方,意味
 922,応募,ỨNG MỘ,おうぼ,ứng tuyển
-923,行為,HÀNH VI,こうい,hành vi
 924,後悔,HẬU HỐI,こうかい,hối hận
 925,航海,HÀNG HẢI,こうかい,du lịch trên biển bằng tàu
 926,抗議,KHÁNG NGHỊ,こうぎ,phàn nàn / khiếu nại
@@ -20,7 +19,6 @@ STT,漢字,音（漢越）,読み方,意味
 940,想定,TƯƠNG ĐỊNH,そうてい,giả định
 941,遭難,TAO NAN,そうなん,gặp nạn / mất liên lạc / phương hướng
 942,痛感,THÔNG CẢM,つうかん,cảm nhận sâu sắc
-943,同意,ĐỒNG Ý,どうい,đồng ý
 944,統合,THỐNG HỢP,とうごう,hợp nhất / sát nhập / thống nhất
 945,倒産,ĐẢO SẢN,とうさん,phá sản
 946,投資,ĐẦU TƯ,とうし,sự đầu tư
@@ -28,21 +26,16 @@ STT,漢字,音（漢越）,読み方,意味
 948,統率,THỐNG SUẤT,とうそつ,chỉ huy / lãnh đạo
 949,到達,ĐÁO ĐẠT,とうたつ,đạt mục tiêu / điểm đích
 950,投入,ĐẦU NHẬP,とうにゅう,nhập vào / mở nguồn
-951,導入,ĐẠO NHẬP,どうにゅう,dẫn dắt / đưa vào / áp dụng
 952,逃亡,ĐÀO VONG,とうぼう,sự chạy trốn / sống lưu vong
 953,動揺,ĐỘNG DAO,どうよう,dao động / lung lay
 954,登録,ĐĂNG LỤC,とうろく,đăng ký
 955,奉仕,PHỤNG SĨ,ほうし,làm việc công ích
-956,防止,TRỞ CHỈ,ぼうし,phòng ngừa / ngăn chặn
 957,報道,BÁO ĐẠO,ほうどう,phát tin / báo cáo
 958,飽和,BÃO HÒA,ほうわ,bão hòa (không tăng không giảm)
-959,優先,ƯU TIÊN,ゆうせん,ưu tiên
 960,融通,DUNG THÔNG,ゆうずう,linh hoạt / thích nghi / cho mượn tiền
 961,誘導,DỤ ĐẠO,ゆうどう,hướng dẫn / chỉ đạo
-962,誘惑,DỤ HOẶC,ゆうわく,dụ dỗ
 963,要請,YẾU THỈNH,ようせい,kiến nghị / yêu cầu / đòi hỏi
 964,養成,DƯỠNG THÀNH,ようせい,đào tạo / bồi dưỡng
-965,老衰,LÃO SUY,ろうすい,già yếu
 966,朗読,LÃNG ĐỘC,ろうどく,đọc ngâm thơ / văn chương
 967,浪費,LÃNG PHÍ,ろうひ,lãng phí
 968,交易,GIAO DỊCH,こうえき,giao dịch thương mại / buôn bán
@@ -89,7 +82,6 @@ STT,漢字,音（漢越）,読み方,意味
 1009,攻略,CÔNG LƯỢC,こうりゃく,lấy / giành được
 1010,遭遇,TAO NGỘ,そうぐう,chạm trán / tình cờ gặp
 1011,贈呈,TẶNG TRÌNH,ぞうてい,tặng (người trên tặng người dưới)
-1012,挿入,SÁP NHẬP,そうにゅう,chèn (hình / ảnh...)
 1013,贈与,TẶNG DỮ,ぞうよ,tặng / cho tặng
 1014,投函,ĐẦU HÀM,とうかん,thả / bỏ vào (thư / bưu phẩm vào hòm thư)
 1015,投棄,ĐẦU KHÍ,とうき,ném bỏ / vứt bỏ
@@ -113,25 +105,21 @@ STT,漢字,音（漢越）,読み方,意味
 1033,漏洩,LẬU DUỆ,ろうえい,rò rỉ (thông tin...)
 1034,老朽,LÃO HỦ,ろうきゅう,già yếu / già cỗi
 1035,応急,ỨNG CẤP,おうきゅう,sơ cứu / cấp cứu
-1036,行為,HÀNH VI,こうい,hành vi
 1037,洪水,HỒNG THỦY,こうずい,lũ lụt
 1038,功績,CÔNG TÍCH,こうせき,thành tích
 1039,口頭,KHẨU ĐẦU,こうとう,phỏng vấn miệng
 1040,好評,HẢO BÌNH,こうひょう,đánh giá cao
 1041,行楽,HÀNH LẠC,こうらく,vui chơi giải trí
 1042,効率,HIỆU SUẤT,こうりつ,hiệu suất
-1043,高齢,CAO NIÊN,こうれい,cao tuổi
 1044,相応,TƯƠNG ỨNG,そうおう,tương ứng / phù hợp
 1045,騒音,TAO ÂM,そうおん,tiếng ồn
 1046,相互,TƯƠNG HỖ,そうご,qua lại / lẫn nhau
 1047,通常,THÔNG THƯỞNG,つうじょう,thông thường / thường lệ
 1048,陶器,ĐÀO KHÍ,とうき,đồ gốm
 1049,濃度,NỒNG ĐỘ,のうど,nồng độ
-1050,防災,PHÒNG TAI,ぼうさい,phòng chống thiên tai
 1051,冒頭,MẠO ĐẦU,ぼうとう,lời mở đầu
 1052,優位,ƯU VỊ,ゆうい,vị trí tốt
 1053,優勢,ƯU THẾ,ゆうせい,ưu thế
-1054,幽霊,U LINH,ゆうれい,linh hồn
 1055,様相,DẠNG TƯƠNG,ようそう,diện mạo / phương diện / mặt vấn đề
 1056,廊下,LANG HẠ,ろうか,hành lang
 1057,黄金,HOÀNG KIM,おうごん / こがね,hoàng kim / vàng

@@ -2,41 +2,27 @@ STT,漢字,音（漢越）,読み方,意味
 127,移行,DI HÀNH,いこう,chuyển tiếp / di trú
 132,加減,GIA GIẢM,かげん,điều chỉnh / tăng giảm
 134,棄権,KHÍ QUYỀN,きけん,bỏ phiếu trắng
-135,記載,KÍ TÀI,きさい,ghi chép / viết
-136,規制,QUY CHẾ,きせい,quy chế
-137,偽造,NGỤY TẠO,ぎぞう,làm giả / ngụy tạo
-138,誤解,NGỘ GIẢI,ごかい,hiểu lầm / hiểu sai
 139,故障,CỐ CHƯỚNG,こしょう,hỏng hóc
 140,誇張,PHÔ TRƯƠNG,こちょう,khoa trương / phóng đại
 141,雇用,CỐ DỤNG,こよう,tuyển dụng
 142,孤立,CÔ LẬP,こりつ,cô lập
 144,飼育,TỰ DỤC,しいく,chăn nuôi
 146,志向,CHÍ HƯỚNG,しこう,chí hướng
-148,施行,THI HÀNH,しこう,thực hiện / thi hành
 149,試行,THÍ HÀNH,しこう,thờ nghiệm
 150,視察,THỊ SÁT,しさつ,thị sát
 151,辞退,TỪ THOÁI,じたい,từ chức / từ chối
 152,指摘,CHỈ TRÍCH,してき,chỉ trích
 155,謝絶,TẠ TUYỆT,しゃぜつ,cự tuyệt / từ chối
-156,修行,TU HÀNH,しゅぎょう,tu nghiệp / tu hành
 157,主張,CHỦ TRƯƠNG,しゅちょう,chủ trương
-158,主導,CHỦ ĐẠO,しゅどう,chủ đạo
 159,樹立,THỤ LẬP,じゅりつ,thành lập
 161,処罰,XỬ PHẠT,しょばつ,xờ phạt
-162,署名,THỰ DANH,しょめい,chữ kí / đề tên
 163,所有,SỞ HỮU,しょゆう,sở hữu
 164,是正,THỊ CHÍNH,ぜせい,sửa cho đúng
 165,訴訟,TỐ TỤNG,そしょう,kiện tụng / thưa kiện
 166,打開,ĐẢ KHAI,だかい,công phá / vượt qua
-167,妥協,THỎA HIỆP,だきょう,thỏa hiệp
-170,避難,TỊ NẠN,ひなん,lánh nạn / tị nạn
 171,非難,PHI NẠN,ひなん,chỉ trích / phê bình
 172,披露,PHI LỘ,ひろう,công khai / tuyên bố
-173,疲労,BÌ LAO,ひろう,mệt mỏi
-175,負傷,PHỤ THƯƠNG,ふしょう,bị thương
 176,侮辱,VŨ NHỤC,ぶじょく,lăng mạ / sỉ nhục
-177,負担,PHẤ ĐẢM,ふたん,gánh vác
-178,赴任,PHÓ NHIỆM,ふにん,nhận chức
 179,腐敗,HỦ BẠI,ふはい,phân hủy / thối nát / mục nát
 180,扶養,PHÙ DƯỠNG,ふよう,cấp dưỡng
 181,保管,BẢO QUẢN,ほかん,bảo quản
@@ -60,13 +46,11 @@ STT,漢字,音（漢越）,読み方,意味
 204,辞職,TỪ CHỨC,じしょく,từ chức
 205,持続,TRÌ TỤC,じぞく,tiếp tục / kéo dài
 206,志望,CHÍ VỌNG,しぼう,nguyện vọng
-207,始末,THỦY MẠT,しまつ,kết cục / tiết kiệm
 208,主催,CHỦ THÔI,しゅさい,tổ chức / chủ trì
 209,取材,THỦ TÀI,しゅざい,lấy thông tin
 210,所属,SỞ CHÚC,しょぞく,thuộc về
 211,除外,TRỪ NGOẠI,じょがい,ngoại trừ
 212,徐行,TỪ HÀNH,じょこう,giảm tốc độ / hãm lại
-213,処分,XỬ PHÂN,しょぶん,xử lý / vứt bỏ
 215,指令,CHỈ LỆNH,しがい,mệnh lệnh / chỉ thị
 216,妥結,THỎA KẾT,だけつ,thỏa thuận
 217,貯蓄,TRỮ SÚC,ちょちく,tiết kiệm (tiền)

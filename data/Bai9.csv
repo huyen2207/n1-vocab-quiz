@@ -3,7 +3,6 @@ STT,漢字,音（漢越）,読み方,意味
 1092,救済,CỨU TẾ,きゅうさい,viện trợ
 1093,休養,HƯU DƯỠNG,きゅうよう,nghỉ dưỡng
 1094,収穫,THU HOẠCH,しゅうかく,thu hoạch
-1095,終始,CHUNG THỦY,しゅうし,đầu đến cuối
 1096,重視,TRỌNG THỊ,じゅうし,xem trọng
 1097,従事,TÙNG SỰ,じゅうじ,hành nghề
 1098,充実,SUNG THỰC,じゅうじつ,đầy đủ
@@ -18,7 +17,6 @@ STT,漢字,音（漢越）,読み方,意味
 1107,窮乏,CÙNG PHẠP,きゅうぼう,nghèo / thiếu thốn
 1108,就業,TỰU NGHIỆP,しゅうぎょう,làm việc
 1109,襲撃,TẬP KÍCH,しゅうげき,tấn công
-1110,収集,THU TẬP,しゅうしゅう,thu gom / tập hợp
 1111,重複,TRỌNG PHÚC,ちょうふく,trùng lặp
 1112,終了,CHUNG LIỄU,しゅうりょう,kết thúc
 1113,中継,TRUNG KẾ,ちゅうけい,phát sóng truyền hình
@@ -52,10 +50,8 @@ STT,漢字,音（漢越）,読み方,意味
 1141,周囲,CHU VI,しゅうい,xung quanh
 1142,収益,THU ÍCH,しゅうえき,tiền lãi
 1143,収支,THU CHI,しゅうし,thu chi
-1144,終日,CHUNG NHẬT,しゅうじつ,cả ngày
 1145,従来,TÙNG LAI,じゅうらい,từ trước đến nay
 1146,中旬,TRUNG CÚ,ちゅうじゅん,10 ngày giữa tháng
-1147,中毒,TRUNG ĐỘC,ちゅうどく,trúng độc
 1148,中腹,TRUNG PHÚC,ちゅうふく,lưng chừng núi
 1149,究極,CỬU CỰC,きゅうきょく,cùng cực / tận cùng
 1150,中枢,TRUNG XU,ちゅうすう,trung khu / trung tâm
@@ -80,7 +76,6 @@ STT,漢字,音（漢越）,読み方,意味
 1169,昇進,THĂNG TIẾN,しょうしん,thăng tiến / thăng chức
 1170,衝突,XUNG ĐỘT,しょうとつ,xung đột
 1171,譲歩,NHƯỢNG BỘ,じょうほ,nhượng bộ
-1172,証明,CHỨNG MINH,しょうめい,chứng minh
 1173,蒸留,CHƯNG LƯU,じょうりゅう,chưng cất
 1174,奨励,TƯỞNG LỆ,しょうれい,khích lệ
 1175,彫刻,ĐIÊU KHẮC,ちょうこく,điêu khắc
@@ -123,9 +118,7 @@ STT,漢字,音（漢越）,読み方,意味
 1212,衝撃,XUNG KÍCH,しょうげき,va đập / sốc / tác động
 1213,証拠,CHỨNG CỨ,しょうこ,bằng chứng / chứng cứ
 1214,詳細,TƯỞNG TẾ,しょうさい,chi tiết / tường tận
-1215,症状,CHỨNG TRẠNG,しょうじょう,tình trạng bệnh
 1216,正体,CHÁNH THỂ,しょうたい,chân tướng / hình dạng thật sự
-1217,状態,TRẠNG THÁI,じょうたい,trạng thái
 1218,焦点,TIÊU ĐIỂM,しょうてん,trọng điểm / tiêu điểm
 1219,証人,CHỨNG NHÂN,しょうにん,nhân chứng
 1220,標語,TIÊU NGỮ,ひょうご,khẩu hiệu / slogan / phương châm
@@ -161,7 +154,6 @@ STT,漢字,音（漢越）,読み方,意味
 1250,条例,ĐIỀU LỆ,じょうれい,điều lệ / quy định
 1251,常連,THƯỞNG LIÊN,じょうれん,khách quen
 1252,兆候,TRIỆU HẬU,ちょうこう,triệu chứng / dấu hiệu
-1253,長寿,TRƯỜNG THỌ,ちょうじゅ,sống lâu / sống thọ
 1254,聴衆,THÍNH CHÚNG,ちょうしゅう,người nghe / khán giả
 1255,帳簿,TRƯỚNG BỘ,ちょうぼ,sổ sách kế toán
 1256,潮流,TRIỀU LƯU,ちょうりゅう,trào lưu

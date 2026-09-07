@@ -1,7 +1,4 @@
 STT,漢字,音（漢越）,読み方,意味
-3,寄附,KÍ PHỤ,きふ,quyên góp / gửi tặng
-6,阻止,TRỞ CHỈ,そし,cản trở
-7,破棄,PHÁ KHÍ,はき,hủy hoại / phá bỏ
 9,保守,BẢO THỦ,ほしゅ,bảo thủ
 10,加味,GIA VỊ,かみ,thêm gia vị
 11,寄与,KÍ DỮ,きえ,đóng góp / giúp đỡ
@@ -33,17 +30,11 @@ STT,漢字,音（漢越）,読み方,意味
 39,異議,DỊ NGHỊ,いぎ,phản bác / phản đối
 40,意地,Ý ĐỊA,いじ,tâm địa
 41,過疎,QUÁ SƠ,かそ,sự giảm dân số
-44,個々,CÁ,ここ,từng...một / từng
 45,誤差,NGỘ SA,ごさ,sai số
 46,磁気,TỪ KHÍ,じき,từ tính
-47,時期,THỜI KÌ,じき,thời kì
-49,視野,THỊ DÃ,しや,quan điểm / tầm nhìn
 50,砂利,SA LỢI,じゃり,sỏi
 51,趣旨,THÚ CHỈ,しゅし,ý đồ / mục đích
-52,種々,CHỦNG,しゅじゅ,nhiều loại / đa dạng
 53,措置,THỐ BỊ,そち,biện pháp
-54,墓地,MỘ ĐỊA,ぼち,nghĩa địa
-55,余地,DƯ ĐỊA,よち,chỗ thừa / nơi trống
 57,義理,NGHĨA LÝ,ぎり,tình nghĩa
 60,語句,NGỮ CÚ,ごく,câu cú
 61,孤児,CÔ NHI,こじ/みなじょご,mồ côi
@@ -52,7 +43,6 @@ STT,漢字,音（漢越）,読み方,意味
 67,自主,TỰ CHỦ,じしゅ,tự chủ
 68,守備,THỦ BỊ,しゅび,phòng vệ / bảo vệ
 70,庶務,THỨ VỊ,しょむ,cv tổng hợp
-71,世辞,THẾ TỪ,せじ,nịnh
 72,著書,TRỨ THƯ,ちょしょ,tác phẩm
 73,徒歩,ĐỒ BỘ,とほ,đi bộ
 74,秘書,BÍ THƯ,ひしょ,thư ký
@@ -80,12 +70,9 @@ STT,漢字,音（漢越）,読み方,意味
 99,時価,THỜI GIÁ,じか,giá hiện tại
 100,時下,THỜI HẠ,じか,thời nay
 101,時機,THỜI CƠ,じき,cơ hội / thời cơ
-102,次期,THỨ KÌ,じき,thời kì sau / thời tiếp theo
 103,私語,TƯ NGỮ,しご,nói chuyện riêng / độc thoại
 104,死語,TỬ NGỮ,しご,từ lỗi thời / tử ngữ
 105,事後,SỰ HẬU,じご,sự việc sau đó
-106,私費,TƯ PHÍ,しひ,chi phí cá nhân
-107,自費,TỰ PHÍ,じひ,tự trả tiền
 108,首位,THỦ VỊ,しゅい,vị trí đứng đầu
 109,主旨,CHỦ CHỈ,しゅし,ý chính / lý do chính
 110,種子,CHỦNG TỬ,しゅし,hạt giống
