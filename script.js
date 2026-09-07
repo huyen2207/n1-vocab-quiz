@@ -204,7 +204,7 @@ function countMasteredWords() {
 
 let RANGE_DEFS = {};
 let selectedRangeId = "all";
-let selectedCount = 5;
+let selectedCount = 20;
 let selectedType = "mixed";
 
 function buildRangeDefs() {
@@ -614,7 +614,7 @@ async function init() {
   buildRangeDefs();
 
   renderRangeOptions();
-  setupOptionGroup(countOptions, "count", (v) => (selectedCount = v), "5");
+  setupOptionGroup(countOptions, "count", (v) => (selectedCount = v), "20");
   setupOptionGroup(typeOptions, "type", (v) => (selectedType = v), "mixed");
   updateAllCountLabel();
 
