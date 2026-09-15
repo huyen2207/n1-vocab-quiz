@@ -4,7 +4,6 @@ STT,漢字,音（漢越）,読み方,意味
 1461,錯覚,ẢO GIÁC,さっかく,ảo giác / nhầm tưởng
 1462,着工,TRỨ CÔNG,ちゃっこう,xây dựng / khởi công
 1463,直感,TRỰC CẢM,ちょっかん,trực giác / trực cảm
-1464,復活,PHỤC HOẠT,ふっかつ,sống lại / tái sinh lại
 1466,落下,LẠC HẠ,らっか,rơi / ngã xuống
 1467,客観,KHÁCH QUAN,きゃっかん,khách quan
 1468,国交,QUỐC GIAO,こっこう,ngoại giao
@@ -20,7 +19,6 @@ STT,漢字,音（漢越）,読み方,意味
 1480,昨今,TÁC KIM,さっこん,gần đây
 1481,触覚,XÚC GIÁC,しょっかく,xúc giác
 1482,触感,XÚC CẢM,しょっかん,xúc cảm
-1483,圧倒,ÁP ĐẢO,あっとう,áp đảo
 1484,圧迫,ÁP BÁCH,あっぱく,áp bức / sức ép / bó chặt
 1485,結晶,KẾT TINH,けっしょう,kết tinh
 1486,結束,KẾT THÚC,けっそく,sự đoàn kết / trói buộc
@@ -41,9 +39,6 @@ STT,漢字,音（漢越）,読み方,意味
 1501,決行,QUYẾT HÀNH,けっこう,quyết làm / tiến hành / thực hiện
 1502,結成,KẾT THÀNH,けっせい,thành lập / tạo (tổ chức / đoàn thể)
 1504,失脚,THẤT KHƯỚC,しっきゃく,bị giáng chức / cách chức
-1505,実践,THỰC TIỄN,じっせん,thực tiễn
-1506,嫉妬,TẬT ĐỐ,しっと,ghen tị / đố kỵ
-1508,出産,XUẤT SẢN,しゅっさん,sinh đẻ
 1509,出生,XUẤT SINH,しゅっしょう,sinh đẻ
 1510,出世,XUẤT THẾ,しゅっせ,thăng tiến
 1511,切開,THIẾT KHAI,せっかい,mổ
@@ -54,7 +49,6 @@ STT,漢字,音（漢越）,読み方,意味
 1521,別居,BIỆT CƯ,べっきょ,ở riêng
 1522,圧勝,ÁP THẮNG,あっしょう,chiến thắng áp đảo
 1524,欠航,KHIẾM HÀNG,けっこう,hủy chuyến (máy bay / tàu)
-1525,決済,QUYẾT TẾ,けっさい,thanh toán / quyết toán
 1526,決着,QUYẾT TRỨ,けっちゃく,quyết định / dứt điểm (thể thao)
 1527,殺菌,SÁT KHUẨN,さっきん,sát khuẩn
 1528,殺到,SÁT ĐÁO,さっとう,chen lấn / ùn tắc (người / vật)
@@ -62,12 +56,8 @@ STT,漢字,音（漢越）,読み方,意味
 1530,実証,THỰC CHỨNG,じっしょう,chứng thực / kiểm chứng
 1531,失神,THẤT THẦN,しっしん,sốc / bị đả kích / đánh mất ý thức
 1532,出荷,XUẤT HÀ,しゅっか,xuất hàng / xuất kho
-1533,出航,XUẤT HÀNG,しゅっこう,xuất phát / khởi hành (máy bay / tàu)
-1534,接客,TIẾP KHÁCH,せっきゃく,tiếp xúc với khách hàng
-1535,説教,THUYẾT GIÁO,せっきょう,thuyết giáo / giáo lý
 1536,絶交,TUYỆT GIAO,ぜっこう,cắt đứt quan hệ
 1537,絶賛,TUYỆT TÁN,ぜっさん,ca ngợi / khen ngợi
-1538,摂取,HẤP THU,せっしゅ,hấp thu / tiếp thu
 1539,接戦,TIẾP CHIẾN,せっせん,cận chiến / đến gần hơn để chiến đấu
 1540,接待,TIẾP ĐÃI,せったい,tiếp đãi
 1541,接着,TIẾP TRỨ,せっちゃく,bám dính / dính vào
@@ -96,7 +86,6 @@ STT,漢字,音（漢越）,読み方,意味
 1566,結核,KẾT HẠCH,けっかく,bệnh lao
 1567,決算,QUYẾT TOÁN,けっさん,quyết toán
 1568,月謝,NGUYỆT TẠ,げっしゃ,tiền học phí tháng / tiền trả ơn 1 tháng
-1569,実家,THỰC GIA,じっか,nhà bố mẹ / nơi sinh ra
 1570,実質,THỰC CHẤT,じっしつ,bản chất / thực chất
 1571,鉄鋼,THIẾT CƯƠNG,てっこう,dây sắt / thép
 1572,特許,ĐẶC HỨA,とっきょ,bằng sáng chế / cấp phép

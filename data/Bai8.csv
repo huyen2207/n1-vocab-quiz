@@ -1,8 +1,6 @@
 STT,漢字,音（漢越）,読み方,意味
 925,航海,HÀNG HẢI,こうかい,du lịch trên biển bằng tàu
 926,抗議,KHÁNG NGHỊ,こうぎ,phàn nàn / khiếu nại
-929,向上,HƯỚNG THƯỢNG,こうじょう,nâng cao / cải thiện
-930,拘束,CÂU THÚC,こうそく,ràng buộc / kiềm chế / hạn chế
 931,購読,CẤU ĐỘC,こうどく,việc đặt mua báo
 932,交付,GIAO PHÓ,こうふ,cấp / phát (giấy tờ...)
 933,興奮,HƯNG PHẤN,こうふん,hưng phấn
@@ -61,7 +59,6 @@ STT,漢字,音（漢越）,読み方,意味
 997,優越,ƯU VIỆT,ゆうえつ,xuất sắc / ưu việt
 998,融資,DUNG TƯ,ゆうし,khoản vay
 999,養護,DƯỠNG HỘ,ようご,bảo vệ và chăm sóc đặc biệt
-1000,要望,YẾU VỌNG,ようぼう,mong muốn / nguyện vọng
 1001,押印,ÁP ẤN,おういん,đóng dấu / đóng mộc
 1002,押収,ÁP THU,おうしゅう,tịch thu
 1003,興行,HƯNG HÀNH,こうぎょう,biểu diễn / giải trí / buổi trình diễn
@@ -102,20 +99,16 @@ STT,漢字,音（漢越）,読み方,意味
 1041,行楽,HÀNH LẠC,こうらく,vui chơi giải trí
 1042,効率,HIỆU SUẤT,こうりつ,hiệu suất
 1044,相応,TƯƠNG ỨNG,そうおう,tương ứng / phù hợp
-1045,騒音,TAO ÂM,そうおん,tiếng ồn
-1047,通常,THÔNG THƯỞNG,つうじょう,thông thường / thường lệ
 1048,陶器,ĐÀO KHÍ,とうき,đồ gốm
 1049,濃度,NỒNG ĐỘ,のうど,nồng độ
 1051,冒頭,MẠO ĐẦU,ぼうとう,lời mở đầu
 1052,優位,ƯU VỊ,ゆうい,vị trí tốt
 1053,優勢,ƯU THẾ,ゆうせい,ưu thế
 1055,様相,DẠNG TƯƠNG,ようそう,diện mạo / phương diện / mặt vấn đề
-1056,廊下,LANG HẠ,ろうか,hành lang
 1057,黄金,HOÀNG KIM,おうごん / こがね,hoàng kim / vàng
 1058,好況,HẢO HUỐNG,こうきょう,tình trạng tốt (kinh tế...)
 1059,興業,HƯNG NGHIỆP,こうぎょう,khởi nghiệp
 1060,鉱山,KHOÁNG SAN,こうざん,quặng mỏ
-1061,後半,HẬU BÁN,こうはん,nửa sau / hiệp 2
 1063,騒動,TAO ĐỘNG,そうどう,náo động
 1064,動向,ĐỘNG HƯỚNG,どうこう,khuynh hướng / động thái / hướng đi
 1065,農耕,NÔNG CANH,のうこう,nông nghiệp / công việc đồng áng
