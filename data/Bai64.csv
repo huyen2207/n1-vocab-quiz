@@ -1,78 +1,43 @@
 STT,漢字,音（漢越）,読み方,意味
-8224,明るみ,MINH (明),あかるみ,"chỗ sáng, sáng tỏ"
 8225,ありがたみ,-,ありがたみ,lòng biết ơn
-8226,いやみ,-,いやみ,lời lẽ khó nghe
-8227,うまみ,-,うまみ,vị ngon
 8232,憎しみ,TĂNG (憎),にくしみ,"oán hận, ghét"
-8233,丸み,HOÀN (丸),まるみ,"hình dạng tròn, làm tròn"
-8236,良し悪し,LƯƠNG ÁC (良悪),よしあし,tốt xấu
 8242,諦め,ĐẾ (諦),あきらめ,từ bỏ
-8243,憧れ,SUNG (憧),あこがれ,ước ao
 8244,味わい,VỊ (味),あじわい,"hương vị, thú vị"
 8248,争い,TRANH (争),あらそい,tranh giành
-8250,祈り,KỲ (祈),いのり,cầu nguyện
-8251,動き,ĐỘNG (動),うごき,hoạt động
-8252,訴え,TỐ (訴),うったえ,"tố tụng, khiếu kiện"
 8256,賭け,ĐỔ (賭),かけ,"cá cược, đặt cược"
 8257,構え,CẤU (構),かまえ,"tư thế, thế đứng, cấu tạo"
 8258,狩り,THÚ (狩),かり,săn bắt
 8265,償い,THƯỜNG (償),つぐない,"bồi thường, đền bù"
-8267,盗み,ĐẠO (盗),ぬすみ,trộm cắp
 8270,憤り,PHẪN (憤),いきどおり,phẫn nộ
-8271,偽り,NGỤY (偽),いつわり,"làm giả, ngụy tạo"
 8273,飢え,CƠ (飢),うえ,đói
-8274,疑い,NGHI (疑),うたがい,nghi ngờ
 8275,潤い,NHUẬN (潤),うるおい,làm ướt
-8279,切り,THIẾT (切),きり,"vết cắt, giới hạn"
-8283,蓄え,SÚC (蓄),たくわえ,tích trữ
 8285,企み,XÍ (企),たくらみ,"kế hoạch, âm mưu"
-8286,頼り,LẠI (頼),たより,nhờ cậy
 8288,訛り,NGOA (訛),なまり,âm điệu (giọng địa phương)
-8289,並び,TỊNH (並),ならび,"sắp xếp, bày trí"
-8292,儲け,TRỮ (儲),もうけ,kiếm lời
-8293,許し,HỨA (許),ゆるし,"cho phép, tha thứ"
-8294,行き違い,HÀNH VI (行違),いきちがい,"đi ngang qua nhau, hiểu lầm, lạc thư"
 8295,気兼ね,KHÍ KIÊM (気兼),きがね,"khách sáo, câu nệ"
 8296,仕掛け,SĨ CÁI (仕掛),しかけ,"làm dở dang, cách làm, chuẩn bị"
 8298,手がかり,THỦ (手),てがかり,"gợi ý, chỗ để vịn"
-8300,取り締まり,THỦ ĐẾ (取締),とりしまり,"quản lý, giám sát"
 8301,振り出し,CHẤN XUẤT (振出),ふりだし,"lắc ra, giũ tung ra, bắt đầu"
-8302,見込み,KIẾN (見),みこみ,"dự định, kì vọng, khả năng"
 8304,体付き,THỂ PHÓ (体付),からだつき,hình dáng cơ thể
 8305,目付き,MỤC PHÓ (目付),めつき,ánh nhìn
 8307,仕上がり,SĨ THƯỢNG (仕上),しあがり,"hoàn thành, làm xong"
 8308,仕上げ,SĨ THƯỢNG (仕上),しあげ,"phần hoàn thành, công đoạn sau cùng"
-8309,お手上げ,THỦ THƯỢNG (手上),おてあげ,"tiêu tùng, (từ lóng) đi tong, toi mạng"
-8311,手遅れ,THỦ TRÌ (手遅),ておくれ,"quá trễ, quá muộn"
-8312,後回し,HẬU HỒI (後回),あとまわし,"hoãn lại, dời lại"
 8313,根回し,CĂN HỒI (根回),ねまわし,"nén chặt rễ, tìm hiểu kĩ (trước khi làm)"
-8314,遠回り,VIỄN HỒI (遠回),とおまわり,"quanh co, lòng vòng"
 8315,裏返し,LÝ PHẢN (裏返),うらがえし,"lộn ngược, lật ngược (trong ra ngoài)"
 8316,宙返り,TRỤ PHẢN (宙返),ちゅうがえり,"nhào lộn, bập bênh, đổ nhào"
 8317,下調べ,HẠ ĐIỀU (下調),したしらべ,điều tra trước
 8318,下取り,HẠ THỦ (下取),したどり,đổi cũ lấy mới (bù thêm tiền)
-8319,戸締まり,HỘ ĐẾ (戸締),とじまり,khoá cửa
-8320,戸惑い,HỘ HOẶC (戸惑),とまどい,"lạc đường, mất phương hướng"
-8321,共稼ぎ,CỘNG GIÁ (共稼),ともかせぎ,vợ chồng đều kiếm tiền
-8322,共働き,CỘNG (共),ともばたらき,vợ chồng đều làm việc
 8323,値打ち,TRỊ ĐẢ (値打),ねうち,"giá trị, giá cả, đánh giá"
 8324,値引き,TRỊ DẪN (値引),ねびき,giảm giá
 8325,日取り,NHẬT THỦ (日取),ひどり,"định ngày, ngày dự định"
-8326,日焼け,NHẬT THIÊU (日焼),ひやけ,rám nắng
 8327,前売り,TIỀN MẠI (前売),まえうり,bán trước
 8328,前置き,TIỀN TRÍ (前置),まえおき,lời nói đầu
-8329,受け入れ,THỤ NHẬP (受入),うけいれ,tiếp nhận
 8330,受け持ち,THỤ TRÌ (受持),うけもち,đảm nhận
 8331,打ち消し,ĐẢ TIÊU (打消),うちけし,"phủ định, phủ nhận"
-8332,生まれつき,SINH (生),うまれつき,bẩm sinh
 8333,売り出し,MẠI XUẤT (売出),うりだし,"bắt đầu bán, nổi tiếng, tiền bán được"
 8335,思いつき,TƯ (思),おもいつき,"bất chợt, ứng khẩu, không chuẩn bị từ trước"
 8336,差し引き,SAI DẪN (差引),さしひき,"trừ đi, phần còn lại, tăng giảm"
-8337,すれ違い,VI (違),すれちがい,đi lướt qua nhau
 8338,出直し,XUẤT TRỰC (出直),でなおし,bắt đầu lại
-8339,取り扱い,THỦ (取),とりあつかい,"đối đãi, thao tác"
 8340,取り替え,THỦ THẾ (取替),とりかえ,"trao đổi, dự bị"
-8341,待ち合わせ,ĐÃI HỢP (待合),まちあわせ,chỗ hẹn
 8342,見合い,KIẾN HỢP (見合),みあい,"coi mắt, bằng điểm nhau (cờ vây)"
 8343,見積もり,KIẾN TÍCH (見積),みつもり,dự toán
 8344,見通し,KIẾN THÔNG (見通),みとおし,"nhìn xa trông rộng, đọc suy nghĩ người khác, dự đoán"
@@ -86,14 +51,9 @@ STT,漢字,音（漢越）,読み方,意味
 8353,箇条書き,CÁ ĐIỀU THƯ (箇条書),かじょうがき,điều khoản
 8355,区切り,KHU THIẾT (区切),くぎり,"phạm vi, đầu mút"
 8357,首飾り,THỦ SỨC (首飾),くびかざり,vòng đeo cổ
-8358,心掛け,TÂM CÁI (心掛),こころがけ,"ghi nhớ, có dụng ý"
 8359,度忘れ,ĐỘ VONG (度忘),どわすれ,chợt quên
 8360,荷造り,HÀ TẠO (荷造),にづくり,xếp hành lý
 8362,振る舞い,CHẤN VŨ (振舞),ふるまい,"động tác, hành động, cử động, thết đãi"
-8363,身振り,THÂN CHẤN (身振),みぶり,"cử chỉ, điệu bộ"
 8364,無駄遣い,VÔ ĐÀ KHIỂN (無駄遣),むだづかい,phung phí
 8365,目盛り,MỤC THỊNH (目盛),めもり,"dấu chia độ, vạch thang đo"
 8366,夕暮れ,TỊCH MỘ (夕暮),ゆうぐれ,"chiều tối, hoàng hôn"
-8368,よそ見,KIẾN (見),よそみ,nhìn sang hướng khác
-8369,夜更かし,DẠ CANH (夜更),よふかし,thức khuya
-8370,夜更け,DẠ CANH (夜更),よふけ,đêm khuya
