@@ -1,29 +1,20 @@
 STT,漢字,音（漢越）,読み方,意味
-5527,好意,HẢO Ý,こうい,"hảo ý, ý tốt"
 5528,好感,HẢO CẢM,こうかん,"thiện cảm, cảm tình tốt"
 5529,好機,HẢO CƠ,こうき,"thời cơ, cơ hội tốt"
 5530,好況,HẢO HUỐNG,こうきょう,kinh tế phát triển
 5531,好調,HẢO ĐIỀU,こうちょう,"tình trạng tốt, điều kiện thuận lợi"
-5532,好評,HẢO BÌNH,こうひょう,đánh giá tốt
-5533,好物,HẢO VẬT,こうぶつ,"món yêu thích, đồ ăn tốt cho người bệnh"
-5534,絶好,TUYỆT HẢO,ぜっこう,"tuyệt hảo, tuyệt vời"
 5535,好転,HẢO CHUYỂN,こうてん,chuyển biến tốt
 5536,嗜好,THỊ HẢO,しこう,"khẩu vị, sở thích (ăn, uống)"
-5537,高圧,CAO ÁP,こうあつ,cao áp
 5538,高架,CAO GIÁ,こうか,"đưa lên cao, nâng lên cao"
 5539,高額,CAO NGẠCH,こうがく,khoản tiền lớn
 5540,高原,CAO NGUYÊN,こうげん,cao nguyên
-5541,高尚,CAO THƯỢNG,こうしょう,"cao thượng, cao cả"
 5542,高利,CAO LỢI,こうり,lãi cao
-5543,高率,CAO SUẤT,こうりつ,tỉ lệ cao
 5544,高齢,CAO LINH,こうれい,"tuổi cao, lớn tuổi"
-5545,残高,TÀN CAO,ざんだか,số dư tài khoản
 5546,崇高,SÙNG CAO,すうこう,"cao cả, hùng vĩ, uy nghiêm"
 5547,出来高,XUẤT LAI CAO,できだか,"doanh thu, lượng thu hoạch"
 5548,高騰,CAO ĐẰNG,こうとう,tăng vọt (giá cả)
 5549,数詞,SỐ TỪ,すうし,"số từ, chữ số"
 5550,数式,SỐ THỨC,すうしき,công thức toán
-5551,数値,SỐ TRỊ,すうち,trị số
 5552,数量,SỐ LƯỢNG,すうりょう,số lượng
 5553,関数,QUAN SỐ,かんすう,hàm số
 5554,奇数,KỲ SỐ,きすう,số lẻ
@@ -31,9 +22,7 @@ STT,漢字,音（漢越）,読み方,意味
 5556,定数,ĐỊNH SỐ,ていすう,hằng số
 5557,未知数,VỊ TRI SỐ,みちすう,ẩn số
 5558,相棒,TƯƠNG BỔNG,あいぼう,đồng bọn
-5559,相撲,TƯƠNG BÁC,すもう,môn võ Sumo
 5560,相応,TƯƠNG ỨNG,そうおう,"tương xứng, phù hợp, ứng với"
-5561,相互,TƯƠNG HỖ,そうご,"lẫn nhau, qua lại"
 5562,相似,TƯƠNG TỰ,そうじ,tương tự
 5563,相対,TƯƠNG ĐỐI,そうたい,tương đối
 5564,相場,TƯƠNG TRƯỜNG,そうば,"giá thị trường, tỉ giá hối đoái"
@@ -50,10 +39,7 @@ STT,漢字,音（漢越）,読み方,意味
 5575,創造,SÁNG TẠO,そうぞう,sáng tạo
 5576,創立,SÁNG LẬP,そうりつ,sáng lập
 5577,送還,TỐNG HOÀN,そうかん,gửi trả về
-5578,送金,TỐNG KIM,そうきん,gửi tiền
-5579,送迎,TỐNG NGHÊNH,そうげい,tiễn và đón
 5580,送検,TỐNG KIỂM,そうけん,chuyển đến để xem xét
-5581,送信,TỐNG TÍN,そうしん,"phát tín hiệu, gửi tin"
 5582,送付,TỐNG PHÓ,そうふ,gửi đi
 5583,運送,VẬN TỐNG,うんそう,"vận chuyển, chuyên chở"
 5584,回送,HỒI TỐNG,かいそう,"chuyền theo vòng, chuyển tiếp"
@@ -66,7 +52,6 @@ STT,漢字,音（漢越）,読み方,意味
 5591,総勢,TỔNG THẾ,そうぜい,tổng quân lực
 5592,総力,TỔNG LỰC,そうりょく,tổng lực
 5593,総括,TỔNG QUÁT,そうかつ,tổng quát
-5594,総合,TỔNG HỢP,そうごう,tổng hợp
 5595,増員,TĂNG VIÊN,ぞういん,tăng số người
 5596,増額,TĂNG NGẠCH,ぞうがく,tăng tiền
 5597,増強,TĂNG CƯỜNG,ぞうきょう,"gia tăng, tăng cường"
@@ -82,7 +67,6 @@ STT,漢字,音（漢越）,読み方,意味
 5607,通称,THÔNG XƯNG,つうしょう,tên thường gọi
 5608,通常,THÔNG THƯỜNG,つうじょう,"thông thường, như thường lệ"
 5609,通年,THÔNG NIÊN,つうねん,"suốt năm, quanh năm"
-5610,通訳,THÔNG DỊCH,つうやく,thông dịch
 5611,通夜,THÔNG DẠ,つや,thức trông coi đám tang
 5612,不通,BẤT THÔNG,ふつう,"mất kết nối, không thông"
 5613,通告,THÔNG CÁO,つうこく,thông cáo
@@ -105,7 +89,6 @@ STT,漢字,音（漢越）,読み方,意味
 5630,血統,HUYẾT THỐNG,けっとう,huyết thống
 5631,正統,CHÍNH THỐNG,せいとう,chính thống
 5632,伝統,TRUYỀN THỐNG,でんとう,truyền thống
-5633,統一,THỐNG NHẤT,とういつ,thống nhất
 5634,統括,THỐNG QUÁT,とうかつ,"chủ trì, chỉ huy, gom lại"
 5635,統合,THỐNG HỢP,とうごう,"hợp nhất, gom lại làm một"
 5636,統制,THỐNG CHẾ,とうせい,"thống trị, điều khiển, cai quản"
@@ -127,7 +110,6 @@ STT,漢字,音（漢越）,読み方,意味
 5652,当事者,ĐƯƠNG SỰ GIẢ,とうじしゃ,"đương sự, bên có liên quan"
 5653,正当,CHÍNH ĐƯƠNG,せいとう,"chính đáng, xứng đáng"
 5654,妥当,THỎA ĐƯƠNG,だとう,"thỏa đáng, chính đáng"
-5655,手当,THỦ ĐƯƠNG,てあて,"tiền phụ cấp, trị bệnh"
 5656,不当,BẤT ĐƯƠNG,ふとう,"phi lý, không thỏa đáng"
 5657,割当,CÁT ĐƯƠNG,わりあて,"chia phần, phân bổ, hạn ngạch"
 5658,当選,ĐƯƠNG TUYỂN,とうせん,đắc cử
@@ -139,7 +121,6 @@ STT,漢字,音（漢越）,読み方,意味
 5664,動向,ĐỘNG HƯỚNG,どうこう,"xu hướng, chiều hướng"
 5665,動静,ĐỘNG TĨNH,どうせい,động tĩnh
 5666,動力,ĐỘNG LỰC,どうりょく,động lực
-5667,言動,NGÔN ĐỘNG,げんどう,lời nói và hành động
 5668,受動,THỤ ĐỘNG,じゅどう,thụ động
 5669,能動,NĂNG ĐỘNG,のうどう,"năng động, chủ động"
 5670,反動,PHẢN ĐỘNG,はんどう,"dội lại, giật lùi, tác động ngược lại"

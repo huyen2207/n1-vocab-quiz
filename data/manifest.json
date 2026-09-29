@@ -234,57 +234,57 @@
     {
       "num": 34,
       "file": "Bai34.csv",
-      "count": 126,
+      "count": 103,
       "startStt": 4474,
       "endStt": 4599
     },
     {
       "num": 35,
       "file": "Bai35.csv",
-      "count": 104,
+      "count": 81,
       "startStt": 4600,
       "endStt": 4703
     },
     {
       "num": 36,
       "file": "Bai36.csv",
-      "count": 161,
+      "count": 130,
       "startStt": 4704,
       "endStt": 4864
     },
     {
       "num": 37,
       "file": "Bai37.csv",
-      "count": 147,
+      "count": 126,
       "startStt": 4865,
-      "endStt": 5011
+      "endStt": 5010
     },
     {
       "num": 38,
       "file": "Bai38.csv",
-      "count": 178,
-      "startStt": 5012,
-      "endStt": 5189
+      "count": 138,
+      "startStt": 5016,
+      "endStt": 5188
     },
     {
       "num": 39,
       "file": "Bai39.csv",
-      "count": 162,
-      "startStt": 5190,
+      "count": 142,
+      "startStt": 5191,
       "endStt": 5351
     },
     {
       "num": 40,
       "file": "Bai40.csv",
-      "count": 175,
-      "startStt": 5352,
+      "count": 136,
+      "startStt": 5353,
       "endStt": 5526
     },
     {
       "num": 41,
       "file": "Bai41.csv",
-      "count": 163,
-      "startStt": 5527,
+      "count": 144,
+      "startStt": 5528,
       "endStt": 5689
     },
     {
@@ -566,7 +566,7 @@
       "label": "Bai63〜68"
     }
   ],
-  "totalWords": 7111,
+  "totalWords": 6895,
   "missing": [
     59
   ],
