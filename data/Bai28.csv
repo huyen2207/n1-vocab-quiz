@@ -1,8 +1,7 @@
 STT,漢字,音（漢越）,読み方,意味
 3505,除外,TRỪ NGOẠI,じょがい,ngoại trừ
-3506,除去,TRỪ KHỨ,じょきょ,loại trừ
 3507,除湿,TRỪ THẤP,じょしつ,"làm khô không khí, hút ẩm"
-3508,除籍,TRỪ TỊCH,じょせき,loại bỏ tên (hộ tịch | danh sách)
+3508,除籍,TRỪ TỊCH,じょせき,"loại bỏ tên (hộ tịch, danh sách)"
 3509,除雪,TRỪ TUYẾT,じょせつ,"xúc tuyết, dọn tuyết"
 3510,控除,KHỐNG TRỪ,こうじょ,khấu trừ
 3511,切除,THIẾT TRỪ,せつじょ,cắt bỏ (khối u...)
@@ -11,7 +10,6 @@ STT,漢字,音（漢越）,読み方,意味
 3514,序文,TỰ VĂN,じょぶん,"lời nói đầu, lời tựa (sách...)"
 3515,序列,TỰ LIỆT,じょれつ,"trật tự, thứ bậc"
 3516,序論,TỰ LUẬN,じょろん,"đoạn mào đầu, phần mở đầu"
-3517,順序,THUẬN TỰ,じゅんじょ,thứ tự
 3518,秩序,TRẬT TỰ,ちつじょ,trật tự
 3519,図案,ĐỒ ÁN,ずあん,"mẫu thiết kế, đồ thị"
 3520,図解,ĐỒ GIẢI,ずかい,"diễn giải bằng hình, minh họa bằng đồ thị"
@@ -20,11 +18,9 @@ STT,漢字,音（漢越）,読み方,意味
 3523,絵図,HỘI ĐỒ,えず,biểu đồ tranh
 3524,構図,CẤU ĐỒ,こうず,"hợp thành, kết cấu"
 3525,図示,ĐỒ THỊ,ずし,"đồ thị, biểu hiện"
-3526,意図,Ý ĐỒ,いと,"ý đồ, mục đích, ý định"
 3527,世紀,THẾ KỶ,せいき,thế kỉ
 3528,世間,THẾ GIAN,せけん,thế gian
 3529,世相,THẾ TƯƠNG,せそう,tình hình xã hội
-3530,世帯,THẾ ĐỚI,せたい,"thế hệ, đơn vị gia đình"
 3531,世代,THẾ ĐẠI,せだい,thế hệ
 3532,世論,THẾ LUẬN,よろん／せろん,"dư luận, công luận"
 3533,後世,HẬU THẾ,こうせい,"hậu thế, thế hệ sau"
@@ -74,20 +70,14 @@ STT,漢字,音（漢越）,読み方,意味
 3577,微笑,VI TIẾU,びしょう,mỉm cười
 3578,母音,MẪU ÂM,ぼいん,nguyên âm
 3579,母系,MẪU HỆ,ぼけい,mẫu hệ
-3580,母語,MẪU NGỮ,ぼご,tiếng mẹ đẻ
 3581,母校,MẪU HIỆU,ぼこう,"trường xưa, trường tôi"
-3582,母国,MẪU QUỐC,ぼこく,đất nước tôi
 3583,母性,MẪU TÍNH,ぼせい,"tình mẹ, thiên chức làm mẹ"
 3584,母体,MẪU THỂ,ぼたい,"cơ thể người mẹ, tử cung, dạ con"
 3585,母胎,MẪU THAI,ぼたい,"thai mẹ, nhau thai"
 3586,義母,NGHĨA MẪU,ぎぼ,mẹ nuôi
 3587,継母,KẾ MẪU,けいぼ,"kế mẫu, mẹ kế"
-3588,夜勤,DẠ CẦN,やきん,làm việc ban đêm
-3589,夜景,DẠ CẢNH,やけい,cảnh về đêm
-3590,夜食,DẠ THỰC,やしょく,"bữa tối, bữa phụ sau bữa tối"
 3591,夜分,DẠ PHÂN,やぶん,"đêm, tối, khuya"
 3592,初夜,SƠ DẠ,しょや,đêm tân hôn
-3593,深夜,THÂM DẠ,しんや,đêm khuya
 3594,日夜,NHẬT DẠ,にちや,ngày đêm
 3595,連夜,LIÊN DẠ,れんや,hàng đêm
 3596,野外,DÃ NGOẠI,やがい,"dã ngoại, ngoài trời"
@@ -98,21 +88,15 @@ STT,漢字,音（漢越）,読み方,意味
 3601,野党,DÃ ĐẢNG,やとう,đảng phản đối
 3602,原野,NGUYÊN DÃ,げんや,đất hoang
 3603,荒野,HOANG DÃ,こうや,đất bỏ hoang
-3604,視野,THỊ DÃ,しや,"tầm nhìn, tầm hiểu biết"
-3605,分野,PHÂN DÃ,ぶんや,lĩnh vực
-3606,余暇,DƯ HẠ,よか,rảnh rỗi
 3607,余興,DƯ HƯNG,よきょう,biểu diễn văn nghệ góp vui
 3608,余剰,DƯ THẶNG,よじょう,thặng dư
 3609,余談,DƯ ĐÀM,よだん,chuyện bên lề
-3610,余地,DƯ ĐỊA,よち,đất trống
 3611,余白,DƯ BẠCH,よはく,phần để trống
 3612,余命,DƯ MỆNH,よめい,cuộc đời còn lại
 3613,予断,DỰ ĐOÁN,よだん,đoán trước
 3614,猶予,DO DỰ,ゆうよ,"gia hạn, trì hoãn"
-3615,予感,DỰ CẢM,よかん,dự cảm
 3616,予言,DỰ NGÔN,よげん,"nói trước, điềm báo trước"
 3617,予告,DỰ CÁO,よこく,"thông báo trước, cảnh báo"
-3618,予想,DỰ TƯỞNG,よそう,"dự báo, tiên đoán"
 3619,利子,LỢI TỬ,りし,"lãi tức, tiền lời"
 3620,利潤,LỢI NHUẬN,りじゅん,lợi nhuận
 3621,利息,LỢI TỨC,りそく,lợi tức
@@ -125,15 +109,11 @@ STT,漢字,音（漢越）,読み方,意味
 3628,路面,LỘ DIỆN,ろめん,mặt đường
 3629,岐路,KỲ LỘ,きろ,"bước ngoặt, điểm chia cắt"
 3630,和式,HÒA THỨC,わしき,kiểu Nhật
-3631,和食,HÒA THỰC,わしょく,món Nhật
-3632,和風,HÒA PHONG,わふう,phong cách Nhật
 3633,和文,HÒA VĂN,わぶん,"chữ Nhật, văn bằng tiếng Nhật"
-3634,和平,HÒA BÌNH,わへい,"hòa bình, làm lành"
 3635,和訳,HÒA DỊCH,わやく,dịch sang tiếng Nhật
 3636,温和,ÔN HÒA,おんわ,"ôn hòa (thời tiết, tính cách)"
 3637,親和,THÂN HÒA,しんわ,"hòa hợp, tương thích"
 3638,不和,BẤT HÒA,ふわ,bất hòa
 3639,和解,HÒA GIẢI,わかい,"hòa giải, làm lành"
-3640,緩和,HOÃN HÒA,かんわ,"làm dịu, nới lỏng"
 3641,調和,ĐIỀU HÒA,ちょうわ,điều hòa
 3642,飽和,BÃO HÒA,ほうわ,bão hòa

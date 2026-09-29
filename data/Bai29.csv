@@ -1,44 +1,28 @@
 STT,漢字,音（漢越）,読み方,意味
-3643,維持,DUY TRÌ,いじ,duy trì
-3644,繊維,TIÊM DUY,せんい,"sợi, chất xơ"
-3645,委託,ỦY THÁC,いたく,ủy thác
 3646,委任,ỦY NHIỆM,いにん,ủy nhiệm
 3647,委細,ỦY TẾ,いさい,"chi tiết, tường tận"
-3648,違反,VI PHẢN,いはん,vi phạm
 3649,違法,VI PHÁP,いほう,"phạm luật, trái phép"
-3650,衣装,Y TRANG,いしょう,trang phục
 3651,衣料,Y LIỆU,いりょう,"quần áo, chất liệu may"
-3652,衣類,Y LOẠI,いるい,quần áo
-3653,依存,Y TỒN,いぞん,"dựa vào, phụ thuộc"
-3654,依頼,Y LẠI,いらい,"nhờ cậy, yêu cầu"
-3655,威力,UY LỰC,いりょく,"sức mạnh, uy lực"
 3656,威厳,UY NGHIÊM,いげん,uy nghiêm
-3657,汚染,Ô NHIỄM,おせん,ô nhiễm
 3658,汚職,Ô CHỨC,おしょく,"tham ô, tham nhũng"
 3659,汚点,Ô ĐIỂM,おてん,"chỗ dơ, vết nhơ"
 3660,架空,GIÁ KHÔNG,かくう,"hư cấu, tưởng tượng"
 3661,高架,CAO GIÁ,こうか,"đưa lên cao, nâng lên cao"
 3662,化繊,HÓA TIÊM,かせん,sợi tổng hợp
 3663,化合,HÓA HỢP,かごう,hợp chất hóa học
-3664,企画,XÍ HỌA,きかく,kế hoạch
-3665,企業,XÍ NGHIỆP,きぎょう,xí nghiệp
 3666,危害,NGUY HẠI,きがい,nguy hại
-3667,危機,NGUY CƠ,きき,khủng hoảng
 3668,危惧,NGUY CỤ,きぐ,sợ sệt
 3669,器官,KHÍ QUAN,きかん,"cơ quan, bộ máy"
 3670,器材,KHÍ TÀI,きざい,"thiết bị, máy móc"
 3671,期日,KỲ NHẬT,きじつ,"ngày đến hạn, ngày đã định"
 3672,期末,KỲ MẠT,きまつ,cuối kì
-3673,義務,NGHĨA VỤ,ぎむ,nghĩa vụ
 3674,犠牲,HY SINH,ぎせい,hy sinh
 3675,儀式,NGHI THỨC,ぎしき,nghi thức
-3676,既婚,KÍ HÔN,きこん,đã kết hôn
 3677,既成,KÍ THÀNH,きせい,"làm sẵn, đã rồi"
 3678,既存,KÍ TỒN,きそん,đã tồn tại
 3679,既知,KÍ TRI,きち,đã biết rồi
 3680,寄生,KÍ SINH,きせい,"sống kí sinh, sống bám"
 3681,寄贈,KÍ TẶNG,きぞう,"tặng, biếu"
-3682,寄附／寄付,KÍ PHỤ,きふ,"tặng cho, quyên góp"
 3683,寄与,KÍ DỮ,きよ,đóng góp
 3684,拒否,CỰ PHỦ,きょひ,"cự tuyệt, bác bỏ"
 3685,拒絶,CỰ TUYỆT,きょぜつ,cự tuyệt
@@ -49,31 +33,24 @@ STT,漢字,音（漢越）,読み方,意味
 3690,固有,CỐ HỮU,こゆう,"có từ trước, sẵn có"
 3691,固定,CỐ ĐỊNH,こてい,cố định
 3692,固執,CỐ CHẤP,こしつ,cố chấp
-3693,個性,CÁ TÍNH,こせい,cá tính
-3694,個別,CÁ BIỆT,こべつ,cá biệt
 3695,差額,SAI NGẠCH,さがく,"khoản còn lại, khoản dư"
 3696,差異,SAI DỊ,さい,sự sai khác
 3697,砂漠,SA MẠC,さばく,sa mạc
 3698,砂丘,SA KHÂU,さきゅう,"đồi cát, đụn cát"
-3699,作用,TÁC DỤNG,さよう,tác dụng
 3700,作動,TÁC ĐỘNG,さどう,tác động
 3701,査察,TRA SÁT,ささつ,"thị sát, điều tra thực tế"
 3702,査定,TRA ĐỊNH,さてい,"đánh giá, thẩm định, định giá"
 3703,査証,TRA CHỨNG,さしょう,"thị thực, visa"
 3704,座標,TỌA TIÊU,ざひょう,tọa độ
 3705,座礁,TỌA TIÊU,ざしょう,mắc cạn (tàu thuyền)
-3706,思考,TƯ KHẢO,しこう,suy nghĩ
 3707,試行,THÍ HÀNH,しこう,thử nghiệm
 3708,試練,THÍ LUYỆN,しれん,thử thách
-3709,施行,THI HÀNH,しこう,"thực hiện, thi hành"
 3710,施設,THI THIẾT,しせつ,"thiết bị, cơ sở vật chất"
 3711,志向,CHÍ HƯỚNG,しこう,chí hướng
 3712,志望,CHÍ VỌNG,しぼう,nguyện vọng
 3713,志願,CHÍ NGUYỆN,しがん,"nguyện ước, kì vọng"
 3714,支持,CHI TRÌ,しじ,"nâng đỡ, duy trì"
 3715,支援,CHI VIỆN,しえん,"hỗ trợ, chi viện"
-3716,支店,CHI ĐIẾM,してん,cửa hàng chi nhánh
-3717,始末,THỦY MẠT,しまつ,"xếp gọn gàng, tiết kiệm"
 3718,始発,THỦY PHÁT,しはつ,"khởi hành đầu tiên, chuyến đầu"
 3719,紙幣,CHỈ TỆ,しへい,tiền giấy
 3720,紙上,CHỈ THƯỢNG,しじょう,"trên báo, mặt giấy"
@@ -89,14 +66,11 @@ STT,漢字,音（漢越）,読み方,意味
 3730,斜面,TÀ DIỆN,しゃめん,mặt nghiêng
 3731,斜線,TÀ TUYẾN,しゃせん,"đường xiên, đường chéo"
 3732,取材,THỦ TÀI,しゅざい,lấy tin tức
-3733,取得,THỦ ĐẮC,しゅとく,"thu được, nhận được"
-3734,修行,TU HÀNH,しゅぎょう,"tu nghiệp, tu hành"
 3735,修業,TU NGHIỆP,しゅぎょう,tu nghiệp
 3736,首脳,THỦ NÃO,しゅのう,"đầu não, người đứng đầu"
-3737,首相,THỦ TƯỚNG,しゅしょう,thủ tướng
 3738,首位,THỦ VỊ,しゅい,vị trí đứng đầu
 3739,首席,THỦ TỊCH,しゅせき,thủ khoa
-3740,手芸,THỦ NGHỆ,しゅげい,thủ công (thêu thùa | đan lát...)
+3740,手芸,THỦ NGHỆ,しゅげい,"thủ công (thêu thùa, đan lát...)"
 3741,手法,THỦ PHÁP,しゅほう,"kĩ xảo, cách làm (tác phẩm nghệ thuật)"
 3742,手話,THỦ THOẠI,しゅわ,"ra dấu, ngôn ngữ kí hiệu"
 3743,守備,THỦ BỊ,しゅび,"bảo vệ, trấn thủ"
@@ -121,7 +95,6 @@ STT,漢字,音（漢越）,読み方,意味
 3762,過多,QUÁ ĐA,かた,quá nhiều
 3763,最多,TỐI ĐA,さいた,nhiều nhất
 3764,雑多,TẠP ĐA,ざった,pha tạp
-3765,妥協,THỎA HIỆP,だきょう,thỏa hiệp
 3766,妥結,THỎA KẾT,だけつ,thỏa thuận
 3767,妥当,THỎA ĐƯƠNG,だとう,"thỏa đáng, chính đáng"
 3768,地形,ĐỊA HÌNH,ちけい,địa hình
@@ -129,13 +102,11 @@ STT,漢字,音（漢越）,読み方,意味
 3770,知性,TRI TÍNH,ちせい,"trí năng, sự hiểu biết"
 3771,知覚,TRI GIÁC,ちかく,"nhận biết được, nhận thức"
 3772,知力,TRI LỰC,ちりょく,năng lực hiểu biết
-3773,治安,TRỊ AN,ちあん,trị an
 3774,治療,TRỊ LIỆU,ちりょう,điều trị
 3775,治癒,TRỊ DŨ,ちゆ,chữa trị
 3776,派遣,PHÁI CỬ,はけん,phái cử
 3777,派生,PHÁI SINH,はせい,"phái sinh, bắt nguồn từ"
 3778,派閥,PHÁI PHIỆT,はばつ,bè phái
-3779,避難,TỊ NẠN,ひなん,"lánh nạn, tị nạn"
 3780,避暑,TỊ THỬ,ひしょ,tránh nóng
 3781,非難,PHI NẠN,ひなん,"chỉ trích, phê bình"
 3782,非行,PHI HÀNH,ひこう,"việc làm xấu xa, hành vi không tốt"
@@ -155,8 +126,6 @@ STT,漢字,音（漢越）,読み方,意味
 3796,普遍,PHỔ BIẾN,ふへん,"phổ quát, phổ biến"
 3797,付録,PHÓ LỤC,ふろく,phụ lục
 3798,付随,PHÓ TÙY,ふずい,kèm theo
-3799,負担,PHỤ ĐẢM,ふたん,gánh vác
-3800,負傷,PHỤ THƯƠNG,ふしょう,bị thương
 3801,負債,PHỤ TRÁI,ふさい,mắc nợ
 3802,浮力,PHÙ LỰC,ふりょく,"sức nổi, lực nổi"
 3803,浮上,PHÙ THƯỢNG,ふじょう,"nổi lên, lên hạng, nổi bật"
@@ -175,9 +144,7 @@ STT,漢字,音（漢越）,読み方,意味
 3816,摩擦,MA SÁT,まさつ,ma sát
 3817,麻痺,MA TÝ,まひ,tê liệt
 3818,麻酔,MA TÚY,ますい,"thuốc gây mê, gây tê"
-3819,麻薬,MA DƯỢC,まやく,ma túy
 3820,魅力,MỊ LỰC,みりょく,sức quyến rũ
-3821,魅了,MỊ LIỄU,みりょう,"lôi cuốn, cuốn hút"
 3822,魅惑,MỊ HOẶC,みわく,"quyến rũ, mê hoặc"
 3823,与党,DỮ ĐẢNG,よとう,đảng cầm quyền
 3824,預金,DỰ KIM,よきん,tiền gửi ngân hàng

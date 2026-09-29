@@ -1,29 +1,20 @@
 STT,漢字,音（漢越）,読み方,意味
-3341,機関,CƠ QUAN,きかん,cơ quan
-3342,機器,CƠ KHÍ,きき,"thiết bị, máy móc"
 3343,機構,CƠ CẤU,きこう,cơ cấu
 3344,機材,CƠ TÀI,きざい,máy móc và thiết bị
 3345,機種,CƠ CHỦNG,きしゅ,loại máy
 3346,機密,CƠ MẬT,きみつ,"cơ mật, bí mật quan trọng"
-3347,危機,NGUY CƠ,きき,khủng hoảng
 3348,時機,THỜI CƠ,じき,"cơ hội, thời cơ"
 3349,転機,CHUYỂN CƠ,てんき,bước ngoặt
 3350,投機,ĐẦU CƠ,とうき,đầu cơ
 3351,動機,ĐỘNG CƠ,どうき,động cơ
-3352,下記,HẠ KÍ,かき,"viết phía dưới, dưới đây"
-3353,手記,THỦ KÍ,しゅき,tự ghi chép (kinh nghiệm | cảm tưởng)
-3354,上記,THƯỢNG KÍ,じょうき,"viết bên trên, trên đây"
+3353,手記,THỦ KÍ,しゅき,"tự ghi chép (kinh nghiệm, cảm tưởng)"
 3355,伝記,TRUYỀN KÍ,でんき,tiểu sử
 3356,簿記,BỘ KÍ,ぼき,làm sổ sách
-3357,記載,KÍ TÀI,きさい,"ghi chép, viết"
 3358,記述,KÍ THUẬT,きじゅつ,viết mô tả
 3359,記帳,KÍ TRƯỚNG,きちょう,"viết vào sổ, đăng kí vào sổ"
-3360,記名,KÍ DANH,きめい,"điền tên, kí tên"
-3361,暗記,ÁM KÍ,あんき,thuộc lòng
 3362,登記,ĐĂNG KÍ,とうき,đăng kí
 3363,帰化,QUY HÓA,きか,"nhập quốc tịch, du nhập"
 3364,帰京,QUY KINH,ききょう,"về kinh đô, về Tokyo"
-3365,帰省,QUY TỈNH,きせい,về quê
 3366,帰属,QUY THUỘC,きぞく,thuộc về
 3367,回帰,HỒI QUY,かいき,"hồi quy, quay trở lại"
 3368,復帰,PHỤC QUY,ふっき,"khôi phục, trở lại trạng thái ban đầu"
@@ -56,20 +47,16 @@ STT,漢字,音（漢越）,読み方,意味
 3395,資格,TƯ CÁCH,しかく,"tư cách, năng lực, bằng cấp"
 3396,資金,TƯ KIM,しきん,tiền vốn
 3397,資材,TƯ TÀI,しざい,"vật liệu, nguyên liệu"
-3398,資産,TƯ SẢN,しさん,"tài sản, của cải"
 3399,資質,TƯ CHẤT,ししつ,"tư chất, tài năng bẩm sinh"
 3400,資本,TƯ BẢN,しほん,"tư bản, vốn"
-3401,資料,TƯ LIỆU,しりょう,tư liệu
 3402,物資,VẬT TƯ,ぶっし,"vật tư, nguồn cung"
 3403,増資,TĂNG TƯ,ぞうし,tăng vốn
-3404,投資,ĐẦU TƯ,とうし,đầu tư
 3405,指針,CHỈ CHÂM,ししん,"hướng dẫn, chỉ đạo, phương châm"
 3406,指紋,CHỈ VĂN,しもん,dấu vân tay
 3407,指揮,CHỈ HUY,しき,chỉ huy
 3408,指摘,CHỈ TRÍCH,してき,chỉ trích
 3409,指名,CHỈ DANH,しめい,"chỉ định, bổ nhiệm"
 3410,指令,CHỈ LỆNH,しれい,"chỉ thị, mệnh lệnh"
-3411,指図,CHỈ ĐỒ,さしず,"chỉ dẫn, ra lệnh"
 3412,死因,TỬ NHÂN,しいん,nguyên nhân chết
 3413,死角,TỬ GIÁC,しかく,"góc chết, phạm vi không nhìn thấy"
 3414,死刑,TỬ HÌNH,しけい,tử hình
@@ -86,8 +73,6 @@ STT,漢字,音（漢越）,読み方,意味
 3425,時期,THỜI KỲ,じき,thời kì
 3426,時給,THỜI CẤP,じきゅう,lương theo giờ
 3427,時効,THỜI HIỆU,じこう,"thời hiệu, thời hạn hiệu lực"
-3428,時差,THỜI SAI,じさ,chênh lệch giờ
-3429,時点,THỜI ĐIỂM,じてん,thời điểm
 3430,瞬時,THUẤN THỜI,しゅんじ,"khoảnh khắc, trong nháy mắt"
 3431,常時,THƯỜNG THỜI,じょうじ,"luôn luôn, thường thường"
 3432,随時,TÙY THỜI,ずいじ,bất cứ lúc nào
@@ -95,29 +80,20 @@ STT,漢字,音（漢越）,読み方,意味
 3434,当時,ĐƯƠNG THỜI,とうじ,lúc bấy giờ
 3435,事業,SỰ NGHIỆP,じぎょう,"công việc, hoạt động kinh doanh"
 3436,事後,SỰ HẬU,じご,xảy ra sau đó
-3437,事項,SỰ HẠNG,じこう,"điều khoản, mục"
-3438,事情,SỰ TÌNH,じじょう,"sự tình, lý do"
-3439,事前,SỰ TIỀN,じぜん,trước khi (xảy ra | tiến hành)
-3440,事態,SỰ THÁI,じたい,tình hình
+3439,事前,SỰ TIỀN,じぜん,"trước khi (xảy ra, tiến hành)"
 3441,事例,SỰ LỆ,じれい,trường hợp
 3442,刑事,HÌNH SỰ,けいじ,hình sự
 3443,人事,NHÂN SỰ,じんじ,nhân sự
 3444,知事,TRI SỰ,ちじ,người đứng đầu tỉnh thành
 3445,判事,PHÁN SỰ,はんじ,"phán xét, quan tòa, thẩm phán"
 3446,自我,TỰ NGÃ,じが,tự mình
-3447,自己,TỰ KỈ,じこ,tự mình
-3448,自体,TỰ THỂ,じたい,tự bản thân
 3449,自伝,TỰ TRUYỀN,じでん,"hồi kí, tự truyện"
-3450,自費,TỰ PHÍ,じひ,tự trả tiền
-3451,自力,TỰ LỰC,じりき,tự lực
-3452,各自,CÁC TỰ,かくじ,"từng cái, mỗi cá nhân"
 3453,独自,ĐỘC TỰ,どくじ,"độc đáo, khác biệt"
 3454,自営,TỰ DOANH,じえい,tự kinh doanh
 3455,自覚,TỰ GIÁC,じかく,tự giác
 3456,自活,TỰ HOẠT,じかつ,sống độc lập
 3457,自首,TỰ THỦ,じしゅ,tự thú
 3458,自粛,TỰ TÚC,じしゅく,cẩn thận lời nói việc làm
-3459,自炊,TỰ XUY,じすい,tự nấu
 3460,自制,TỰ CHẾ,じせい,tự kiềm chế
 3461,自重,TỰ TRỌNG,じちょう,tự trọng
 3462,自転,TỰ CHUYỂN,じてん,"tự xoay chuyển, luân chuyển"
@@ -126,7 +102,6 @@ STT,漢字,音（漢越）,読み方,意味
 3465,自負,TỰ PHỤ,じふ,"tự phụ, kiêu ngạo"
 3466,自慢,TỰ MẠN,じまん,tự mãn
 3467,自滅,TỰ DIỆT,じめつ,"tự diệt, tự tử"
-3468,自立,TỰ LẬP,じりつ,tự lập
 3469,樹氷,THỤ BĂNG,じゅひょう,sương muối
 3470,樹木,THỤ MỘC,じゅもく,lùm cây
 3471,樹林,THỤ LÂM,じゅりん,"rừng, thảm rừng"
