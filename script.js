@@ -51,7 +51,7 @@ function parseCsv(text) {
 }
 
 async function loadManifest() {
-  const res = await fetch(MANIFEST_URL);
+  const res = await fetch(MANIFEST_URL, { cache: "no-cache" });
   MANIFEST = await res.json();
   return MANIFEST;
 }
@@ -62,7 +62,7 @@ async function loadChapter(num) {
   const meta = MANIFEST.chapters.find((c) => c.num === num);
   if (!meta) return [];
 
-  const res = await fetch(DATA_DIR + meta.file);
+  const res = await fetch(DATA_DIR + meta.file, { cache: "no-cache" });
   const text = await res.text();
   const rows = parseCsv(text).filter((r) => r.length >= 5 && r[0] !== "");
   rows.shift(); // header
