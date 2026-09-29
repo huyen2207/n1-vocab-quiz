@@ -1,7 +1,6 @@
 STT,漢字,音（漢越）,読み方,意味
 6110,激情,KÍCH TÌNH,げきじょう,"tình cảm dâng trào, cảm xúc mãnh liệt"
 6111,過激,QUÁ KÍCH,かげき,"quá khích, cực đoan"
-6112,急激,CẤP KÍCH,きゅうげき,nhanh và mãnh liệt
 6113,激減,KÍCH GIẢM,げきげん,giảm đột ngột
 6114,激怒,KÍCH NỘ,げきど,"rất tức giận, nổi xung"
 6115,激動,KÍCH ĐỘNG,げきどう,chuyển động đột ngột
@@ -13,7 +12,6 @@ STT,漢字,音（漢越）,読み方,意味
 6121,敵意,ĐỊCH Ý,てきい,lòng thù địch
 6122,宿敵,TÚC ĐỊCH,しゅくてき,kẻ thù truyền kiếp
 6123,素敵,TỐ ĐỊCH,すてき,dễ thương
-6124,無敵,VÔ ĐỊCH,むてき,"không địch thủ, không có đối thủ"
 6125,敵視,ĐỊCH THỊ,てきし,coi như kẻ thù
 6126,敵対,ĐỊCH ĐỐI,てきたい,"đối địch, đối kháng"
 6127,匹敵,THẤT ĐỊCH,ひってき,"ngang tài ngang sức, sánh ngang"
@@ -28,7 +26,6 @@ STT,漢字,音（漢越）,読み方,意味
 6136,格子,CÁCH TỬ,こうし,"đường kẻ ô, mắt lưới"
 6137,規格,QUY CÁCH,きかく,quy cách
 6138,骨格,CỐT CÁCH,こっかく,"khung xương, phần khung, dàn bài"
-6139,人格,NHÂN CÁCH,じんかく,nhân cách
 6140,体格,THỂ CÁCH,たいかく,"khổ người, tầm vóc"
 6141,破格,PHÁ CÁCH,はかく,phá cách
 6142,品格,PHẨM CÁCH,ひんかく,phẩm giá
@@ -49,10 +46,7 @@ STT,漢字,音（漢越）,読み方,意味
 6157,告示,CÁO THỊ,こくじ,cáo thị
 6158,告訴,CÁO TỐ,こくそ,tố cáo
 6159,告知,CÁO TRI,こくち,thông cáo
-6160,告白,CÁO BẠCH,こくはく,"tỏ tình, thú nhận, bố cáo"
 6161,告発,CÁO PHÁT,こくはつ,tố cáo
-6162,申告,THÂN CÁO,しんこく,khai báo
-6163,忠告,TRUNG CÁO,ちゅうこく,khuyên bảo
 6164,通告,THÔNG CÁO,つうこく,thông cáo
 6165,密告,MẬT CÁO,みっこく,cáo mật
 6166,国営,QUỐC DOANH,こくえい,quốc doanh
@@ -66,16 +60,12 @@ STT,漢字,音（漢越）,読み方,意味
 6174,諸国,CHƯ QUỐC,しょこく,các nước
 6175,母国,MẪU QUỐC,ぼこく,đất nước tôi
 6176,本国,BỔN QUỐC,ほんごく,"quê hương, tổ quốc, đất nước mình"
-6177,職員,CHỨC VIÊN,しょくいん,viên chức
-6178,職種,CHỨC CHỦNG,しょくしゅ,loại hình nghề nghiệp
 6179,職人,CHỨC NHÂN,しょくにん,"thợ thủ công, nghệ nhân"
 6180,職務,CHỨC VỤ,しょくむ,chức vụ
 6181,職歴,CHỨC LỊCH,しょくれき,quá trình làm việc
 6182,天職,THIÊN CHỨC,てんしょく,thiên chức
 6183,在職,TẠI CHỨC,ざいしょく,"tại chức, nắm giữ chức vụ"
 6184,辞職,TỪ CHỨC,じしょく,từ chức
-6185,退職,THOÁI CHỨC,たいしょく,nghỉ việc
-6186,転職,CHUYỂN CHỨC,てんしょく,đổi việc
 6187,即日,TỨC NHẬT,そくじつ,"ngay ngày hôm đó, ngay bữa đó"
 6188,即席,TỨC TỊCH,そくせき,"ngay, liền lập tức (không chuẩn bị trước)"
 6189,即刻,TỨC KHẮC,そっこく,"tức khắc, tức thì"
@@ -100,7 +90,6 @@ STT,漢字,音（漢越）,読み方,意味
 6208,密着,MẬT TRỨ,みっちゃく,dính chặt
 6209,落着,LẠC TRỨ,らくちゃく,"giải quyết, dàn xếp ổn thỏa"
 6210,直射,TRỰC XẠ,ちょくしゃ,"chiếu thẳng, bắn thẳng"
-6211,直接,TRỰC TIẾP,ちょくせつ,trực tiếp
 6212,直属,TRỰC THUỘC,ちょくぞく,trực thuộc
 6213,直売,TRỰC MẠI,ちょくばい,bán trực tiếp (không qua trung gian)
 6214,宿直,TÚC TRỰC,しゅくちょく,thức đêm trực
@@ -124,20 +113,15 @@ STT,漢字,音（漢越）,読み方,意味
 6232,独特,ĐỘC ĐẶC,どくとく,độc đáo
 6233,独力,ĐỘC LỰC,どくりょく,sức lực của bản thân
 6234,独善的,ĐỘC THIỆN ĐÍCH,どくぜんてき,"tự cho mình đúng, tự mãn, độc đoán"
-6235,孤独,CÔ ĐỘC,こどく,cô độc
 6236,単独,ĐƠN ĐỘC,たんどく,đơn độc
-6237,独占,ĐỘC CHIẾM,どくせん,độc chiếm
 6238,独白,ĐỘC BẠCH,どくはく,"độc thoại, tự nói một mình"
 6239,白紙,BẠCH CHỈ,はくし,"giấy trắng, để giấy trắng"
 6240,白書,BẠCH THƯ,はくしょ,sách trắng
-6241,白髪,BẠCH PHÁT,はくはつ,"tóc trắng, tóc bạc"
 6242,空白,KHÔNG BẠCH,くうはく,chỗ trống
 6243,潔白,KHIẾT BẠCH,けっぱく,trong sạch
 6244,白状,BẠCH TRẠNG,はくじょう,"thú nhận, bản xưng tội"
 6245,白熱,BẠCH NHIỆT,はくねつ,"nóng sáng, nóng trắng"
-6246,告白,CÁO BẠCH,こくはく,"tỏ tình, thú nhận, bố cáo"
 6247,爆音,BẠO ÂM,ばくおん,tiếng nổ
-6248,爆弾,BẠO ĐÀN,ばくだん,"bom mìn, đạn dược, xôn xao dư luận"
 6249,爆竹,BẠO TRÚC,ばくちく,mồi nổ
 6250,爆薬,BẠO DƯỢC,ばくやく,"thuốc nổ, đạn dược"
 6251,空爆,KHÔNG BẠO,くうばく,"không kích, ném bom trên không"
